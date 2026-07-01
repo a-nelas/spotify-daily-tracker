@@ -99,7 +99,7 @@
 <div class="wrap">
   <h1>Spotify Daily Charts<span class="dot">.</span></h1>
   <div class="sub">
-    Daily top songs from <a href="https://charts.spotify.com/charts/overview/global" target="_blank" rel="noopener">charts.spotify.com</a>
+    Daily top songs from <a href="https://kworb.net/spotify/" target="_blank" rel="noopener">kworb.net</a>
     &middot; click any song to play it on Spotify
   </div>
 
@@ -113,11 +113,11 @@
 
   <div class="cards">
     <div class="card">
-      <h2>🆕 New entries</h2>
+      <h2>New entries</h2>
       <div id="new-entries"></div>
     </div>
     <div class="card">
-      <h2>🚀 Highest climbers</h2>
+      <h2>Highest climbers</h2>
       <div id="climbers"></div>
     </div>
   </div>
@@ -161,8 +161,7 @@ function renderCards(data, climberIds) {
   if (data.new_entries.length) {
     newBox.innerHTML = "<ul>" + data.new_entries.map((e) =>
       `<li>#${e.rank} ${trackLink(e)} <span class="who">— ${esc(e.artists.join(", "))}</span>` +
-      (e.change.status === "re-entry" ? ' <span class="badge re">RE</span>' : ' <span class="badge new">NEW</span>') +
-      `</li>`).join("") + "</ul>";
+      ` <span class="badge new">NEW</span></li>`).join("") + "</ul>";
   } else {
     newBox.innerHTML = `<div class="none">No new entries today.</div>`;
   }
@@ -214,8 +213,12 @@ function renderTable(data, climberIds) {
 function render(data) {
   $("meta").textContent =
     `${data.label} — chart date ${data.chart_date} · ${data.entry_count} entries · source: ${data.source_mode}`;
+  // top_climbers is ordered by rank reached; highlight the 5 biggest climbs
   const climberIds = new Set(
-    data.top_climbers.slice(0, CLIMBER_HIGHLIGHTS).map((e) => e.track_id));
+    [...data.top_climbers]
+      .sort((a, b) => b.change.delta - a.change.delta)
+      .slice(0, CLIMBER_HIGHLIGHTS)
+      .map((e) => e.track_id));
   renderCards(data, climberIds);
   renderTable(data, climberIds);
 }

@@ -2,7 +2,7 @@ name: Update Spotify chart data
 
 on:
   schedule:
-    # Daily at 08:15 UTC. Spotify's daily charts refresh overnight (UTC);
+    # Daily at 08:15 UTC. kworb's daily charts refresh overnight;
     # adjust the cron if you want a different time.
     - cron: "15 8 * * *"
   workflow_dispatch: {}   # lets you trigger it manually from the Actions tab
@@ -28,11 +28,6 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Fetch charts
-        env:
-          # Optional: set this repo secret to your Spotify sp_dc cookie to get
-          # the official top-200 CSVs from charts.spotify.com. Without it, the
-          # tracker uses the anonymous Top 50 chart playlists.
-          SP_DC: ${{ secrets.SP_DC }}
         run: python scripts/fetch_charts.py
 
       - name: Commit updated data

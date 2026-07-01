@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Global Daily — Spotify Chart Tracker</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0b0b0f;
+    --bg-raised: #131318;
+    --line: #232329;
+    --text: #edeef2;
+    --text-dim: #8c8c96;
+    --up: #c6ff3d;
+    --down: #ff5a5f;
+    --new: #8b7fff;
+    --same: #4a4a52;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Inter', sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+  .ticker {
+    background: var(--bg-raised);
+    border-bottom: 1px solid var(--line);
+    overflow: hidden;
+    white-space: nowrap;
+    padding: 8px 0;
+  }
+  .ticker span {
+    display: inline-block;
+    padding-left: 100%;
+    animation: scroll 40s linear infinite;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 12px;
+    color: var(--text-dim);
+    letter-spacing: 0.03em;
+  }
+  @keyframes scroll {
+    0% { transform: translateX(0); }
+    100% { transform: translateX(-100%); }
+  }
+  header {
+    max-width: 1080px;
+    margin: 0 auto;
+    padding: 56px 24px 32px;
+  }
+  .eyebrow {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 12px;
+    color: var(--up);
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    margin-bottom: 12px;
+  }
+  h1 {
+    font-family: 'Archivo Black', sans-serif;
+    font-size: clamp(32px, 6vw, 56px);
+    line-height: 1.02;
+    margin: 0 0 12px;
+    letter-spacing: -0.01em;
+  }
+  .subhead {
+    color: var(--text-dim);
+    font-size: 15px;
+    max-width: 60ch;
+  }
+  .subhead a { color: var(--text); }
+  .meta-row {
+    display: flex;
+    gap: 24px;
+    margin-top: 28px;
+    flex-wrap: wrap;
+  }
+  .meta-chip {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 13px;
+    color: var(--text-dim);
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    padding: 6px 14px;
+  }
+  main {
+    max-width: 1080px;
+    margin: 0 auto;
+    padding: 0 24px 80px;
+  }
+  .strip-section {
+    margin-bottom: 48px;
+  }
+  .strip-title {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 13px;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    color: var(--text-dim);
+    margin-bottom: 14px;
+  }
+  .strip {
+    display: flex;
+    gap: 12px;
+    overflow-x: auto;
+    padding-bottom: 8px;
+    scrollbar-width: thin;
+  }
+  .strip-card {
+    flex: 0 0 auto;
+    width: 240px;
+    background: var(--bg-raised);
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    padding: 16px;
+  }
+  .strip-card .pos {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 12px;
+    color: var(--text-dim);
+  }
+  .strip-card .title {
+    font-weight: 600;
+    font-size: 14px;
+    margin: 6px 0 2px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  .strip-card .artist {
+    font-size: 13px;
+    color: var(--text-dim);
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  .badge {
+    display: inline-block;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 12px;
+    font-weight: 700;
+    padding: 2px 8px;
+    border-radius: 5px;
+    margin-top: 10px;
+  }
+  .badge.up { color: #0b0b0f; background: var(--up); }
+  .badge.down { color: #0b0b0f; background: var(--down); }
+  .badge.new { color: #0b0b0f; background: var(--new); }
+  .badge.same { color: var(--text-dim); background: transparent; border: 1px solid var(--line); }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 14px;
+  }
+  thead th {
+    text-align: left;
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--text-dim);
+    padding: 10px 12px;
+    border-bottom: 1px solid var(--line);
+    position: sticky;
+    top: 0;
+    background: var(--bg);
+    cursor: pointer;
+    user-select: none;
+  }
+  thead th:hover { color: var(--text); }
+  tbody td {
+    padding: 12px;
+    border-bottom: 1px solid var(--line);
+    vertical-align: middle;
+  }
+  tbody tr:hover { background: var(--bg-raised); }
+  .pos-cell {
+    font-family: 'JetBrains Mono', monospace;
+    font-weight: 700;
+    font-size: 16px;
+    width: 40px;
+  }
+  .track-cell .t-title { font-weight: 600; }
+  .track-cell .t-artist { color: var(--text-dim); font-size: 13px; }
+  .track-cell a { color: inherit; text-decoration: none; }
+  .track-cell a:hover { text-decoration: underline; }
+  .num-cell {
+    font-family: 'JetBrains Mono', monospace;
+    text-align: right;
+    color: var(--text-dim);
+    white-space: nowrap;
+  }
+  footer {
+    max-width: 1080px;
+    margin: 0 auto;
+    padding: 0 24px 60px;
+    color: var(--text-dim);
+    font-size: 13px;
+  }
+  footer a { color: var(--text-dim); }
+  .loading, .error {
+    max-width: 1080px;
+    margin: 40px auto;
+    padding: 0 24px;
+    color: var(--text-dim);
+    font-family: 'JetBrains Mono', monospace;
+  }
+  @media (max-width: 640px) {
+    .num-cell.hide-mobile, thead th.hide-mobile { display: none; }
+  }
+</style>
+</head>
+<body>
+
+<div class="ticker"><span id="ticker-text">Loading chart feed…</span></div>
+
+<header>
+  <div class="eyebrow">Updated daily via GitHub Actions</div>
+  <h1>Global Daily<br>Streaming Ledger</h1>
+  <p class="subhead">
+    A scraped, versioned mirror of Spotify's Global Daily chart from
+    <a href="https://kworb.net/spotify/country/global_daily.html" target="_blank" rel="noopener">kworb.net</a>.
+    Every entry, every day, tracked in a git history you can diff.
+  </p>
+  <div class="meta-row" id="meta-row"></div>
+</header>
+
+<main>
+  <div class="loading" id="status">fetching data.json…</div>
+  <div id="content" style="display:none;">
+
+    <div class="strip-section">
+      <div class="strip-title">New entries today</div>
+      <div class="strip" id="new-strip"></div>
+    </div>
+
+    <div class="strip-section">
+      <div class="strip-title">Biggest climbers</div>
+      <div class="strip" id="climb-strip"></div>
+    </div>
+
+    <div class="strip-section">
+      <div class="strip-title">Full chart</div>
+      <table>
+        <thead>
+          <tr>
+            <th data-key="pos">Pos</th>
+            <th>Track</th>
+            <th data-key="change" class="hide-mobile">Chg</th>
+            <th data-key="streams" style="text-align:right">Streams</th>
+            <th data-key="seven_day" class="hide-mobile" style="text-align:right">7-Day</th>
+            <th data-key="total_streams" class="hide-mobile" style="text-align:right">Total</th>
+          </tr>
+        </thead>
+        <tbody id="chart-body"></tbody>
+      </table>
+    </div>
+
+  </div>
+</main>
+
+<footer>
+  Source data belongs to kworb.net / Spotify. This project only mirrors publicly
+  visible chart positions for personal, non-commercial tracking.
+  <br>
+  <a href="https://github.com/" target="_blank" rel="noopener">View source on GitHub</a>
+</footer>
+
+<script>
+let currentData = null;
+let sortKey = 'pos';
+let sortAsc = true;
+
+function fmt(n) {
+  if (n === null || n === undefined) return '—';
+  return n.toLocaleString('en-US');
+}
+
+function changeBadge(change) {
+  if (!change) return '';
+  if (change.status === 'new') return '<span class="badge new">NEW</span>';
+  if (change.status === 're-entry') return '<span class="badge new">RE</span>';
+  if (change.status === 'same') return '<span class="badge same">—</span>';
+  if (change.status === 'moved') {
+    const cls = change.delta > 0 ? 'up' : 'down';
+    const sign = change.delta > 0 ? '▲' : '▼';
+    return `<span class="badge ${cls}">${sign} ${Math.abs(change.delta)}</span>`;
+  }
+  return '<span class="badge same">?</span>';
+}
+
+function renderStripCard(e) {
+  return `
+    <div class="strip-card">
+      <div class="pos">#${e.pos}</div>
+      <div class="title">${e.title || '—'}</div>
+      <div class="artist">${e.artist || ''}</div>
+      ${changeBadge(e.change)}
+    </div>
+  `;
+}
+
+function renderTable() {
+  const body = document.getElementById('chart-body');
+  let entries = [...currentData.entries];
+  entries.sort((a, b) => {
+    let av = a[sortKey], bv = b[sortKey];
+    if (sortKey === 'change') { av = a.change.delta ?? 0; bv = b.change.delta ?? 0; }
+    if (av === null) av = -Infinity;
+    if (bv === null) bv = -Infinity;
+    return sortAsc ? av - bv : bv - av;
+  });
+
+  body.innerHTML = entries.map(e => `
+    <tr>
+      <td class="pos-cell">${e.pos}</td>
+      <td class="track-cell">
+        <div class="t-title"><a href="${e.track_url || '#'}" target="_blank" rel="noopener">${e.title || '—'}</a></div>
+        <div class="t-artist"><a href="${e.artist_url || '#'}" target="_blank" rel="noopener">${e.artist || '—'}</a>${e.featured.length ? ' (w/ ' + e.featured.join(', ') + ')' : ''}</div>
+      </td>
+      <td class="hide-mobile">${changeBadge(e.change)}</td>
+      <td class="num-cell">${fmt(e.streams)}</td>
+      <td class="num-cell hide-mobile">${fmt(e.seven_day)}</td>
+      <td class="num-cell hide-mobile">${fmt(e.total_streams)}</td>
+    </tr>
+  `).join('');
+}
+
+document.querySelectorAll('thead th[data-key]').forEach(th => {
+  th.addEventListener('click', () => {
+    const key = th.dataset.key;
+    if (sortKey === key) { sortAsc = !sortAsc; } else { sortKey = key; sortAsc = true; }
+    renderTable();
+  });
+});
+
+fetch('./data.json?_=' + Date.now())
+  .then(r => {
+    if (!r.ok) throw new Error('data.json not found yet (HTTP ' + r.status + ')');
+    return r.json();
+  })
+  .then(data => {
+    currentData = data;
+    document.getElementById('status').style.display = 'none';
+    document.getElementById('content').style.display = 'block';
+
+    document.getElementById('meta-row').innerHTML = `
+      <span class="meta-chip">Chart date: ${data.chart_date}</span>
+      <span class="meta-chip">${data.entry_count} tracks</span>
+      <span class="meta-chip">${data.new_entries.length} new</span>
+      <span class="meta-chip">Refreshed ${new Date(data.generated_at).toUTCString()}</span>
+    `;
+
+    const tickerItems = data.top_climbers.slice(0, 8)
+      .map(e => `${e.title} ▲${e.change.delta}`)
+      .concat(data.new_entries.slice(0, 5).map(e => `${e.title} NEW`));
+    document.getElementById('ticker-text').textContent = tickerItems.join('    •    ') || 'No movement data for this snapshot';
+
+    document.getElementById('new-strip').innerHTML =
+      data.new_entries.length ? data.new_entries.map(renderStripCard).join('') : '<span style="color:var(--text-dim); font-size:13px;">No new entries today.</span>';
+
+    document.getElementById('climb-strip').innerHTML =
+      data.top_climbers.length ? data.top_climbers.map(renderStripCard).join('') : '<span style="color:var(--text-dim); font-size:13px;">No climbers today.</span>';
+
+    renderTable();
+  })
+  .catch(err => {
+    document.getElementById('status').className = 'error';
+    document.getElementById('status').textContent =
+      'Could not load data.json — ' + err.message + '. Run the "Update Spotify chart data" GitHub Action once (Actions tab → Run workflow) to generate it.';
+  });
+</script>
+
+</body>
+</html>

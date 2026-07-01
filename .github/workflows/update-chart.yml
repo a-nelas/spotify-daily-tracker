@@ -1,0 +1,39 @@
+name: Update Spotify chart data
+
+on:
+  schedule:
+    # Runs at 08:15 UTC every day. kworb's daily chart usually
+    # refreshes overnight, adjust the cron if you want a different time.
+    - cron: "15 8 * * *"
+  workflow_dispatch: {}   # lets you trigger it manually from the Actions tab
+  push:
+    branches: [main]      # also run on push so first-time setup produces data.json
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scraper
+        run: python scripts/scrape.py
+
+      - name: Commit updated data
+        run: |
+          git config user.name "chart-bot"
+          git config user.email "chart-bot@users.noreply.github.com"
+          git add docs/data.json docs/data/history/*.json
+          git diff --cached --quiet || git commit -m "Update chart data $(date -u +%Y-%m-%d)"
+          git push

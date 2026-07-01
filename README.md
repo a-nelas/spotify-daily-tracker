@@ -1,8 +1,9 @@
 # Spotify Daily Charts — Tracker
 
-Tracks Spotify's official daily charts for **Global, United States, Japan and
-South Korea** with a daily GitHub Actions cron job, commits the results as
-JSON, and displays them on a GitHub Pages site with one tab per region.
+Tracks the Spotify Daily charts for **Global, United States, Japan and South
+Korea** (as published by [kworb.net](https://kworb.net/spotify/)) with a daily
+GitHub Actions cron job, commits the results as JSON, and displays them on a
+GitHub Pages site with one tab per region.
 
 Every entry is clickable and plays the song on Spotify. New entries and the
 highest climbers of the day are highlighted.
@@ -10,51 +11,28 @@ highest climbers of the day are highlighted.
 ## How it works
 
 ```
-GitHub Actions (cron)  --fetches-->  docs/data/<region>.json  --served by-->  GitHub Pages
+GitHub Actions (cron)  --scrapes-->  docs/data/<region>.json  --served by-->  GitHub Pages
         |                                     |
         v                                     v
  scripts/fetch_charts.py       docs/data/history/<region>/YYYY-MM-DD.json
 ```
 
-- **`scripts/fetch_charts.py`** fetches the daily chart for each region and
-  writes one JSON snapshot per region, plus a dated archive copy.
-- **`.github/workflows/update-charts.yml`** runs the fetcher on a schedule,
+- **`scripts/fetch_charts.py`** scrapes the four kworb daily chart pages and
+  writes one JSON snapshot per region, plus a dated archive copy:
+  - [Global](https://kworb.net/spotify/country/global_daily.html)
+  - [United States](https://kworb.net/spotify/country/us_daily.html)
+  - [Japan](https://kworb.net/spotify/country/jp_daily.html)
+  - [South Korea](https://kworb.net/spotify/country/kr_daily.html)
+- **`.github/workflows/update-charts.yml`** runs the scraper on a schedule,
   then commits and pushes any changed files.
 - **`docs/index.html`** is a static page with four tabs (Global / US / Japan /
   South Korea) that fetches the per-region JSON and renders the chart. GitHub
   Pages serves this folder directly — no build step.
 
-## Data source: two modes
-
-The tracker targets the charts you see at
-[charts.spotify.com](https://charts.spotify.com/charts/view/regional-global-daily/latest)
-(also [US](https://charts.spotify.com/charts/view/regional-us-daily/latest),
-[Japan](https://charts.spotify.com/charts/view/regional-jp-daily/latest),
-[South Korea](https://charts.spotify.com/charts/view/regional-kr-daily/latest)).
-
-Spotify gates the CSV download on that site behind a login, so the fetcher
-supports two modes:
-
-1. **Official CSV (top 200)** — used when the `SP_DC` secret is configured
-   (see below). Downloads the same CSV as the site's "download" button, which
-   includes previous rank, peak rank, days on chart, and stream counts.
-2. **Anonymous fallback (top 50)** — used otherwise. Fetches Spotify's
-   official "Top 50" daily chart playlists (the same charts data) through the
-   public embed pages, no credentials needed. Rank movement is computed by
-   comparing against the previous day's archived snapshot, so movement badges
-   appear from the second run onward.
-
-### Enabling official CSV mode (optional)
-
-1. Log in to [open.spotify.com](https://open.spotify.com) in your browser.
-2. Open DevTools → Application/Storage → Cookies → `https://open.spotify.com`
-   and copy the value of the **`sp_dc`** cookie.
-3. In your GitHub repo: **Settings → Secrets and variables → Actions →
-   New repository secret**, name it `SP_DC`, paste the value.
-
-The cookie is long-lived (~1 year) but does expire; when it does, the fetcher
-logs a warning and automatically falls back to anonymous mode, so the site
-keeps updating either way.
+kworb's chart table already includes rank movement (`NEW` / `RE` / `+n` /
+`-n`), streams, peak and days on chart, and its track links are named after
+the Spotify track ID — that's how every row gets a working
+`open.spotify.com/track/…` play link.
 
 ## Setup
 
@@ -80,9 +58,7 @@ keeps updating either way.
 
 ```bash
 pip install -r requirements.txt
-python scripts/fetch_charts.py          # anonymous mode
-# or, for official CSV mode:
-SP_DC=<your cookie> python scripts/fetch_charts.py
+python scripts/fetch_charts.py
 
 cd docs && python -m http.server        # then open http://localhost:8000
 ```
@@ -91,6 +67,8 @@ cd docs && python -m http.server        # then open http://localhost:8000
 
 ## Notes on the data
 
-This mirrors Spotify's own published daily charts for personal,
-non-commercial tracking. The workflow runs once per day, matching the chart's
-update cadence — don't lower the cron interval to something aggressive.
+This mirrors publicly visible chart positions from kworb.net, which itself
+aggregates Spotify's public chart data, for personal/non-commercial tracking.
+Be a considerate scraper: the workflow runs once a day, which matches the
+chart's update cadence — don't lower the cron interval to something
+aggressive.

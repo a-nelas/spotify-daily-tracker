@@ -2,9 +2,10 @@ name: Update Spotify chart data
 
 on:
   schedule:
-    # Daily at 08:15 UTC. kworb's daily charts refresh overnight;
-    # adjust the cron if you want a different time.
-    - cron: "15 8 * * *"
+    # 23:00 Lisbon time. GitHub cron is UTC and does not observe DST, so
+    # this is set to 22:00 UTC (= 23:00 WEST, Lisbon summer time). During
+    # Lisbon winter (WET, UTC+0) it effectively runs at 22:00 local.
+    - cron: "0 22 * * *"
   workflow_dispatch: {}   # lets you trigger it manually from the Actions tab
   push:
     branches: [main]      # also run on push so first-time setup produces data

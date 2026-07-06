@@ -152,8 +152,18 @@ function moveCell(change) {
   }
 }
 
+// Prefer the spotify: URI so a click hands off to the desktop app's protocol
+// handler; fall back to the open.spotify.com web link if there's no track id.
+function trackHref(e) {
+  return e.track_id ? `spotify:track:${e.track_id}` : (e.track_url || "#");
+}
+
 function trackLink(e) {
-  return `<a href="${esc(e.track_url)}" target="_blank" rel="noopener">${esc(e.title)}</a>`;
+  const href = trackHref(e);
+  // Web links open in a new tab; the app URI must navigate in place so the
+  // browser invokes the protocol handler instead of opening a blank tab.
+  const attrs = href.startsWith("spotify:") ? "" : ' target="_blank" rel="noopener"';
+  return `<a href="${esc(href)}"${attrs}>${esc(e.title)}</a>`;
 }
 
 function renderCards(data, climberIds) {
@@ -187,7 +197,7 @@ function renderTable(data, climberIds) {
     else if (e.change.status === "re-entry") badge = '<span class="badge re">RE</span>';
     else if (isClimber) badge = `<span class="badge climber">▲ ${e.change.delta}</span>`;
     return `<tr class="entry${isNew ? " is-new" : isClimber ? " is-climber" : ""}"
-      data-url="${esc(e.track_url)}" title="Play on Spotify">
+      data-uri="${esc(trackHref(e))}" title="Play on Spotify">
       <td class="rank">${e.rank}</td>
       <td class="move">${moveCell(e.change)}</td>
       <td class="track">${trackLink(e)}${badge}
@@ -205,7 +215,10 @@ function renderTable(data, climberIds) {
   $("chart").querySelectorAll("tr.entry").forEach((tr) => {
     tr.addEventListener("click", (ev) => {
       if (ev.target.closest("a")) return;
-      window.open(tr.dataset.url, "_blank", "noopener");
+      const uri = tr.dataset.uri;
+      // spotify: hands off to the desktop app; web links open a new tab
+      if (uri.startsWith("spotify:")) window.location.href = uri;
+      else window.open(uri, "_blank", "noopener");
     });
   });
 }

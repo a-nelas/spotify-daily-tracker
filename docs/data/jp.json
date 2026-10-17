@@ -1,8 +1,8 @@
 {
   "region": "jp",
   "label": "Japan",
-  "chart_date": "2026-10-15",
-  "generated_at": "2026-10-17T00:08:58.207566+00:00",
+  "chart_date": "2026-10-16",
+  "generated_at": "2026-10-17T23:44:56.633106+00:00",
   "source_mode": "kworb.net daily chart",
   "source_url": "https://kworb.net/spotify/country/jp_daily.html",
   "entry_count": 200,
@@ -21,8 +21,8 @@
       "track_id": "2j0mQg77Ivev2aIksyiiqc",
       "track_url": "https://open.spotify.com/track/2j0mQg77Ivev2aIksyiiqc",
       "peak_rank": 1,
-      "days_on_chart": 15,
-      "streams": 404542
+      "days_on_chart": 16,
+      "streams": 367990
     },
     {
       "rank": 2,
@@ -38,8 +38,8 @@
       "track_id": "4GvJskA0Jn4NorP2YWxuaf",
       "track_url": "https://open.spotify.com/track/4GvJskA0Jn4NorP2YWxuaf",
       "peak_rank": 2,
-      "days_on_chart": 236,
-      "streams": 346575
+      "days_on_chart": 237,
+      "streams": 322045
     },
     {
       "rank": 3,
@@ -64,8 +64,8 @@
       "track_id": "7L1UsUbSqowTKwrgT0v8AS",
       "track_url": "https://open.spotify.com/track/7L1UsUbSqowTKwrgT0v8AS",
       "peak_rank": 1,
-      "days_on_chart": 106,
-      "streams": 309315
+      "days_on_chart": 107,
+      "streams": 295154
     },
     {
       "rank": 4,
@@ -81,32 +81,15 @@
       "track_id": "35MeePbBnryubkVG0v8GbI",
       "track_url": "https://open.spotify.com/track/35MeePbBnryubkVG0v8GbI",
       "peak_rank": 2,
-      "days_on_chart": 536,
-      "streams": 251163
+      "days_on_chart": 537,
+      "streams": 232520
     },
     {
       "rank": 5,
-      "prev_rank": 5,
-      "change": {
-        "status": "same",
-        "delta": 0
-      },
-      "title": "運命さがし",
-      "artists": [
-        "Macaroni Empitsu"
-      ],
-      "track_id": "76lukrvGiAM7GBcjE4Gx4h",
-      "track_url": "https://open.spotify.com/track/76lukrvGiAM7GBcjE4Gx4h",
-      "peak_rank": 3,
-      "days_on_chart": 31,
-      "streams": 235740
-    },
-    {
-      "rank": 6,
       "prev_rank": 6,
       "change": {
-        "status": "same",
-        "delta": 0
+        "status": "up",
+        "delta": 1
       },
       "title": "Brand New",
       "artists": [
@@ -115,8 +98,25 @@
       "track_id": "3Z8NMM7IRu4YKDHBo6vmX3",
       "track_url": "https://open.spotify.com/track/3Z8NMM7IRu4YKDHBo6vmX3",
       "peak_rank": 1,
-      "days_on_chart": 96,
-      "streams": 229934
+      "days_on_chart": 97,
+      "streams": 216483
+    },
+    {
+      "rank": 6,
+      "prev_rank": 5,
+      "change": {
+        "status": "down",
+        "delta": -1
+      },
+      "title": "運命さがし",
+      "artists": [
+        "Macaroni Empitsu"
+      ],
+      "track_id": "76lukrvGiAM7GBcjE4Gx4h",
+      "track_url": "https://open.spotify.com/track/76lukrvGiAM7GBcjE4Gx4h",
+      "peak_rank": 3,
+      "days_on_chart": 32,
+      "streams": 214939
     },
     {
       "rank": 7,
@@ -132,8 +132,8 @@
       "track_id": "3QIAwtEEDOrv0g5NKCGrXZ",
       "track_url": "https://open.spotify.com/track/3QIAwtEEDOrv0g5NKCGrXZ",
       "peak_rank": 2,
-      "days_on_chart": 2563,
-      "streams": 208339
+      "days_on_chart": 2564,
+      "streams": 197034
     },
     {
       "rank": 8,
@@ -149,8 +149,8 @@
       "track_id": "2jdbZGFp8KVTuk0YxDNL4l",
       "track_url": "https://open.spotify.com/track/2jdbZGFp8KVTuk0YxDNL4l",
       "peak_rank": 2,
-      "days_on_chart": 2787,
-      "streams": 191263
+      "days_on_chart": 2788,
+      "streams": 184061
     },
     {
       "rank": 9,
@@ -166,8 +166,8 @@
       "track_id": "5P3Nmg0jSYfrSKoYonTGan",
       "track_url": "https://open.spotify.com/track/5P3Nmg0jSYfrSKoYonTGan",
       "peak_rank": 6,
-      "days_on_chart": 18,
-      "streams": 187071
+      "days_on_chart": 19,
+      "streams": 173660
     },
     {
       "rank": 10,
@@ -183,15 +183,15 @@
       "track_id": "3RvdkNMcSy71m0aT6UF9Uf",
       "track_url": "https://open.spotify.com/track/3RvdkNMcSy71m0aT6UF9Uf",
       "peak_rank": 1,
-      "days_on_chart": 1890,
-      "streams": 180216
+      "days_on_chart": 1891,
+      "streams": 171305
     },
     {
       "rank": 11,
-      "prev_rank": 12,
+      "prev_rank": 11,
       "change": {
-        "status": "up",
-        "delta": 1
+        "status": "same",
+        "delta": 0
       },
       "title": "ハッピーエンド",
       "artists": [
@@ -200,15 +200,15 @@
       "track_id": "4GqO80eGXA542oTvlYv4LS",
       "track_url": "https://open.spotify.com/track/4GqO80eGXA542oTvlYv4LS",
       "peak_rank": 6,
-      "days_on_chart": 2250,
-      "streams": 179410
+      "days_on_chart": 2251,
+      "streams": 170366
     },
     {
       "rank": 12,
-      "prev_rank": 11,
+      "prev_rank": 12,
       "change": {
-        "status": "down",
-        "delta": -1
+        "status": "same",
+        "delta": 0
       },
       "title": "It's Me",
       "artists": [
@@ -217,8 +217,8 @@
       "track_id": "1D5L58KLBbceOynTP4DQnY",
       "track_url": "https://open.spotify.com/track/1D5L58KLBbceOynTP4DQnY",
       "peak_rank": 2,
-      "days_on_chart": 168,
-      "streams": 178094
+      "days_on_chart": 169,
+      "streams": 169353
     },
     {
       "rank": 13,
@@ -238,32 +238,15 @@
       "track_id": "7HNGIBi7xkcN1YGyhdjPkA",
       "track_url": "https://open.spotify.com/track/7HNGIBi7xkcN1YGyhdjPkA",
       "peak_rank": 3,
-      "days_on_chart": 38,
-      "streams": 175232
+      "days_on_chart": 39,
+      "streams": 169188
     },
     {
       "rank": 14,
-      "prev_rank": 14,
-      "change": {
-        "status": "same",
-        "delta": 0
-      },
-      "title": "好きすぎて滅！",
-      "artists": [
-        "M!LK"
-      ],
-      "track_id": "0vDqNzQqEhl7boeRS3Joli",
-      "track_url": "https://open.spotify.com/track/0vDqNzQqEhl7boeRS3Joli",
-      "peak_rank": 2,
-      "days_on_chart": 341,
-      "streams": 168714
-    },
-    {
-      "rank": 15,
       "prev_rank": 15,
       "change": {
-        "status": "same",
-        "delta": 0
+        "status": "up",
+        "delta": 1
       },
       "title": "点描の唄",
       "artists": [
@@ -273,32 +256,32 @@
       "track_id": "1sIIlVrnPhrvmTrHtzM7tV",
       "track_url": "https://open.spotify.com/track/1sIIlVrnPhrvmTrHtzM7tV",
       "peak_rank": 5,
-      "days_on_chart": 2698,
-      "streams": 168107
+      "days_on_chart": 2699,
+      "streams": 159497
+    },
+    {
+      "rank": 15,
+      "prev_rank": 14,
+      "change": {
+        "status": "down",
+        "delta": -1
+      },
+      "title": "好きすぎて滅！",
+      "artists": [
+        "M!LK"
+      ],
+      "track_id": "0vDqNzQqEhl7boeRS3Joli",
+      "track_url": "https://open.spotify.com/track/0vDqNzQqEhl7boeRS3Joli",
+      "peak_rank": 2,
+      "days_on_chart": 342,
+      "streams": 159185
     },
     {
       "rank": 16,
-      "prev_rank": 16,
-      "change": {
-        "status": "same",
-        "delta": 0
-      },
-      "title": "lulu.",
-      "artists": [
-        "Mrs. GREEN APPLE"
-      ],
-      "track_id": "0vE1WglBbhmd5wDO49lcih",
-      "track_url": "https://open.spotify.com/track/0vE1WglBbhmd5wDO49lcih",
-      "peak_rank": 1,
-      "days_on_chart": 278,
-      "streams": 166279
-    },
-    {
-      "rank": 17,
       "prev_rank": 17,
       "change": {
-        "status": "same",
-        "delta": 0
+        "status": "up",
+        "delta": 1
       },
       "title": "ライラック",
       "artists": [
@@ -307,8 +290,25 @@
       "track_id": "78W4mTLIh4qoLu92W4IQhO",
       "track_url": "https://open.spotify.com/track/78W4mTLIh4qoLu92W4IQhO",
       "peak_rank": 1,
-      "days_on_chart": 918,
-      "streams": 162947
+      "days_on_chart": 919,
+      "streams": 157510
+    },
+    {
+      "rank": 17,
+      "prev_rank": 16,
+      "change": {
+        "status": "down",
+        "delta": -1
+      },
+      "title": "lulu.",
+      "artists": [
+        "Mrs. GREEN APPLE"
+      ],
+      "track_id": "0vE1WglBbhmd5wDO49lcih",
+      "track_url": "https://open.spotify.com/track/0vE1WglBbhmd5wDO49lcih",
+      "peak_rank": 1,
+      "days_on_chart": 279,
+      "streams": 156054
     },
     {
       "rank": 18,
@@ -324,15 +324,15 @@
       "track_id": "2cKiHG16JBiqHdi7Llq0r7",
       "track_url": "https://open.spotify.com/track/2cKiHG16JBiqHdi7Llq0r7",
       "peak_rank": 1,
-      "days_on_chart": 3012,
-      "streams": 154858
+      "days_on_chart": 3013,
+      "streams": 155278
     },
     {
       "rank": 19,
-      "prev_rank": 20,
+      "prev_rank": 19,
       "change": {
-        "status": "up",
-        "delta": 1
+        "status": "same",
+        "delta": 0
       },
       "title": "爆裂愛してる",
       "artists": [
@@ -341,25 +341,25 @@
       "track_id": "1F1hibBCtNeObRMmEMLHNh",
       "track_url": "https://open.spotify.com/track/1F1hibBCtNeObRMmEMLHNh",
       "peak_rank": 1,
-      "days_on_chart": 249,
-      "streams": 152977
+      "days_on_chart": 250,
+      "streams": 146369
     },
     {
       "rank": 20,
-      "prev_rank": 22,
+      "prev_rank": 24,
       "change": {
         "status": "up",
-        "delta": 2
+        "delta": 4
       },
-      "title": "幸せ",
+      "title": "君はロックを聴かない",
       "artists": [
-        "back number"
+        "Aimyon"
       ],
-      "track_id": "1YVuXOCjN1GkGYqZ8RCcF3",
-      "track_url": "https://open.spotify.com/track/1YVuXOCjN1GkGYqZ8RCcF3",
-      "peak_rank": 20,
-      "days_on_chart": 570,
-      "streams": 152306
+      "track_id": "59eluCMn0XbOWqeWQ91FTM",
+      "track_url": "https://open.spotify.com/track/59eluCMn0XbOWqeWQ91FTM",
+      "peak_rank": 2,
+      "days_on_chart": 3180,
+      "streams": 145989
     },
     {
       "rank": 21,
@@ -375,15 +375,15 @@
       "track_id": "59hVbgr8rfYkDbHfr8RcGI",
       "track_url": "https://open.spotify.com/track/59hVbgr8rfYkDbHfr8RcGI",
       "peak_rank": 1,
-      "days_on_chart": 397,
-      "streams": 151120
+      "days_on_chart": 398,
+      "streams": 144937
     },
     {
       "rank": 22,
-      "prev_rank": 23,
+      "prev_rank": 22,
       "change": {
-        "status": "up",
-        "delta": 1
+        "status": "same",
+        "delta": 0
       },
       "title": "HAPPY BIRTHDAY",
       "artists": [
@@ -392,63 +392,12 @@
       "track_id": "4FMz2RFrbDGzJO7K4D0vS3",
       "track_url": "https://open.spotify.com/track/4FMz2RFrbDGzJO7K4D0vS3",
       "peak_rank": 11,
-      "days_on_chart": 2196,
-      "streams": 151108
+      "days_on_chart": 2197,
+      "streams": 143461
     },
     {
       "rank": 23,
-      "prev_rank": 19,
-      "change": {
-        "status": "down",
-        "delta": -4
-      },
-      "title": "Soranji",
-      "artists": [
-        "Mrs. GREEN APPLE"
-      ],
-      "track_id": "3YML5IHoqWbw9c9vJJvrvM",
-      "track_url": "https://open.spotify.com/track/3YML5IHoqWbw9c9vJJvrvM",
-      "peak_rank": 6,
-      "days_on_chart": 1459,
-      "streams": 150306
-    },
-    {
-      "rank": 24,
-      "prev_rank": 24,
-      "change": {
-        "status": "same",
-        "delta": 0
-      },
-      "title": "君はロックを聴かない",
-      "artists": [
-        "Aimyon"
-      ],
-      "track_id": "59eluCMn0XbOWqeWQ91FTM",
-      "track_url": "https://open.spotify.com/track/59eluCMn0XbOWqeWQ91FTM",
-      "peak_rank": 2,
-      "days_on_chart": 3179,
-      "streams": 150101
-    },
-    {
-      "rank": 25,
-      "prev_rank": 25,
-      "change": {
-        "status": "same",
-        "delta": 0
-      },
-      "title": "恋",
-      "artists": [
-        "back number"
-      ],
-      "track_id": "7f9DsQEsIoeTwKxV6shsom",
-      "track_url": "https://open.spotify.com/track/7f9DsQEsIoeTwKxV6shsom",
-      "peak_rank": 16,
-      "days_on_chart": 1391,
-      "streams": 148636
-    },
-    {
-      "rank": 26,
-      "prev_rank": 29,
+      "prev_rank": 26,
       "change": {
         "status": "up",
         "delta": 3
@@ -460,15 +409,66 @@
       "track_id": "7KNY1e9x1MDvpBAmIAN3tz",
       "track_url": "https://open.spotify.com/track/7KNY1e9x1MDvpBAmIAN3tz",
       "peak_rank": 4,
-      "days_on_chart": 539,
-      "streams": 146368
+      "days_on_chart": 540,
+      "streams": 142929
+    },
+    {
+      "rank": 24,
+      "prev_rank": 23,
+      "change": {
+        "status": "down",
+        "delta": -1
+      },
+      "title": "Soranji",
+      "artists": [
+        "Mrs. GREEN APPLE"
+      ],
+      "track_id": "3YML5IHoqWbw9c9vJJvrvM",
+      "track_url": "https://open.spotify.com/track/3YML5IHoqWbw9c9vJJvrvM",
+      "peak_rank": 6,
+      "days_on_chart": 1460,
+      "streams": 142557
+    },
+    {
+      "rank": 25,
+      "prev_rank": 20,
+      "change": {
+        "status": "down",
+        "delta": -5
+      },
+      "title": "幸せ",
+      "artists": [
+        "back number"
+      ],
+      "track_id": "1YVuXOCjN1GkGYqZ8RCcF3",
+      "track_url": "https://open.spotify.com/track/1YVuXOCjN1GkGYqZ8RCcF3",
+      "peak_rank": 20,
+      "days_on_chart": 571,
+      "streams": 141635
+    },
+    {
+      "rank": 26,
+      "prev_rank": 25,
+      "change": {
+        "status": "down",
+        "delta": -1
+      },
+      "title": "恋",
+      "artists": [
+        "back number"
+      ],
+      "track_id": "7f9DsQEsIoeTwKxV6shsom",
+      "track_url": "https://open.spotify.com/track/7f9DsQEsIoeTwKxV6shsom",
+      "peak_rank": 16,
+      "days_on_chart": 1392,
+      "streams": 139144
     },
     {
       "rank": 27,
-      "prev_rank": 28,
+      "prev_rank": 27,
       "change": {
-        "status": "up",
-        "delta": 1
+        "status": "same",
+        "delta": 0
       },
       "title": "青と夏",
       "artists": [
@@ -477,66 +477,15 @@
       "track_id": "5BC6kr6etk2Y9J62AyI4i3",
       "track_url": "https://open.spotify.com/track/5BC6kr6etk2Y9J62AyI4i3",
       "peak_rank": 2,
-      "days_on_chart": 3014,
-      "streams": 142498
+      "days_on_chart": 3015,
+      "streams": 138937
     },
     {
       "rank": 28,
-      "prev_rank": 30,
-      "change": {
-        "status": "up",
-        "delta": 2
-      },
-      "title": "時空超えてユニバース",
-      "artists": [
-        "M!LK"
-      ],
-      "track_id": "0sZJ7goWjAmHxNcoV3oRay",
-      "track_url": "https://open.spotify.com/track/0sZJ7goWjAmHxNcoV3oRay",
-      "peak_rank": 3,
-      "days_on_chart": 39,
-      "streams": 140977
-    },
-    {
-      "rank": 29,
-      "prev_rank": 27,
-      "change": {
-        "status": "down",
-        "delta": -2
-      },
-      "title": "ヒロイン",
-      "artists": [
-        "back number"
-      ],
-      "track_id": "3hBAYbAECEix9raaTq8S3H",
-      "track_url": "https://open.spotify.com/track/3hBAYbAECEix9raaTq8S3H",
-      "peak_rank": 3,
-      "days_on_chart": 1762,
-      "streams": 139306
-    },
-    {
-      "rank": 30,
-      "prev_rank": 35,
-      "change": {
-        "status": "up",
-        "delta": 5
-      },
-      "title": "奏(かなで)",
-      "artists": [
-        "Sukima Switch"
-      ],
-      "track_id": "5RbMlPFL4gVyEHW2lEOuzG",
-      "track_url": "https://open.spotify.com/track/5RbMlPFL4gVyEHW2lEOuzG",
-      "peak_rank": 19,
-      "days_on_chart": 2245,
-      "streams": 138136
-    },
-    {
-      "rank": 31,
       "prev_rank": 31,
       "change": {
-        "status": "same",
-        "delta": 0
+        "status": "up",
+        "delta": 3
       },
       "title": "愛をこめて花束を",
       "artists": [
@@ -545,15 +494,49 @@
       "track_id": "7CmWXD3w1xOO53AAO4LRVQ",
       "track_url": "https://open.spotify.com/track/7CmWXD3w1xOO53AAO4LRVQ",
       "peak_rank": 4,
-      "days_on_chart": 2350,
-      "streams": 137984
+      "days_on_chart": 2351,
+      "streams": 137400
     },
     {
-      "rank": 32,
+      "rank": 29,
+      "prev_rank": 30,
+      "change": {
+        "status": "up",
+        "delta": 1
+      },
+      "title": "奏(かなで)",
+      "artists": [
+        "Sukima Switch"
+      ],
+      "track_id": "5RbMlPFL4gVyEHW2lEOuzG",
+      "track_url": "https://open.spotify.com/track/5RbMlPFL4gVyEHW2lEOuzG",
+      "peak_rank": 19,
+      "days_on_chart": 2246,
+      "streams": 134581
+    },
+    {
+      "rank": 30,
+      "prev_rank": 28,
+      "change": {
+        "status": "down",
+        "delta": -2
+      },
+      "title": "時空超えてユニバース",
+      "artists": [
+        "M!LK"
+      ],
+      "track_id": "0sZJ7goWjAmHxNcoV3oRay",
+      "track_url": "https://open.spotify.com/track/0sZJ7goWjAmHxNcoV3oRay",
+      "peak_rank": 3,
+      "days_on_chart": 40,
+      "streams": 134103
+    },
+    {
+      "rank": 31,
       "prev_rank": 32,
       "change": {
-        "status": "same",
-        "delta": 0
+        "status": "up",
+        "delta": 1
       },
       "title": "怪獣の花唄",
       "artists": [
@@ -562,25 +545,42 @@
       "track_id": "7dTW21YAJxnAOiUh7Rtu9S",
       "track_url": "https://open.spotify.com/track/7dTW21YAJxnAOiUh7Rtu9S",
       "peak_rank": 1,
-      "days_on_chart": 2141,
-      "streams": 137643
+      "days_on_chart": 2142,
+      "streams": 132661
+    },
+    {
+      "rank": 32,
+      "prev_rank": 29,
+      "change": {
+        "status": "down",
+        "delta": -3
+      },
+      "title": "ヒロイン",
+      "artists": [
+        "back number"
+      ],
+      "track_id": "3hBAYbAECEix9raaTq8S3H",
+      "track_url": "https://open.spotify.com/track/3hBAYbAECEix9raaTq8S3H",
+      "peak_rank": 3,
+      "days_on_chart": 1763,
+      "streams": 130202
     },
     {
       "rank": 33,
-      "prev_rank": 26,
+      "prev_rank": 36,
       "change": {
-        "status": "down",
-        "delta": -7
+        "status": "up",
+        "delta": 3
       },
-      "title": "BUGS LIFE",
+      "title": "ダーリン",
       "artists": [
-        "Number_i"
+        "Mrs. GREEN APPLE"
       ],
-      "track_id": "3o9jxRsczWG6Juy1KTDNuG",
-      "track_url": "https://open.spotify.com/track/3o9jxRsczWG6Juy1KTDNuG",
-      "peak_rank": 5,
-      "days_on_chart": 96,
-      "streams": 136286
+      "track_id": "7ikOwlVju9HYUKthPiNHwr",
+      "track_url": "https://open.spotify.com/track/7ikOwlVju9HYUKthPiNHwr",
+      "peak_rank": 1,
+      "days_on_chart": 636,
+      "streams": 129224
     },
     {
       "rank": 34,
@@ -596,8 +596,8 @@
       "track_id": "5klNADgwB1K5j2quV0SCDL",
       "track_url": "https://open.spotify.com/track/5klNADgwB1K5j2quV0SCDL",
       "peak_rank": 1,
-      "days_on_chart": 460,
-      "streams": 135771
+      "days_on_chart": 461,
+      "streams": 128633
     },
     {
       "rank": 35,
@@ -606,6 +606,23 @@
         "status": "down",
         "delta": -2
       },
+      "title": "BUGS LIFE",
+      "artists": [
+        "Number_i"
+      ],
+      "track_id": "3o9jxRsczWG6Juy1KTDNuG",
+      "track_url": "https://open.spotify.com/track/3o9jxRsczWG6Juy1KTDNuG",
+      "peak_rank": 5,
+      "days_on_chart": 97,
+      "streams": 127494
+    },
+    {
+      "rank": 36,
+      "prev_rank": 35,
+      "change": {
+        "status": "down",
+        "delta": -1
+      },
       "title": "君の恋人になったら",
       "artists": [
         "back number"
@@ -613,66 +630,15 @@
       "track_id": "0k4KaqElLVjdR6sVHPTS6h",
       "track_url": "https://open.spotify.com/track/0k4KaqElLVjdR6sVHPTS6h",
       "peak_rank": 21,
-      "days_on_chart": 834,
-      "streams": 135409
-    },
-    {
-      "rank": 36,
-      "prev_rank": 36,
-      "change": {
-        "status": "same",
-        "delta": 0
-      },
-      "title": "ダーリン",
-      "artists": [
-        "Mrs. GREEN APPLE"
-      ],
-      "track_id": "7ikOwlVju9HYUKthPiNHwr",
-      "track_url": "https://open.spotify.com/track/7ikOwlVju9HYUKthPiNHwr",
-      "peak_rank": 1,
-      "days_on_chart": 635,
-      "streams": 134923
+      "days_on_chart": 835,
+      "streams": 125231
     },
     {
       "rank": 37,
-      "prev_rank": 38,
+      "prev_rank": 39,
       "change": {
         "status": "up",
-        "delta": 1
-      },
-      "title": "恋人ごっこ",
-      "artists": [
-        "Macaroni Empitsu"
-      ],
-      "track_id": "2SihT7AVMiI2VtaAyVIcnO",
-      "track_url": "https://open.spotify.com/track/2SihT7AVMiI2VtaAyVIcnO",
-      "peak_rank": 30,
-      "days_on_chart": 2343,
-      "streams": 131061
-    },
-    {
-      "rank": 38,
-      "prev_rank": 47,
-      "change": {
-        "status": "up",
-        "delta": 9
-      },
-      "title": "夕星-ゆうづつ-",
-      "artists": [
-        "RADWIMPS"
-      ],
-      "track_id": "4zFFLQwm2zzQg8bcg9dald",
-      "track_url": "https://open.spotify.com/track/4zFFLQwm2zzQg8bcg9dald",
-      "peak_rank": 38,
-      "days_on_chart": 14,
-      "streams": 129868
-    },
-    {
-      "rank": 39,
-      "prev_rank": 37,
-      "change": {
-        "status": "down",
-        "delta": -2
+        "delta": 2
       },
       "title": "愛を伝えたいだとか",
       "artists": [
@@ -681,49 +647,15 @@
       "track_id": "0N8Xztr4pBHJ7V0moJWhbO",
       "track_url": "https://open.spotify.com/track/0N8Xztr4pBHJ7V0moJWhbO",
       "peak_rank": 4,
-      "days_on_chart": 2461,
-      "streams": 129691
+      "days_on_chart": 2462,
+      "streams": 124306
     },
     {
-      "rank": 40,
-      "prev_rank": 40,
-      "change": {
-        "status": "same",
-        "delta": 0
-      },
-      "title": "マイオンリー",
-      "artists": [
-        "SixTONES"
-      ],
-      "track_id": "0CeyAPE5CjL749WIjveUAc",
-      "track_url": "https://open.spotify.com/track/0CeyAPE5CjL749WIjveUAc",
-      "peak_rank": 10,
-      "days_on_chart": 97,
-      "streams": 128675
-    },
-    {
-      "rank": 41,
-      "prev_rank": 41,
-      "change": {
-        "status": "same",
-        "delta": 0
-      },
-      "title": "見知らぬ糸",
-      "artists": [
-        "SPITZ"
-      ],
-      "track_id": "01Wc6RiaghdtkpJXV9WmAj",
-      "track_url": "https://open.spotify.com/track/01Wc6RiaghdtkpJXV9WmAj",
-      "peak_rank": 7,
-      "days_on_chart": 70,
-      "streams": 126391
-    },
-    {
-      "rank": 42,
-      "prev_rank": 44,
+      "rank": 38,
+      "prev_rank": 42,
       "change": {
         "status": "up",
-        "delta": 2
+        "delta": 4
       },
       "title": "ケセラセラ",
       "artists": [
@@ -732,15 +664,49 @@
       "track_id": "0teqQ0PYqVDyyXJuPOyMhu",
       "track_url": "https://open.spotify.com/track/0teqQ0PYqVDyyXJuPOyMhu",
       "peak_rank": 2,
-      "days_on_chart": 1271,
-      "streams": 125754
+      "days_on_chart": 1272,
+      "streams": 123468
     },
     {
-      "rank": 43,
-      "prev_rank": 42,
+      "rank": 39,
+      "prev_rank": 37,
       "change": {
         "status": "down",
-        "delta": -1
+        "delta": -2
+      },
+      "title": "恋人ごっこ",
+      "artists": [
+        "Macaroni Empitsu"
+      ],
+      "track_id": "2SihT7AVMiI2VtaAyVIcnO",
+      "track_url": "https://open.spotify.com/track/2SihT7AVMiI2VtaAyVIcnO",
+      "peak_rank": 30,
+      "days_on_chart": 2344,
+      "streams": 122658
+    },
+    {
+      "rank": 40,
+      "prev_rank": 38,
+      "change": {
+        "status": "down",
+        "delta": -2
+      },
+      "title": "夕星-ゆうづつ-",
+      "artists": [
+        "RADWIMPS"
+      ],
+      "track_id": "4zFFLQwm2zzQg8bcg9dald",
+      "track_url": "https://open.spotify.com/track/4zFFLQwm2zzQg8bcg9dald",
+      "peak_rank": 38,
+      "days_on_chart": 15,
+      "streams": 122556
+    },
+    {
+      "rank": 41,
+      "prev_rank": 43,
+      "change": {
+        "status": "up",
+        "delta": 2
       },
       "title": "夜の踊り子",
       "artists": [
@@ -749,12 +715,63 @@
       "track_id": "6qB3lZIfnDC8TE2245NDtO",
       "track_url": "https://open.spotify.com/track/6qB3lZIfnDC8TE2245NDtO",
       "peak_rank": 1,
-      "days_on_chart": 200,
-      "streams": 125177
+      "days_on_chart": 201,
+      "streams": 122059
+    },
+    {
+      "rank": 42,
+      "prev_rank": 41,
+      "change": {
+        "status": "down",
+        "delta": -1
+      },
+      "title": "見知らぬ糸",
+      "artists": [
+        "SPITZ"
+      ],
+      "track_id": "01Wc6RiaghdtkpJXV9WmAj",
+      "track_url": "https://open.spotify.com/track/01Wc6RiaghdtkpJXV9WmAj",
+      "peak_rank": 7,
+      "days_on_chart": 71,
+      "streams": 121896
+    },
+    {
+      "rank": 43,
+      "prev_rank": 40,
+      "change": {
+        "status": "down",
+        "delta": -3
+      },
+      "title": "マイオンリー",
+      "artists": [
+        "SixTONES"
+      ],
+      "track_id": "0CeyAPE5CjL749WIjveUAc",
+      "track_url": "https://open.spotify.com/track/0CeyAPE5CjL749WIjveUAc",
+      "peak_rank": 10,
+      "days_on_chart": 98,
+      "streams": 118558
     },
     {
       "rank": 44,
-      "prev_rank": 43,
+      "prev_rank": 46,
+      "change": {
+        "status": "up",
+        "delta": 2
+      },
+      "title": "DIGITAL GIRL",
+      "artists": [
+        "Number_i"
+      ],
+      "track_id": "45Us1IGeAiIRmj3bKWaAkH",
+      "track_url": "https://open.spotify.com/track/45Us1IGeAiIRmj3bKWaAkH",
+      "peak_rank": 23,
+      "days_on_chart": 25,
+      "streams": 114752
+    },
+    {
+      "rank": 45,
+      "prev_rank": 44,
       "change": {
         "status": "down",
         "delta": -1
@@ -766,15 +783,15 @@
       "track_id": "0JTVR2cwtb41OVDWZJenvC",
       "track_url": "https://open.spotify.com/track/0JTVR2cwtb41OVDWZJenvC",
       "peak_rank": 9,
-      "days_on_chart": 18,
-      "streams": 121421
+      "days_on_chart": 19,
+      "streams": 109602
     },
     {
-      "rank": 45,
+      "rank": 46,
       "prev_rank": 45,
       "change": {
-        "status": "same",
-        "delta": 0
+        "status": "down",
+        "delta": -1
       },
       "title": "ア・ポステリオリ",
       "artists": [
@@ -783,29 +800,29 @@
       "track_id": "5EcJrHYmUA8XjgPTX9yh7q",
       "track_url": "https://open.spotify.com/track/5EcJrHYmUA8XjgPTX9yh7q",
       "peak_rank": 11,
-      "days_on_chart": 18,
-      "streams": 118531
-    },
-    {
-      "rank": 46,
-      "prev_rank": 39,
-      "change": {
-        "status": "down",
-        "delta": -7
-      },
-      "title": "DIGITAL GIRL",
-      "artists": [
-        "Number_i"
-      ],
-      "track_id": "45Us1IGeAiIRmj3bKWaAkH",
-      "track_url": "https://open.spotify.com/track/45Us1IGeAiIRmj3bKWaAkH",
-      "peak_rank": 23,
-      "days_on_chart": 24,
-      "streams": 115721
+      "days_on_chart": 19,
+      "streams": 109119
     },
     {
       "rank": 47,
-      "prev_rank": 46,
+      "prev_rank": 51,
+      "change": {
+        "status": "up",
+        "delta": 4
+      },
+      "title": "オールドファッション",
+      "artists": [
+        "back number"
+      ],
+      "track_id": "0Xn30nT5EKFPsWvpiJ2Iav",
+      "track_url": "https://open.spotify.com/track/0Xn30nT5EKFPsWvpiJ2Iav",
+      "peak_rank": 30,
+      "days_on_chart": 1722,
+      "streams": 108301
+    },
+    {
+      "rank": 48,
+      "prev_rank": 47,
       "change": {
         "status": "down",
         "delta": -1
@@ -817,304 +834,15 @@
       "track_id": "2fQMCSu4kT2sgml5YuUtrf",
       "track_url": "https://open.spotify.com/track/2fQMCSu4kT2sgml5YuUtrf",
       "peak_rank": 21,
-      "days_on_chart": 18,
-      "streams": 111327
-    },
-    {
-      "rank": 48,
-      "prev_rank": 49,
-      "change": {
-        "status": "up",
-        "delta": 1
-      },
-      "title": "GOOD DAY",
-      "artists": [
-        "Mrs. GREEN APPLE"
-      ],
-      "track_id": "61UOoqGI1B9qdeD5Dzupyb",
-      "track_url": "https://open.spotify.com/track/61UOoqGI1B9qdeD5Dzupyb",
-      "peak_rank": 6,
-      "days_on_chart": 364,
-      "streams": 107346
+      "days_on_chart": 19,
+      "streams": 101776
     },
     {
       "rank": 49,
-      "prev_rank": 50,
-      "change": {
-        "status": "up",
-        "delta": 1
-      },
-      "title": "Variety",
-      "artists": [
-        "Mrs. GREEN APPLE"
-      ],
-      "track_id": "57XG0kZLyKKihepR5BmEVj",
-      "track_url": "https://open.spotify.com/track/57XG0kZLyKKihepR5BmEVj",
-      "peak_rank": 13,
-      "days_on_chart": 18,
-      "streams": 102096
-    },
-    {
-      "rank": 50,
-      "prev_rank": 51,
-      "change": {
-        "status": "up",
-        "delta": 1
-      },
-      "title": "禁じた遊び",
-      "artists": [
-        "Mrs. GREEN APPLE"
-      ],
-      "track_id": "5S336OpuvPo7jrlGfUNohQ",
-      "track_url": "https://open.spotify.com/track/5S336OpuvPo7jrlGfUNohQ",
-      "peak_rank": 18,
-      "days_on_chart": 18,
-      "streams": 95060
-    },
-    {
-      "rank": 51,
-      "prev_rank": 48,
-      "change": {
-        "status": "down",
-        "delta": -3
-      },
-      "title": "オールドファッション",
-      "artists": [
-        "back number"
-      ],
-      "track_id": "0Xn30nT5EKFPsWvpiJ2Iav",
-      "track_url": "https://open.spotify.com/track/0Xn30nT5EKFPsWvpiJ2Iav",
-      "peak_rank": 30,
-      "days_on_chart": 1721,
-      "streams": 94996
-    },
-    {
-      "rank": 52,
-      "prev_rank": 61,
-      "change": {
-        "status": "up",
-        "delta": 9
-      },
-      "title": "なんでもないよ、",
-      "artists": [
-        "Macaroni Empitsu"
-      ],
-      "track_id": "5W7Y92LB4jWvu9NeEQ0GZl",
-      "track_url": "https://open.spotify.com/track/5W7Y92LB4jWvu9NeEQ0GZl",
-      "peak_rank": 1,
-      "days_on_chart": 1808,
-      "streams": 93062
-    },
-    {
-      "rank": 53,
-      "prev_rank": 55,
-      "change": {
-        "status": "up",
-        "delta": 2
-      },
-      "title": "チェリー",
-      "artists": [
-        "SPITZ"
-      ],
-      "track_id": "1ihCiJaXRl4f6Sy4LJov5z",
-      "track_url": "https://open.spotify.com/track/1ihCiJaXRl4f6Sy4LJov5z",
-      "peak_rank": 23,
-      "days_on_chart": 2871,
-      "streams": 92035
-    },
-    {
-      "rank": 54,
-      "prev_rank": 54,
-      "change": {
-        "status": "same",
-        "delta": 0
-      },
-      "title": "僕のこと",
-      "artists": [
-        "Mrs. GREEN APPLE"
-      ],
-      "track_id": "0tnhoHUrHfcLi9hPknUFZ4",
-      "track_url": "https://open.spotify.com/track/0tnhoHUrHfcLi9hPknUFZ4",
-      "peak_rank": 12,
-      "days_on_chart": 2744,
-      "streams": 91958
-    },
-    {
-      "rank": 55,
-      "prev_rank": 56,
-      "change": {
-        "status": "up",
-        "delta": 1
-      },
-      "title": "きらり",
-      "artists": [
-        "Fujii Kaze"
-      ],
-      "track_id": "51oc6MEsXTpnPn6GOw5VuP",
-      "track_url": "https://open.spotify.com/track/51oc6MEsXTpnPn6GOw5VuP",
-      "peak_rank": 3,
-      "days_on_chart": 1993,
-      "streams": 91407
-    },
-    {
-      "rank": 56,
-      "prev_rank": 63,
-      "change": {
-        "status": "up",
-        "delta": 7
-      },
-      "title": "裸の心",
-      "artists": [
-        "Aimyon"
-      ],
-      "track_id": "4Jv7U0JJpbQnOrjtDwDZTZ",
-      "track_url": "https://open.spotify.com/track/4Jv7U0JJpbQnOrjtDwDZTZ",
-      "peak_rank": 2,
-      "days_on_chart": 2316,
-      "streams": 90272
-    },
-    {
-      "rank": 57,
-      "prev_rank": 59,
-      "change": {
-        "status": "up",
-        "delta": 2
-      },
-      "title": "アイドルパワー",
-      "artists": [
-        "M!LK"
-      ],
-      "track_id": "3NPdo1QXqBKIoQAX2xSCRJ",
-      "track_url": "https://open.spotify.com/track/3NPdo1QXqBKIoQAX2xSCRJ",
-      "peak_rank": 2,
-      "days_on_chart": 172,
-      "streams": 88852
-    },
-    {
-      "rank": 58,
-      "prev_rank": 60,
-      "change": {
-        "status": "up",
-        "delta": 2
-      },
-      "title": "ガーデン",
-      "artists": [
-        "Fujii Kaze"
-      ],
-      "track_id": "5U4PgFWzfzY7VEg9Ck4ziF",
-      "track_url": "https://open.spotify.com/track/5U4PgFWzfzY7VEg9Ck4ziF",
-      "peak_rank": 10,
-      "days_on_chart": 1260,
-      "streams": 87637
-    },
-    {
-      "rank": 59,
-      "prev_rank": 58,
-      "change": {
-        "status": "down",
-        "delta": -1
-      },
-      "title": "瞬き",
-      "artists": [
-        "back number"
-      ],
-      "track_id": "7hIfpcdUZcyCKHYy8gp49E",
-      "track_url": "https://open.spotify.com/track/7hIfpcdUZcyCKHYy8gp49E",
-      "peak_rank": 33,
-      "days_on_chart": 1168,
-      "streams": 87089
-    },
-    {
-      "rank": 60,
-      "prev_rank": 64,
-      "change": {
-        "status": "up",
-        "delta": 4
-      },
-      "title": "Pretender",
-      "artists": [
-        "OFFICIAL HIGE DANDISM"
-      ],
-      "track_id": "15HNdxGKNCIO9pgaY4n7FU",
-      "track_url": "https://open.spotify.com/track/15HNdxGKNCIO9pgaY4n7FU",
-      "peak_rank": 1,
-      "days_on_chart": 2739,
-      "streams": 86217
-    },
-    {
-      "rank": 61,
-      "prev_rank": 57,
-      "change": {
-        "status": "down",
-        "delta": -4
-      },
-      "title": "ただ君に晴れ",
-      "artists": [
-        "Yorushika"
-      ],
-      "track_id": "3wJHCry960drNlAUGrJLmz",
-      "track_url": "https://open.spotify.com/track/3wJHCry960drNlAUGrJLmz",
-      "peak_rank": 6,
-      "days_on_chart": 2720,
-      "streams": 85924
-    },
-    {
-      "rank": 62,
-      "prev_rank": 62,
-      "change": {
-        "status": "same",
-        "delta": 0
-      },
-      "title": "Who",
-      "artists": [
-        "Jimin"
-      ],
-      "track_id": "7tI8dRuH2Yc6RuoTjxo4dU",
-      "track_url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU",
-      "peak_rank": 1,
-      "days_on_chart": 819,
-      "streams": 85887
-    },
-    {
-      "rank": 63,
       "prev_rank": 65,
       "change": {
         "status": "up",
-        "delta": 2
-      },
-      "title": "恋、はじめました。",
-      "artists": [
-        "=LOVE"
-      ],
-      "track_id": "1DkRsJu6pgBkyt016HlPdZ",
-      "track_url": "https://open.spotify.com/track/1DkRsJu6pgBkyt016HlPdZ",
-      "peak_rank": 29,
-      "days_on_chart": 73,
-      "streams": 85595
-    },
-    {
-      "rank": 64,
-      "prev_rank": 53,
-      "change": {
-        "status": "down",
-        "delta": -11
-      },
-      "title": "REBON",
-      "artists": [
-        "Number_i"
-      ],
-      "track_id": "7hORRB8tJcRsi9aK0D0LGc",
-      "track_url": "https://open.spotify.com/track/7hORRB8tJcRsi9aK0D0LGc",
-      "peak_rank": 32,
-      "days_on_chart": 24,
-      "streams": 85556
-    },
-    {
-      "rank": 65,
-      "prev_rank": null,
-      "change": {
-        "status": "new",
-        "delta": null
+        "delta": 16
       },
       "title": "NEON",
       "artists": [
@@ -1123,16 +851,237 @@
       ],
       "track_id": "5PvLNQRNRj61y3CU4SFIY4",
       "track_url": "https://open.spotify.com/track/5PvLNQRNRj61y3CU4SFIY4",
-      "peak_rank": 65,
-      "days_on_chart": 1,
-      "streams": 84854
+      "peak_rank": 49,
+      "days_on_chart": 2,
+      "streams": 101478
     },
     {
-      "rank": 66,
-      "prev_rank": 74,
+      "rank": 50,
+      "prev_rank": 48,
+      "change": {
+        "status": "down",
+        "delta": -2
+      },
+      "title": "GOOD DAY",
+      "artists": [
+        "Mrs. GREEN APPLE"
+      ],
+      "track_id": "61UOoqGI1B9qdeD5Dzupyb",
+      "track_url": "https://open.spotify.com/track/61UOoqGI1B9qdeD5Dzupyb",
+      "peak_rank": 6,
+      "days_on_chart": 365,
+      "streams": 100009
+    },
+    {
+      "rank": 51,
+      "prev_rank": 49,
+      "change": {
+        "status": "down",
+        "delta": -2
+      },
+      "title": "Variety",
+      "artists": [
+        "Mrs. GREEN APPLE"
+      ],
+      "track_id": "57XG0kZLyKKihepR5BmEVj",
+      "track_url": "https://open.spotify.com/track/57XG0kZLyKKihepR5BmEVj",
+      "peak_rank": 13,
+      "days_on_chart": 19,
+      "streams": 93357
+    },
+    {
+      "rank": 52,
+      "prev_rank": 56,
       "change": {
         "status": "up",
-        "delta": 8
+        "delta": 4
+      },
+      "title": "裸の心",
+      "artists": [
+        "Aimyon"
+      ],
+      "track_id": "4Jv7U0JJpbQnOrjtDwDZTZ",
+      "track_url": "https://open.spotify.com/track/4Jv7U0JJpbQnOrjtDwDZTZ",
+      "peak_rank": 2,
+      "days_on_chart": 2317,
+      "streams": 89618
+    },
+    {
+      "rank": 53,
+      "prev_rank": 53,
+      "change": {
+        "status": "same",
+        "delta": 0
+      },
+      "title": "チェリー",
+      "artists": [
+        "SPITZ"
+      ],
+      "track_id": "1ihCiJaXRl4f6Sy4LJov5z",
+      "track_url": "https://open.spotify.com/track/1ihCiJaXRl4f6Sy4LJov5z",
+      "peak_rank": 23,
+      "days_on_chart": 2872,
+      "streams": 87838
+    },
+    {
+      "rank": 54,
+      "prev_rank": 52,
+      "change": {
+        "status": "down",
+        "delta": -2
+      },
+      "title": "なんでもないよ、",
+      "artists": [
+        "Macaroni Empitsu"
+      ],
+      "track_id": "5W7Y92LB4jWvu9NeEQ0GZl",
+      "track_url": "https://open.spotify.com/track/5W7Y92LB4jWvu9NeEQ0GZl",
+      "peak_rank": 1,
+      "days_on_chart": 1809,
+      "streams": 87382
+    },
+    {
+      "rank": 55,
+      "prev_rank": 54,
+      "change": {
+        "status": "down",
+        "delta": -1
+      },
+      "title": "僕のこと",
+      "artists": [
+        "Mrs. GREEN APPLE"
+      ],
+      "track_id": "0tnhoHUrHfcLi9hPknUFZ4",
+      "track_url": "https://open.spotify.com/track/0tnhoHUrHfcLi9hPknUFZ4",
+      "peak_rank": 12,
+      "days_on_chart": 2745,
+      "streams": 86417
+    },
+    {
+      "rank": 56,
+      "prev_rank": 55,
+      "change": {
+        "status": "down",
+        "delta": -1
+      },
+      "title": "きらり",
+      "artists": [
+        "Fujii Kaze"
+      ],
+      "track_id": "51oc6MEsXTpnPn6GOw5VuP",
+      "track_url": "https://open.spotify.com/track/51oc6MEsXTpnPn6GOw5VuP",
+      "peak_rank": 3,
+      "days_on_chart": 1994,
+      "streams": 85716
+    },
+    {
+      "rank": 57,
+      "prev_rank": 62,
+      "change": {
+        "status": "up",
+        "delta": 5
+      },
+      "title": "Who",
+      "artists": [
+        "Jimin"
+      ],
+      "track_id": "7tI8dRuH2Yc6RuoTjxo4dU",
+      "track_url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU",
+      "peak_rank": 1,
+      "days_on_chart": 820,
+      "streams": 85478
+    },
+    {
+      "rank": 58,
+      "prev_rank": 64,
+      "change": {
+        "status": "up",
+        "delta": 6
+      },
+      "title": "REBON",
+      "artists": [
+        "Number_i"
+      ],
+      "track_id": "7hORRB8tJcRsi9aK0D0LGc",
+      "track_url": "https://open.spotify.com/track/7hORRB8tJcRsi9aK0D0LGc",
+      "peak_rank": 32,
+      "days_on_chart": 25,
+      "streams": 84201
+    },
+    {
+      "rank": 59,
+      "prev_rank": 61,
+      "change": {
+        "status": "up",
+        "delta": 2
+      },
+      "title": "ただ君に晴れ",
+      "artists": [
+        "Yorushika"
+      ],
+      "track_id": "3wJHCry960drNlAUGrJLmz",
+      "track_url": "https://open.spotify.com/track/3wJHCry960drNlAUGrJLmz",
+      "peak_rank": 6,
+      "days_on_chart": 2721,
+      "streams": 82231
+    },
+    {
+      "rank": 60,
+      "prev_rank": 60,
+      "change": {
+        "status": "same",
+        "delta": 0
+      },
+      "title": "Pretender",
+      "artists": [
+        "OFFICIAL HIGE DANDISM"
+      ],
+      "track_id": "15HNdxGKNCIO9pgaY4n7FU",
+      "track_url": "https://open.spotify.com/track/15HNdxGKNCIO9pgaY4n7FU",
+      "peak_rank": 1,
+      "days_on_chart": 2740,
+      "streams": 81882
+    },
+    {
+      "rank": 61,
+      "prev_rank": 57,
+      "change": {
+        "status": "down",
+        "delta": -4
+      },
+      "title": "アイドルパワー",
+      "artists": [
+        "M!LK"
+      ],
+      "track_id": "3NPdo1QXqBKIoQAX2xSCRJ",
+      "track_url": "https://open.spotify.com/track/3NPdo1QXqBKIoQAX2xSCRJ",
+      "peak_rank": 2,
+      "days_on_chart": 173,
+      "streams": 80594
+    },
+    {
+      "rank": 62,
+      "prev_rank": 58,
+      "change": {
+        "status": "down",
+        "delta": -4
+      },
+      "title": "ガーデン",
+      "artists": [
+        "Fujii Kaze"
+      ],
+      "track_id": "5U4PgFWzfzY7VEg9Ck4ziF",
+      "track_url": "https://open.spotify.com/track/5U4PgFWzfzY7VEg9Ck4ziF",
+      "peak_rank": 10,
+      "days_on_chart": 1261,
+      "streams": 79852
+    },
+    {
+      "rank": 63,
+      "prev_rank": 66,
+      "change": {
+        "status": "up",
+        "delta": 3
       },
       "title": "ドライフラワー",
       "artists": [
@@ -1141,15 +1090,66 @@
       "track_id": "4kPlQKwtPrnqLgrmmKFSlA",
       "track_url": "https://open.spotify.com/track/4kPlQKwtPrnqLgrmmKFSlA",
       "peak_rank": 1,
-      "days_on_chart": 2175,
-      "streams": 82885
+      "days_on_chart": 2176,
+      "streams": 79695
+    },
+    {
+      "rank": 64,
+      "prev_rank": 59,
+      "change": {
+        "status": "down",
+        "delta": -5
+      },
+      "title": "瞬き",
+      "artists": [
+        "back number"
+      ],
+      "track_id": "7hIfpcdUZcyCKHYy8gp49E",
+      "track_url": "https://open.spotify.com/track/7hIfpcdUZcyCKHYy8gp49E",
+      "peak_rank": 33,
+      "days_on_chart": 1169,
+      "streams": 79118
+    },
+    {
+      "rank": 65,
+      "prev_rank": 75,
+      "change": {
+        "status": "up",
+        "delta": 10
+      },
+      "title": "革命道中 - On The Way",
+      "artists": [
+        "AiNA THE END"
+      ],
+      "track_id": "1oFqKeepmT5S8BCGqJl7Ar",
+      "track_url": "https://open.spotify.com/track/1oFqKeepmT5S8BCGqJl7Ar",
+      "peak_rank": 4,
+      "days_on_chart": 470,
+      "streams": 78590
+    },
+    {
+      "rank": 66,
+      "prev_rank": 63,
+      "change": {
+        "status": "down",
+        "delta": -3
+      },
+      "title": "恋、はじめました。",
+      "artists": [
+        "=LOVE"
+      ],
+      "track_id": "1DkRsJu6pgBkyt016HlPdZ",
+      "track_url": "https://open.spotify.com/track/1DkRsJu6pgBkyt016HlPdZ",
+      "peak_rank": 29,
+      "days_on_chart": 74,
+      "streams": 78435
     },
     {
       "rank": 67,
-      "prev_rank": 66,
+      "prev_rank": 67,
       "change": {
-        "status": "down",
-        "delta": -1
+        "status": "same",
+        "delta": 0
       },
       "title": "Shape of You",
       "artists": [
@@ -1158,32 +1158,15 @@
       "track_id": "7qiZfU4dY1lWllzX7mPBI3",
       "track_url": "https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3",
       "peak_rank": 1,
-      "days_on_chart": 3527,
-      "streams": 82322
+      "days_on_chart": 3528,
+      "streams": 78423
     },
     {
       "rank": 68,
-      "prev_rank": 68,
-      "change": {
-        "status": "same",
-        "delta": 0
-      },
-      "title": "烏 - Raven",
-      "artists": [
-        "Kenshi Yonezu"
-      ],
-      "track_id": "5Ij88F5dK7yib1RoNA8wGV",
-      "track_url": "https://open.spotify.com/track/5Ij88F5dK7yib1RoNA8wGV",
-      "peak_rank": 1,
-      "days_on_chart": 124,
-      "streams": 81849
-    },
-    {
-      "rank": 69,
-      "prev_rank": 79,
+      "prev_rank": 69,
       "change": {
         "status": "up",
-        "delta": 10
+        "delta": 1
       },
       "title": "HANABI",
       "artists": [
@@ -1192,15 +1175,15 @@
       "track_id": "77lmDcPPyY6kK907gdgC6i",
       "track_url": "https://open.spotify.com/track/77lmDcPPyY6kK907gdgC6i",
       "peak_rank": 1,
-      "days_on_chart": 2304,
-      "streams": 80853
+      "days_on_chart": 2305,
+      "streams": 78202
     },
     {
-      "rank": 70,
-      "prev_rank": 76,
+      "rank": 69,
+      "prev_rank": 70,
       "change": {
         "status": "up",
-        "delta": 6
+        "delta": 1
       },
       "title": "115万キロのフィルム",
       "artists": [
@@ -1209,64 +1192,63 @@
       "track_id": "278JqkBGkjDovOYAwE8TW7",
       "track_url": "https://open.spotify.com/track/278JqkBGkjDovOYAwE8TW7",
       "peak_rank": 6,
-      "days_on_chart": 2715,
-      "streams": 80455
+      "days_on_chart": 2716,
+      "streams": 78059
     },
     {
-      "rank": 71,
-      "prev_rank": 90,
-      "change": {
-        "status": "up",
-        "delta": 19
-      },
-      "title": "わたがし",
-      "artists": [
-        "back number"
-      ],
-      "track_id": "23NPPhiLqHywaExkaEey8l",
-      "track_url": "https://open.spotify.com/track/23NPPhiLqHywaExkaEey8l",
-      "peak_rank": 54,
-      "days_on_chart": 253,
-      "streams": 80267
-    },
-    {
-      "rank": 72,
-      "prev_rank": 67,
-      "change": {
-        "status": "down",
-        "delta": -5
-      },
-      "title": "日曜日",
-      "artists": [
-        "back number"
-      ],
-      "track_id": "1LDxe7AgJ7DRYdV012EmyR",
-      "track_url": "https://open.spotify.com/track/1LDxe7AgJ7DRYdV012EmyR",
-      "peak_rank": 61,
-      "days_on_chart": 227,
-      "streams": 80133
-    },
-    {
-      "rank": 73,
-      "prev_rank": 71,
+      "rank": 70,
+      "prev_rank": 68,
       "change": {
         "status": "down",
         "delta": -2
       },
-      "title": "BPM",
+      "title": "烏 - Raven",
       "artists": [
-        "Kvi Baba",
-        "KREVA"
+        "Kenshi Yonezu"
       ],
-      "track_id": "6SMUXzvpo1dGg1N7QaMjvy",
-      "track_url": "https://open.spotify.com/track/6SMUXzvpo1dGg1N7QaMjvy",
-      "peak_rank": 53,
-      "days_on_chart": 172,
-      "streams": 80082
+      "track_id": "5Ij88F5dK7yib1RoNA8wGV",
+      "track_url": "https://open.spotify.com/track/5Ij88F5dK7yib1RoNA8wGV",
+      "peak_rank": 1,
+      "days_on_chart": 125,
+      "streams": 77634
     },
     {
-      "rank": 74,
-      "prev_rank": 75,
+      "rank": 71,
+      "prev_rank": 80,
+      "change": {
+        "status": "up",
+        "delta": 9
+      },
+      "title": "スパークル",
+      "artists": [
+        "RADWIMPS"
+      ],
+      "track_id": "1HdqMIGjLm8wkL4vWDcFPm",
+      "track_url": "https://open.spotify.com/track/1HdqMIGjLm8wkL4vWDcFPm",
+      "peak_rank": 52,
+      "days_on_chart": 47,
+      "streams": 77107
+    },
+    {
+      "rank": 72,
+      "prev_rank": 77,
+      "change": {
+        "status": "up",
+        "delta": 5
+      },
+      "title": "ハルノヒ",
+      "artists": [
+        "Aimyon"
+      ],
+      "track_id": "1oNeSCt0CMekCyyLo06kFs",
+      "track_url": "https://open.spotify.com/track/1oNeSCt0CMekCyyLo06kFs",
+      "peak_rank": 4,
+      "days_on_chart": 2267,
+      "streams": 76169
+    },
+    {
+      "rank": 73,
+      "prev_rank": 74,
       "change": {
         "status": "up",
         "delta": 1
@@ -1278,117 +1260,32 @@
       "track_id": "5JTNhYqB0eG0ivgZcBviJ0",
       "track_url": "https://open.spotify.com/track/5JTNhYqB0eG0ivgZcBviJ0",
       "peak_rank": 2,
-      "days_on_chart": 563,
-      "streams": 79841
+      "days_on_chart": 564,
+      "streams": 75971
+    },
+    {
+      "rank": 74,
+      "prev_rank": 71,
+      "change": {
+        "status": "down",
+        "delta": -3
+      },
+      "title": "わたがし",
+      "artists": [
+        "back number"
+      ],
+      "track_id": "23NPPhiLqHywaExkaEey8l",
+      "track_url": "https://open.spotify.com/track/23NPPhiLqHywaExkaEey8l",
+      "peak_rank": 54,
+      "days_on_chart": 254,
+      "streams": 75893
     },
     {
       "rank": 75,
-      "prev_rank": 78,
-      "change": {
-        "status": "up",
-        "delta": 3
-      },
-      "title": "革命道中 - On The Way",
-      "artists": [
-        "AiNA THE END"
-      ],
-      "track_id": "1oFqKeepmT5S8BCGqJl7Ar",
-      "track_url": "https://open.spotify.com/track/1oFqKeepmT5S8BCGqJl7Ar",
-      "peak_rank": 4,
-      "days_on_chart": 469,
-      "streams": 79638
-    },
-    {
-      "rank": 76,
-      "prev_rank": 69,
-      "change": {
-        "status": "down",
-        "delta": -7
-      },
-      "title": "愛のレンタル",
-      "artists": [
-        "Macaroni Empitsu"
-      ],
-      "track_id": "4GgI6ESeHw4SPqicVY3HPV",
-      "track_url": "https://open.spotify.com/track/4GgI6ESeHw4SPqicVY3HPV",
-      "peak_rank": 62,
-      "days_on_chart": 160,
-      "streams": 79264
-    },
-    {
-      "rank": 77,
-      "prev_rank": 84,
-      "change": {
-        "status": "up",
-        "delta": 7
-      },
-      "title": "ハルノヒ",
-      "artists": [
-        "Aimyon"
-      ],
-      "track_id": "1oNeSCt0CMekCyyLo06kFs",
-      "track_url": "https://open.spotify.com/track/1oNeSCt0CMekCyyLo06kFs",
-      "peak_rank": 4,
-      "days_on_chart": 2266,
-      "streams": 78995
-    },
-    {
-      "rank": 78,
-      "prev_rank": 72,
-      "change": {
-        "status": "down",
-        "delta": -6
-      },
-      "title": "ブルーベリー・ナイツ",
-      "artists": [
-        "Macaroni Empitsu"
-      ],
-      "track_id": "2UdvMWk0Z83lMJPbawy2Sm",
-      "track_url": "https://open.spotify.com/track/2UdvMWk0Z83lMJPbawy2Sm",
-      "peak_rank": 54,
-      "days_on_chart": 2291,
-      "streams": 78608
-    },
-    {
-      "rank": 79,
-      "prev_rank": 82,
-      "change": {
-        "status": "up",
-        "delta": 3
-      },
-      "title": "とくべチュ、して",
-      "artists": [
-        "=LOVE"
-      ],
-      "track_id": "2XS2jEncSJsetNZdVtlpeo",
-      "track_url": "https://open.spotify.com/track/2XS2jEncSJsetNZdVtlpeo",
-      "peak_rank": 36,
-      "days_on_chart": 537,
-      "streams": 78393
-    },
-    {
-      "rank": 80,
-      "prev_rank": 83,
-      "change": {
-        "status": "up",
-        "delta": 3
-      },
-      "title": "スパークル",
-      "artists": [
-        "RADWIMPS"
-      ],
-      "track_id": "1HdqMIGjLm8wkL4vWDcFPm",
-      "track_url": "https://open.spotify.com/track/1HdqMIGjLm8wkL4vWDcFPm",
-      "peak_rank": 52,
-      "days_on_chart": 46,
-      "streams": 78263
-    },
-    {
-      "rank": 81,
       "prev_rank": 81,
       "change": {
-        "status": "same",
-        "delta": 0
+        "status": "up",
+        "delta": 6
       },
       "title": "怪獣",
       "artists": [
@@ -1397,168 +1294,33 @@
       "track_id": "6FhWelfRDMFZRtFUU6SIdC",
       "track_url": "https://open.spotify.com/track/6FhWelfRDMFZRtFUU6SIdC",
       "peak_rank": 1,
-      "days_on_chart": 603,
-      "streams": 78225
+      "days_on_chart": 604,
+      "streams": 75508
     },
     {
-      "rank": 82,
-      "prev_rank": 77,
-      "change": {
-        "status": "down",
-        "delta": -5
-      },
-      "title": "怪盗",
-      "artists": [
-        "back number"
-      ],
-      "track_id": "014Dp0tBp4d9uuFAvH1mlc",
-      "track_url": "https://open.spotify.com/track/014Dp0tBp4d9uuFAvH1mlc",
-      "peak_rank": 10,
-      "days_on_chart": 1971,
-      "streams": 78150
-    },
-    {
-      "rank": 83,
-      "prev_rank": 85,
-      "change": {
-        "status": "up",
-        "delta": 2
-      },
-      "title": "風と町",
-      "artists": [
-        "Mrs. GREEN APPLE"
-      ],
-      "track_id": "1ZcCFpGA7ufRBPsNIsTKa8",
-      "track_url": "https://open.spotify.com/track/1ZcCFpGA7ufRBPsNIsTKa8",
-      "peak_rank": 1,
-      "days_on_chart": 187,
-      "streams": 76552
-    },
-    {
-      "rank": 84,
-      "prev_rank": 87,
-      "change": {
-        "status": "up",
-        "delta": 3
-      },
-      "title": "You!Joy!Parade!",
-      "artists": [
-        "M!LK"
-      ],
-      "track_id": "74ThDjhS3BXmghci7Qbhv9",
-      "track_url": "https://open.spotify.com/track/74ThDjhS3BXmghci7Qbhv9",
-      "peak_rank": 16,
-      "days_on_chart": 92,
-      "streams": 76223
-    },
-    {
-      "rank": 85,
-      "prev_rank": 70,
-      "change": {
-        "status": "down",
-        "delta": -15
-      },
-      "title": "どうしてもどうしても",
-      "artists": [
-        "back number"
-      ],
-      "track_id": "6hlYmR30RGaHIz4UlVOG2U",
-      "track_url": "https://open.spotify.com/track/6hlYmR30RGaHIz4UlVOG2U",
-      "peak_rank": 27,
-      "days_on_chart": 293,
-      "streams": 75992
-    },
-    {
-      "rank": 86,
+      "rank": 76,
       "prev_rank": 73,
       "change": {
         "status": "down",
-        "delta": -13
+        "delta": -3
       },
-      "title": "ツキミソウ",
+      "title": "BPM",
       "artists": [
-        "Novelbright"
+        "Kvi Baba",
+        "KREVA"
       ],
-      "track_id": "6sElEqOIGENWjpxGFeo5ct",
-      "track_url": "https://open.spotify.com/track/6sElEqOIGENWjpxGFeo5ct",
-      "peak_rank": 51,
-      "days_on_chart": 1821,
-      "streams": 75985
+      "track_id": "6SMUXzvpo1dGg1N7QaMjvy",
+      "track_url": "https://open.spotify.com/track/6SMUXzvpo1dGg1N7QaMjvy",
+      "peak_rank": 53,
+      "days_on_chart": 173,
+      "streams": 75321
     },
     {
-      "rank": 87,
-      "prev_rank": 80,
-      "change": {
-        "status": "down",
-        "delta": -7
-      },
-      "title": "グッタイム",
-      "artists": [
-        "Snow Man"
-      ],
-      "track_id": "0bC8wYBhXCynw1Jt6QgMrg",
-      "track_url": "https://open.spotify.com/track/0bC8wYBhXCynw1Jt6QgMrg",
-      "peak_rank": 1,
-      "days_on_chart": 103,
-      "streams": 75825
-    },
-    {
-      "rank": 88,
-      "prev_rank": 52,
-      "change": {
-        "status": "down",
-        "delta": -36
-      },
-      "title": "雲を抜け風下へ私だけ",
-      "artists": [
-        "Yorushika"
-      ],
-      "track_id": "19XtWJTyMKMfLYUec3FlHx",
-      "track_url": "https://open.spotify.com/track/19XtWJTyMKMfLYUec3FlHx",
-      "peak_rank": 52,
-      "days_on_chart": 2,
-      "streams": 75369
-    },
-    {
-      "rank": 89,
-      "prev_rank": 88,
-      "change": {
-        "status": "down",
-        "delta": -1
-      },
-      "title": "インフェルノ",
-      "artists": [
-        "Mrs. GREEN APPLE"
-      ],
-      "track_id": "2vOAHp8PBBFYqvQUWSoITY",
-      "track_url": "https://open.spotify.com/track/2vOAHp8PBBFYqvQUWSoITY",
-      "peak_rank": 13,
-      "days_on_chart": 2646,
-      "streams": 74623
-    },
-    {
-      "rank": 90,
-      "prev_rank": 86,
-      "change": {
-        "status": "down",
-        "delta": -4
-      },
-      "title": "晩餐歌",
-      "artists": [
-        "tuki."
-      ],
-      "track_id": "2cxcqKwQtfKq7giphxjzOu",
-      "track_url": "https://open.spotify.com/track/2cxcqKwQtfKq7giphxjzOu",
-      "peak_rank": 2,
-      "days_on_chart": 1113,
-      "streams": 74454
-    },
-    {
-      "rank": 91,
-      "prev_rank": 94,
+      "rank": 77,
+      "prev_rank": 91,
       "change": {
         "status": "up",
-        "delta": 3
+        "delta": 14
       },
       "title": "Missing",
       "artists": [
@@ -1567,32 +1329,15 @@
       "track_id": "1zsPhef2vOQaRSj1H7yvXq",
       "track_url": "https://open.spotify.com/track/1zsPhef2vOQaRSj1H7yvXq",
       "peak_rank": 4,
-      "days_on_chart": 109,
-      "streams": 74254
+      "days_on_chart": 110,
+      "streams": 73648
     },
     {
-      "rank": 92,
-      "prev_rank": 89,
-      "change": {
-        "status": "down",
-        "delta": -3
-      },
-      "title": "幾億光年",
-      "artists": [
-        "Omoinotake"
-      ],
-      "track_id": "4dmruTsdHIOjfOIeaFitXK",
-      "track_url": "https://open.spotify.com/track/4dmruTsdHIOjfOIeaFitXK",
-      "peak_rank": 2,
-      "days_on_chart": 992,
-      "streams": 74238
-    },
-    {
-      "rank": 93,
-      "prev_rank": 106,
+      "rank": 78,
+      "prev_rank": 93,
       "change": {
         "status": "up",
-        "delta": 13
+        "delta": 15
       },
       "title": "正解",
       "artists": [
@@ -1601,49 +1346,49 @@
       "track_id": "6vg9UGXRVL4YKNVqVMmOKF",
       "track_url": "https://open.spotify.com/track/6vg9UGXRVL4YKNVqVMmOKF",
       "peak_rank": 29,
-      "days_on_chart": 372,
-      "streams": 74133
+      "days_on_chart": 373,
+      "streams": 73548
     },
     {
-      "rank": 94,
-      "prev_rank": 91,
+      "rank": 79,
+      "prev_rank": 72,
       "change": {
         "status": "down",
-        "delta": -3
+        "delta": -7
       },
-      "title": "クリスマスソング",
+      "title": "日曜日",
       "artists": [
         "back number"
       ],
-      "track_id": "5P8ZvBQoCrujjNcLAxO3Su",
-      "track_url": "https://open.spotify.com/track/5P8ZvBQoCrujjNcLAxO3Su",
-      "peak_rank": 1,
-      "days_on_chart": 1843,
-      "streams": 73769
+      "track_id": "1LDxe7AgJ7DRYdV012EmyR",
+      "track_url": "https://open.spotify.com/track/1LDxe7AgJ7DRYdV012EmyR",
+      "peak_rank": 61,
+      "days_on_chart": 228,
+      "streams": 73063
     },
     {
-      "rank": 95,
-      "prev_rank": 92,
-      "change": {
-        "status": "down",
-        "delta": -3
-      },
-      "title": "白日",
-      "artists": [
-        "King Gnu"
-      ],
-      "track_id": "172fMG26G2OoEzzg0wn26r",
-      "track_url": "https://open.spotify.com/track/172fMG26G2OoEzzg0wn26r",
-      "peak_rank": 3,
-      "days_on_chart": 2050,
-      "streams": 73626
-    },
-    {
-      "rank": 96,
-      "prev_rank": 104,
+      "rank": 80,
+      "prev_rank": 82,
       "change": {
         "status": "up",
-        "delta": 8
+        "delta": 2
+      },
+      "title": "怪盗",
+      "artists": [
+        "back number"
+      ],
+      "track_id": "014Dp0tBp4d9uuFAvH1mlc",
+      "track_url": "https://open.spotify.com/track/014Dp0tBp4d9uuFAvH1mlc",
+      "peak_rank": 10,
+      "days_on_chart": 1972,
+      "streams": 72392
+    },
+    {
+      "rank": 81,
+      "prev_rank": 96,
+      "change": {
+        "status": "up",
+        "delta": 15
       },
       "title": "アイネクライネ",
       "artists": [
@@ -1652,117 +1397,49 @@
       "track_id": "45YBVp6zMwQZRbUDcPzmMB",
       "track_url": "https://open.spotify.com/track/45YBVp6zMwQZRbUDcPzmMB",
       "peak_rank": 58,
-      "days_on_chart": 1500,
-      "streams": 73430
+      "days_on_chart": 1501,
+      "streams": 72322
     },
     {
-      "rank": 97,
-      "prev_rank": 103,
+      "rank": 82,
+      "prev_rank": 79,
+      "change": {
+        "status": "down",
+        "delta": -3
+      },
+      "title": "とくべチュ、して",
+      "artists": [
+        "=LOVE"
+      ],
+      "track_id": "2XS2jEncSJsetNZdVtlpeo",
+      "track_url": "https://open.spotify.com/track/2XS2jEncSJsetNZdVtlpeo",
+      "peak_rank": 36,
+      "days_on_chart": 538,
+      "streams": 72268
+    },
+    {
+      "rank": 83,
+      "prev_rank": 89,
       "change": {
         "status": "up",
         "delta": 6
       },
-      "title": "新しい恋人達に",
+      "title": "インフェルノ",
       "artists": [
-        "back number"
+        "Mrs. GREEN APPLE"
       ],
-      "track_id": "5LclntckGFFGFUVGJk9Z4x",
-      "track_url": "https://open.spotify.com/track/5LclntckGFFGFUVGJk9Z4x",
-      "peak_rank": 3,
-      "days_on_chart": 596,
-      "streams": 72271
+      "track_id": "2vOAHp8PBBFYqvQUWSoITY",
+      "track_url": "https://open.spotify.com/track/2vOAHp8PBBFYqvQUWSoITY",
+      "peak_rank": 13,
+      "days_on_chart": 2647,
+      "streams": 71636
     },
     {
-      "rank": 98,
-      "prev_rank": 100,
+      "rank": 84,
+      "prev_rank": 103,
       "change": {
         "status": "up",
-        "delta": 2
-      },
-      "title": "BAD",
-      "artists": [
-        "ATEEZ"
-      ],
-      "track_id": "55UDXtbNJBAdTdUdbRu8T3",
-      "track_url": "https://open.spotify.com/track/55UDXtbNJBAdTdUdbRu8T3",
-      "peak_rank": 51,
-      "days_on_chart": 95,
-      "streams": 72165
-    },
-    {
-      "rank": 99,
-      "prev_rank": 98,
-      "change": {
-        "status": "down",
-        "delta": -1
-      },
-      "title": "SAD SONG",
-      "artists": [
-        "CHANMINA"
-      ],
-      "track_id": "2zxK14g3shGRbgjUmKaj2x",
-      "track_url": "https://open.spotify.com/track/2zxK14g3shGRbgjUmKaj2x",
-      "peak_rank": 6,
-      "days_on_chart": 628,
-      "streams": 71573
-    },
-    {
-      "rank": 100,
-      "prev_rank": 95,
-      "change": {
-        "status": "down",
-        "delta": -5
-      },
-      "title": "いつか",
-      "artists": [
-        "Saucy Dog"
-      ],
-      "track_id": "0v3iUTe5rskRsxbUhboRlT",
-      "track_url": "https://open.spotify.com/track/0v3iUTe5rskRsxbUhboRlT",
-      "peak_rank": 51,
-      "days_on_chart": 2167,
-      "streams": 71395
-    },
-    {
-      "rank": 101,
-      "prev_rank": 97,
-      "change": {
-        "status": "down",
-        "delta": -4
-      },
-      "title": "旅路",
-      "artists": [
-        "Fujii Kaze"
-      ],
-      "track_id": "7uSLJCDetmdm3tQcoYLyty",
-      "track_url": "https://open.spotify.com/track/7uSLJCDetmdm3tQcoYLyty",
-      "peak_rank": 59,
-      "days_on_chart": 886,
-      "streams": 71369
-    },
-    {
-      "rank": 102,
-      "prev_rank": 96,
-      "change": {
-        "status": "down",
-        "delta": -6
-      },
-      "title": "満ちてゆく",
-      "artists": [
-        "Fujii Kaze"
-      ],
-      "track_id": "5glPFBAuA1C85tBcVWVzvO",
-      "track_url": "https://open.spotify.com/track/5glPFBAuA1C85tBcVWVzvO",
-      "peak_rank": 3,
-      "days_on_chart": 925,
-      "streams": 71341
-    },
-    {
-      "rank": 103,
-      "prev_rank": 108,
-      "change": {
-        "status": "up",
-        "delta": 5
+        "delta": 19
       },
       "title": "キセキ",
       "artists": [
@@ -1771,15 +1448,389 @@
       "track_id": "7ztdl6cnbJgHRdMkKldkts",
       "track_url": "https://open.spotify.com/track/7ztdl6cnbJgHRdMkKldkts",
       "peak_rank": 19,
-      "days_on_chart": 3042,
-      "streams": 71283
+      "days_on_chart": 3043,
+      "streams": 71286
+    },
+    {
+      "rank": 85,
+      "prev_rank": 76,
+      "change": {
+        "status": "down",
+        "delta": -9
+      },
+      "title": "愛のレンタル",
+      "artists": [
+        "Macaroni Empitsu"
+      ],
+      "track_id": "4GgI6ESeHw4SPqicVY3HPV",
+      "track_url": "https://open.spotify.com/track/4GgI6ESeHw4SPqicVY3HPV",
+      "peak_rank": 62,
+      "days_on_chart": 161,
+      "streams": 71233
+    },
+    {
+      "rank": 86,
+      "prev_rank": 95,
+      "change": {
+        "status": "up",
+        "delta": 9
+      },
+      "title": "白日",
+      "artists": [
+        "King Gnu"
+      ],
+      "track_id": "172fMG26G2OoEzzg0wn26r",
+      "track_url": "https://open.spotify.com/track/172fMG26G2OoEzzg0wn26r",
+      "peak_rank": 3,
+      "days_on_chart": 2051,
+      "streams": 71005
+    },
+    {
+      "rank": 87,
+      "prev_rank": 78,
+      "change": {
+        "status": "down",
+        "delta": -9
+      },
+      "title": "ブルーベリー・ナイツ",
+      "artists": [
+        "Macaroni Empitsu"
+      ],
+      "track_id": "2UdvMWk0Z83lMJPbawy2Sm",
+      "track_url": "https://open.spotify.com/track/2UdvMWk0Z83lMJPbawy2Sm",
+      "peak_rank": 54,
+      "days_on_chart": 2292,
+      "streams": 70591
+    },
+    {
+      "rank": 88,
+      "prev_rank": 86,
+      "change": {
+        "status": "down",
+        "delta": -2
+      },
+      "title": "ツキミソウ",
+      "artists": [
+        "Novelbright"
+      ],
+      "track_id": "6sElEqOIGENWjpxGFeo5ct",
+      "track_url": "https://open.spotify.com/track/6sElEqOIGENWjpxGFeo5ct",
+      "peak_rank": 51,
+      "days_on_chart": 1822,
+      "streams": 70405
+    },
+    {
+      "rank": 89,
+      "prev_rank": 92,
+      "change": {
+        "status": "up",
+        "delta": 3
+      },
+      "title": "幾億光年",
+      "artists": [
+        "Omoinotake"
+      ],
+      "track_id": "4dmruTsdHIOjfOIeaFitXK",
+      "track_url": "https://open.spotify.com/track/4dmruTsdHIOjfOIeaFitXK",
+      "peak_rank": 2,
+      "days_on_chart": 993,
+      "streams": 70335
+    },
+    {
+      "rank": 90,
+      "prev_rank": 90,
+      "change": {
+        "status": "same",
+        "delta": 0
+      },
+      "title": "晩餐歌",
+      "artists": [
+        "tuki."
+      ],
+      "track_id": "2cxcqKwQtfKq7giphxjzOu",
+      "track_url": "https://open.spotify.com/track/2cxcqKwQtfKq7giphxjzOu",
+      "peak_rank": 2,
+      "days_on_chart": 1114,
+      "streams": 69928
+    },
+    {
+      "rank": 91,
+      "prev_rank": 50,
+      "change": {
+        "status": "down",
+        "delta": -41
+      },
+      "title": "禁じた遊び",
+      "artists": [
+        "Mrs. GREEN APPLE"
+      ],
+      "track_id": "5S336OpuvPo7jrlGfUNohQ",
+      "track_url": "https://open.spotify.com/track/5S336OpuvPo7jrlGfUNohQ",
+      "peak_rank": 18,
+      "days_on_chart": 19,
+      "streams": 69832
+    },
+    {
+      "rank": 92,
+      "prev_rank": 84,
+      "change": {
+        "status": "down",
+        "delta": -8
+      },
+      "title": "You!Joy!Parade!",
+      "artists": [
+        "M!LK"
+      ],
+      "track_id": "74ThDjhS3BXmghci7Qbhv9",
+      "track_url": "https://open.spotify.com/track/74ThDjhS3BXmghci7Qbhv9",
+      "peak_rank": 16,
+      "days_on_chart": 93,
+      "streams": 69319
+    },
+    {
+      "rank": 93,
+      "prev_rank": 85,
+      "change": {
+        "status": "down",
+        "delta": -8
+      },
+      "title": "どうしてもどうしても",
+      "artists": [
+        "back number"
+      ],
+      "track_id": "6hlYmR30RGaHIz4UlVOG2U",
+      "track_url": "https://open.spotify.com/track/6hlYmR30RGaHIz4UlVOG2U",
+      "peak_rank": 27,
+      "days_on_chart": 294,
+      "streams": 69171
+    },
+    {
+      "rank": 94,
+      "prev_rank": 108,
+      "change": {
+        "status": "up",
+        "delta": 14
+      },
+      "title": "ロビンソン",
+      "artists": [
+        "SPITZ"
+      ],
+      "track_id": "0sVnyL71jTOuMt9TZ59bws",
+      "track_url": "https://open.spotify.com/track/0sVnyL71jTOuMt9TZ59bws",
+      "peak_rank": 32,
+      "days_on_chart": 2228,
+      "streams": 68742
+    },
+    {
+      "rank": 95,
+      "prev_rank": 99,
+      "change": {
+        "status": "up",
+        "delta": 4
+      },
+      "title": "SAD SONG",
+      "artists": [
+        "CHANMINA"
+      ],
+      "track_id": "2zxK14g3shGRbgjUmKaj2x",
+      "track_url": "https://open.spotify.com/track/2zxK14g3shGRbgjUmKaj2x",
+      "peak_rank": 6,
+      "days_on_chart": 629,
+      "streams": 68561
+    },
+    {
+      "rank": 96,
+      "prev_rank": 88,
+      "change": {
+        "status": "down",
+        "delta": -8
+      },
+      "title": "雲を抜け風下へ私だけ",
+      "artists": [
+        "Yorushika"
+      ],
+      "track_id": "19XtWJTyMKMfLYUec3FlHx",
+      "track_url": "https://open.spotify.com/track/19XtWJTyMKMfLYUec3FlHx",
+      "peak_rank": 52,
+      "days_on_chart": 3,
+      "streams": 68513
+    },
+    {
+      "rank": 97,
+      "prev_rank": 83,
+      "change": {
+        "status": "down",
+        "delta": -14
+      },
+      "title": "風と町",
+      "artists": [
+        "Mrs. GREEN APPLE"
+      ],
+      "track_id": "1ZcCFpGA7ufRBPsNIsTKa8",
+      "track_url": "https://open.spotify.com/track/1ZcCFpGA7ufRBPsNIsTKa8",
+      "peak_rank": 1,
+      "days_on_chart": 188,
+      "streams": 68405
+    },
+    {
+      "rank": 98,
+      "prev_rank": 87,
+      "change": {
+        "status": "down",
+        "delta": -11
+      },
+      "title": "グッタイム",
+      "artists": [
+        "Snow Man"
+      ],
+      "track_id": "0bC8wYBhXCynw1Jt6QgMrg",
+      "track_url": "https://open.spotify.com/track/0bC8wYBhXCynw1Jt6QgMrg",
+      "peak_rank": 1,
+      "days_on_chart": 104,
+      "streams": 68161
+    },
+    {
+      "rank": 99,
+      "prev_rank": 107,
+      "change": {
+        "status": "up",
+        "delta": 8
+      },
+      "title": "Lemon",
+      "artists": [
+        "Kenshi Yonezu"
+      ],
+      "track_id": "04TshWXkhV1qkqHzf31Hn6",
+      "track_url": "https://open.spotify.com/track/04TshWXkhV1qkqHzf31Hn6",
+      "peak_rank": 4,
+      "days_on_chart": 2238,
+      "streams": 68078
+    },
+    {
+      "rank": 100,
+      "prev_rank": 94,
+      "change": {
+        "status": "down",
+        "delta": -6
+      },
+      "title": "クリスマスソング",
+      "artists": [
+        "back number"
+      ],
+      "track_id": "5P8ZvBQoCrujjNcLAxO3Su",
+      "track_url": "https://open.spotify.com/track/5P8ZvBQoCrujjNcLAxO3Su",
+      "peak_rank": 1,
+      "days_on_chart": 1844,
+      "streams": 67984
+    },
+    {
+      "rank": 101,
+      "prev_rank": 106,
+      "change": {
+        "status": "up",
+        "delta": 5
+      },
+      "title": "Never Grow Up",
+      "artists": [
+        "CHANMINA"
+      ],
+      "track_id": "5aDgM8rYPT15CqjkN1EIKq",
+      "track_url": "https://open.spotify.com/track/5aDgM8rYPT15CqjkN1EIKq",
+      "peak_rank": 21,
+      "days_on_chart": 1648,
+      "streams": 67555
+    },
+    {
+      "rank": 102,
+      "prev_rank": 105,
+      "change": {
+        "status": "up",
+        "delta": 3
+      },
+      "title": "姿",
+      "artists": [
+        "Aimyon"
+      ],
+      "track_id": "5okAqlWhkOADHjd61PKslW",
+      "track_url": "https://open.spotify.com/track/5okAqlWhkOADHjd61PKslW",
+      "peak_rank": 84,
+      "days_on_chart": 39,
+      "streams": 67413
+    },
+    {
+      "rank": 103,
+      "prev_rank": 97,
+      "change": {
+        "status": "down",
+        "delta": -6
+      },
+      "title": "新しい恋人達に",
+      "artists": [
+        "back number"
+      ],
+      "track_id": "5LclntckGFFGFUVGJk9Z4x",
+      "track_url": "https://open.spotify.com/track/5LclntckGFFGFUVGJk9Z4x",
+      "peak_rank": 3,
+      "days_on_chart": 597,
+      "streams": 66856
     },
     {
       "rank": 104,
-      "prev_rank": 99,
+      "prev_rank": 115,
+      "change": {
+        "status": "up",
+        "delta": 11
+      },
+      "title": "EGO",
+      "artists": [
+        "Travis Japan"
+      ],
+      "track_id": "5503SbOjsHoAF12iwW4eS4",
+      "track_url": "https://open.spotify.com/track/5503SbOjsHoAF12iwW4eS4",
+      "peak_rank": 104,
+      "days_on_chart": 5,
+      "streams": 66811
+    },
+    {
+      "rank": 105,
+      "prev_rank": 102,
       "change": {
         "status": "down",
-        "delta": -5
+        "delta": -3
+      },
+      "title": "満ちてゆく",
+      "artists": [
+        "Fujii Kaze"
+      ],
+      "track_id": "5glPFBAuA1C85tBcVWVzvO",
+      "track_url": "https://open.spotify.com/track/5glPFBAuA1C85tBcVWVzvO",
+      "peak_rank": 3,
+      "days_on_chart": 926,
+      "streams": 66693
+    },
+    {
+      "rank": 106,
+      "prev_rank": 110,
+      "change": {
+        "status": "up",
+        "delta": 4
+      },
+      "title": "Subtitle",
+      "artists": [
+        "OFFICIAL HIGE DANDISM"
+      ],
+      "track_id": "49F3htNmwzPKFycPdOrDvf",
+      "track_url": "https://open.spotify.com/track/49F3htNmwzPKFycPdOrDvf",
+      "peak_rank": 1,
+      "days_on_chart": 1467,
+      "streams": 66671
+    },
+    {
+      "rank": 107,
+      "prev_rank": 104,
+      "change": {
+        "status": "down",
+        "delta": -3
       },
       "title": "JANE DOE",
       "artists": [
@@ -1789,83 +1840,32 @@
       "track_id": "4oE7MyJhqSD3BaHRpNs8Nl",
       "track_url": "https://open.spotify.com/track/4oE7MyJhqSD3BaHRpNs8Nl",
       "peak_rank": 2,
-      "days_on_chart": 390,
-      "streams": 71138
-    },
-    {
-      "rank": 105,
-      "prev_rank": 101,
-      "change": {
-        "status": "down",
-        "delta": -4
-      },
-      "title": "姿",
-      "artists": [
-        "Aimyon"
-      ],
-      "track_id": "5okAqlWhkOADHjd61PKslW",
-      "track_url": "https://open.spotify.com/track/5okAqlWhkOADHjd61PKslW",
-      "peak_rank": 84,
-      "days_on_chart": 38,
-      "streams": 71011
-    },
-    {
-      "rank": 106,
-      "prev_rank": 107,
-      "change": {
-        "status": "up",
-        "delta": 1
-      },
-      "title": "Never Grow Up",
-      "artists": [
-        "CHANMINA"
-      ],
-      "track_id": "5aDgM8rYPT15CqjkN1EIKq",
-      "track_url": "https://open.spotify.com/track/5aDgM8rYPT15CqjkN1EIKq",
-      "peak_rank": 21,
-      "days_on_chart": 1647,
-      "streams": 70857
-    },
-    {
-      "rank": 107,
-      "prev_rank": 113,
-      "change": {
-        "status": "up",
-        "delta": 6
-      },
-      "title": "Lemon",
-      "artists": [
-        "Kenshi Yonezu"
-      ],
-      "track_id": "04TshWXkhV1qkqHzf31Hn6",
-      "track_url": "https://open.spotify.com/track/04TshWXkhV1qkqHzf31Hn6",
-      "peak_rank": 4,
-      "days_on_chart": 2237,
-      "streams": 70715
+      "days_on_chart": 391,
+      "streams": 66662
     },
     {
       "rank": 108,
-      "prev_rank": 120,
+      "prev_rank": 101,
       "change": {
-        "status": "up",
-        "delta": 12
+        "status": "down",
+        "delta": -7
       },
-      "title": "ロビンソン",
+      "title": "旅路",
       "artists": [
-        "SPITZ"
+        "Fujii Kaze"
       ],
-      "track_id": "0sVnyL71jTOuMt9TZ59bws",
-      "track_url": "https://open.spotify.com/track/0sVnyL71jTOuMt9TZ59bws",
-      "peak_rank": 32,
-      "days_on_chart": 2227,
-      "streams": 70666
+      "track_id": "7uSLJCDetmdm3tQcoYLyty",
+      "track_url": "https://open.spotify.com/track/7uSLJCDetmdm3tQcoYLyty",
+      "peak_rank": 59,
+      "days_on_chart": 887,
+      "streams": 66231
     },
     {
       "rank": 109,
-      "prev_rank": 105,
+      "prev_rank": 109,
       "change": {
-        "status": "down",
-        "delta": -4
+        "status": "same",
+        "delta": 0
       },
       "title": "AIZO",
       "artists": [
@@ -1874,49 +1874,15 @@
       "track_id": "65X2koe1LhDgQmRkNdJFv9",
       "track_url": "https://open.spotify.com/track/65X2koe1LhDgQmRkNdJFv9",
       "peak_rank": 1,
-      "days_on_chart": 281,
-      "streams": 70305
+      "days_on_chart": 282,
+      "streams": 66147
     },
     {
       "rank": 110,
-      "prev_rank": 118,
+      "prev_rank": 112,
       "change": {
         "status": "up",
-        "delta": 8
-      },
-      "title": "Subtitle",
-      "artists": [
-        "OFFICIAL HIGE DANDISM"
-      ],
-      "track_id": "49F3htNmwzPKFycPdOrDvf",
-      "track_url": "https://open.spotify.com/track/49F3htNmwzPKFycPdOrDvf",
-      "peak_rank": 1,
-      "days_on_chart": 1466,
-      "streams": 70290
-    },
-    {
-      "rank": 111,
-      "prev_rank": 93,
-      "change": {
-        "status": "down",
-        "delta": -18
-      },
-      "title": "雪月花",
-      "artists": [
-        "yangskinny"
-      ],
-      "track_id": "21UVLrJ0yuJ6CGeElXMG0C",
-      "track_url": "https://open.spotify.com/track/21UVLrJ0yuJ6CGeElXMG0C",
-      "peak_rank": 28,
-      "days_on_chart": 279,
-      "streams": 70133
-    },
-    {
-      "rank": 112,
-      "prev_rank": 102,
-      "change": {
-        "status": "down",
-        "delta": -10
+        "delta": 2
       },
       "title": "さよならエレジー",
       "artists": [
@@ -1925,15 +1891,32 @@
       "track_id": "3oYD2O31b05fILFpv0AXRI",
       "track_url": "https://open.spotify.com/track/3oYD2O31b05fILFpv0AXRI",
       "peak_rank": 62,
-      "days_on_chart": 1562,
-      "streams": 69682
+      "days_on_chart": 1563,
+      "streams": 66057
     },
     {
-      "rank": 113,
-      "prev_rank": 111,
+      "rank": 111,
+      "prev_rank": 98,
       "change": {
         "status": "down",
-        "delta": -2
+        "delta": -13
+      },
+      "title": "BAD",
+      "artists": [
+        "ATEEZ"
+      ],
+      "track_id": "55UDXtbNJBAdTdUdbRu8T3",
+      "track_url": "https://open.spotify.com/track/55UDXtbNJBAdTdUdbRu8T3",
+      "peak_rank": 51,
+      "days_on_chart": 96,
+      "streams": 65909
+    },
+    {
+      "rank": 112,
+      "prev_rank": 113,
+      "change": {
+        "status": "up",
+        "delta": 1
       },
       "title": "不可幸力",
       "artists": [
@@ -1942,15 +1925,15 @@
       "track_id": "6AncLCxf4U7ivJEaqih9zA",
       "track_url": "https://open.spotify.com/track/6AncLCxf4U7ivJEaqih9zA",
       "peak_rank": 18,
-      "days_on_chart": 2279,
-      "streams": 69665
+      "days_on_chart": 2280,
+      "streams": 65351
     },
     {
-      "rank": 114,
-      "prev_rank": 117,
+      "rank": 113,
+      "prev_rank": 114,
       "change": {
         "status": "up",
-        "delta": 3
+        "delta": 1
       },
       "title": "napori",
       "artists": [
@@ -1959,83 +1942,32 @@
       "track_id": "7hDX39mc6Uf6zp8RXYUQ6d",
       "track_url": "https://open.spotify.com/track/7hDX39mc6Uf6zp8RXYUQ6d",
       "peak_rank": 16,
-      "days_on_chart": 2105,
-      "streams": 69452
+      "days_on_chart": 2106,
+      "streams": 64434
+    },
+    {
+      "rank": 114,
+      "prev_rank": null,
+      "change": {
+        "status": "new",
+        "delta": null
+      },
+      "title": "汝、星のごとく",
+      "artists": [
+        "RADWIMPS"
+      ],
+      "track_id": "3HC46DzSre5EflDoNa5yrj",
+      "track_url": "https://open.spotify.com/track/3HC46DzSre5EflDoNa5yrj",
+      "peak_rank": 114,
+      "days_on_chart": 1,
+      "streams": 63938
     },
     {
       "rank": 115,
-      "prev_rank": 130,
-      "change": {
-        "status": "up",
-        "delta": 15
-      },
-      "title": "EGO",
-      "artists": [
-        "Travis Japan"
-      ],
-      "track_id": "5503SbOjsHoAF12iwW4eS4",
-      "track_url": "https://open.spotify.com/track/5503SbOjsHoAF12iwW4eS4",
-      "peak_rank": 115,
-      "days_on_chart": 4,
-      "streams": 69269
-    },
-    {
-      "rank": 116,
-      "prev_rank": 114,
-      "change": {
-        "status": "down",
-        "delta": -2
-      },
-      "title": "ベテルギウス",
-      "artists": [
-        "Yuuri"
-      ],
-      "track_id": "4JK1kDUdH9RTBQrrSO1QfR",
-      "track_url": "https://open.spotify.com/track/4JK1kDUdH9RTBQrrSO1QfR",
-      "peak_rank": 1,
-      "days_on_chart": 1807,
-      "streams": 67944
-    },
-    {
-      "rank": 117,
-      "prev_rank": 115,
-      "change": {
-        "status": "down",
-        "delta": -2
-      },
-      "title": "First Love",
-      "artists": [
-        "Hikaru Utada"
-      ],
-      "track_id": "39HrUxcvKF3jtLz7fUDWXc",
-      "track_url": "https://open.spotify.com/track/39HrUxcvKF3jtLz7fUDWXc",
-      "peak_rank": 8,
-      "days_on_chart": 1589,
-      "streams": 67264
-    },
-    {
-      "rank": 118,
       "prev_rank": 119,
       "change": {
         "status": "up",
-        "delta": 1
-      },
-      "title": "Wherever you are",
-      "artists": [
-        "ONE OK ROCK"
-      ],
-      "track_id": "7a7EIFzJLd7lcDRgThMQgm",
-      "track_url": "https://open.spotify.com/track/7a7EIFzJLd7lcDRgThMQgm",
-      "peak_rank": 4,
-      "days_on_chart": 3027,
-      "streams": 67156
-    },
-    {
-      "rank": 119,
-      "prev_rank": 110,
-      "change": {
-        "status": "down",
-        "delta": -9
+        "delta": 4
       },
       "title": "楓",
       "artists": [
@@ -2044,15 +1976,15 @@
       "track_id": "0b7IBgZjedM53ufZV4f4CL",
       "track_url": "https://open.spotify.com/track/0b7IBgZjedM53ufZV4f4CL",
       "peak_rank": 24,
-      "days_on_chart": 1310,
-      "streams": 66993
+      "days_on_chart": 1311,
+      "streams": 63788
     },
     {
-      "rank": 120,
-      "prev_rank": 121,
+      "rank": 116,
+      "prev_rank": 120,
       "change": {
         "status": "up",
-        "delta": 1
+        "delta": 4
       },
       "title": "愛唄",
       "artists": [
@@ -2061,66 +1993,134 @@
       "track_id": "7iXHLtPosbHvglVSJ4rxLq",
       "track_url": "https://open.spotify.com/track/7iXHLtPosbHvglVSJ4rxLq",
       "peak_rank": 4,
-      "days_on_chart": 2864,
-      "streams": 66960
+      "days_on_chart": 2865,
+      "streams": 63638
     },
     {
-      "rank": 121,
-      "prev_rank": 127,
-      "change": {
-        "status": "up",
-        "delta": 6
-      },
-      "title": "So Honey",
-      "artists": [
-        "King & Prince"
-      ],
-      "track_id": "5oAyDEvsfDuirGzjEh3p3D",
-      "track_url": "https://open.spotify.com/track/5oAyDEvsfDuirGzjEh3p3D",
-      "peak_rank": 22,
-      "days_on_chart": 46,
-      "streams": 66589
-    },
-    {
-      "rank": 122,
-      "prev_rank": 109,
+      "rank": 117,
+      "prev_rank": 100,
       "change": {
         "status": "down",
-        "delta": -13
+        "delta": -17
       },
-      "title": "エピソード",
+      "title": "いつか",
       "artists": [
-        "Mrs. GREEN APPLE"
+        "Saucy Dog"
       ],
-      "track_id": "4xHW17qjig42xvoNlgCRVc",
-      "track_url": "https://open.spotify.com/track/4xHW17qjig42xvoNlgCRVc",
-      "peak_rank": 35,
-      "days_on_chart": 18,
-      "streams": 66417
+      "track_id": "0v3iUTe5rskRsxbUhboRlT",
+      "track_url": "https://open.spotify.com/track/0v3iUTe5rskRsxbUhboRlT",
+      "peak_rank": 51,
+      "days_on_chart": 2168,
+      "streams": 62705
     },
     {
-      "rank": 123,
-      "prev_rank": 123,
+      "rank": 118,
+      "prev_rank": 118,
       "change": {
         "status": "same",
         "delta": 0
       },
-      "title": "W / X / Y",
+      "title": "Wherever you are",
       "artists": [
-        "Tani Yuuki"
+        "ONE OK ROCK"
       ],
-      "track_id": "4IfrM44LofE9bSs6TDZS49",
-      "track_url": "https://open.spotify.com/track/4IfrM44LofE9bSs6TDZS49",
+      "track_id": "7a7EIFzJLd7lcDRgThMQgm",
+      "track_url": "https://open.spotify.com/track/7a7EIFzJLd7lcDRgThMQgm",
+      "peak_rank": 4,
+      "days_on_chart": 3028,
+      "streams": 62695
+    },
+    {
+      "rank": 119,
+      "prev_rank": 116,
+      "change": {
+        "status": "down",
+        "delta": -3
+      },
+      "title": "ベテルギウス",
+      "artists": [
+        "Yuuri"
+      ],
+      "track_id": "4JK1kDUdH9RTBQrrSO1QfR",
+      "track_url": "https://open.spotify.com/track/4JK1kDUdH9RTBQrrSO1QfR",
       "peak_rank": 1,
-      "days_on_chart": 1755,
-      "streams": 65411
+      "days_on_chart": 1808,
+      "streams": 62619
+    },
+    {
+      "rank": 120,
+      "prev_rank": 117,
+      "change": {
+        "status": "down",
+        "delta": -3
+      },
+      "title": "First Love",
+      "artists": [
+        "Hikaru Utada"
+      ],
+      "track_id": "39HrUxcvKF3jtLz7fUDWXc",
+      "track_url": "https://open.spotify.com/track/39HrUxcvKF3jtLz7fUDWXc",
+      "peak_rank": 8,
+      "days_on_chart": 1590,
+      "streams": 62331
+    },
+    {
+      "rank": 121,
+      "prev_rank": 145,
+      "change": {
+        "status": "up",
+        "delta": 24
+      },
+      "title": "3XL",
+      "artists": [
+        "Number_i"
+      ],
+      "track_id": "3sNbkM4pIy1l7p6K2lhpvm",
+      "track_url": "https://open.spotify.com/track/3sNbkM4pIy1l7p6K2lhpvm",
+      "peak_rank": 1,
+      "days_on_chart": 265,
+      "streams": 61989
+    },
+    {
+      "rank": 122,
+      "prev_rank": 140,
+      "change": {
+        "status": "up",
+        "delta": 18
+      },
+      "title": "三日月",
+      "artists": [
+        "ayaka"
+      ],
+      "track_id": "5SDVaYU4nfaIV0rNSlWSCa",
+      "track_url": "https://open.spotify.com/track/5SDVaYU4nfaIV0rNSlWSCa",
+      "peak_rank": 84,
+      "days_on_chart": 593,
+      "streams": 61782
+    },
+    {
+      "rank": 123,
+      "prev_rank": 111,
+      "change": {
+        "status": "down",
+        "delta": -12
+      },
+      "title": "雪月花",
+      "artists": [
+        "yangskinny"
+      ],
+      "track_id": "21UVLrJ0yuJ6CGeElXMG0C",
+      "track_url": "https://open.spotify.com/track/21UVLrJ0yuJ6CGeElXMG0C",
+      "peak_rank": 28,
+      "days_on_chart": 280,
+      "streams": 61696
     },
     {
       "rank": 124,
-      "prev_rank": 122,
+      "prev_rank": 124,
       "change": {
-        "status": "down",
-        "delta": -2
+        "status": "same",
+        "delta": 0
       },
       "title": "ハレンチ",
       "artists": [
@@ -2129,83 +2129,32 @@
       "track_id": "2BfzhBl79bcPOHHXAXJkTY",
       "track_url": "https://open.spotify.com/track/2BfzhBl79bcPOHHXAXJkTY",
       "peak_rank": 17,
-      "days_on_chart": 831,
-      "streams": 65062
+      "days_on_chart": 832,
+      "streams": 61493
     },
     {
       "rank": 125,
-      "prev_rank": 125,
+      "prev_rank": 123,
       "change": {
-        "status": "same",
-        "delta": 0
+        "status": "down",
+        "delta": -2
       },
-      "title": "愛とか恋とか",
+      "title": "W / X / Y",
       "artists": [
-        "Novelbright"
+        "Tani Yuuki"
       ],
-      "track_id": "1VHL1PIkhDwWbFc65xHwOr",
-      "track_url": "https://open.spotify.com/track/1VHL1PIkhDwWbFc65xHwOr",
-      "peak_rank": 7,
-      "days_on_chart": 1642,
-      "streams": 64626
+      "track_id": "4IfrM44LofE9bSs6TDZS49",
+      "track_url": "https://open.spotify.com/track/4IfrM44LofE9bSs6TDZS49",
+      "peak_rank": 1,
+      "days_on_chart": 1756,
+      "streams": 61472
     },
     {
       "rank": 126,
-      "prev_rank": 126,
-      "change": {
-        "status": "same",
-        "delta": 0
-      },
-      "title": "今夜このまま",
-      "artists": [
-        "Aimyon"
-      ],
-      "track_id": "6kKvmT4i0Dercz6f3kftg3",
-      "track_url": "https://open.spotify.com/track/6kKvmT4i0Dercz6f3kftg3",
-      "peak_rank": 1,
-      "days_on_chart": 1502,
-      "streams": 64441
-    },
-    {
-      "rank": 127,
-      "prev_rank": 116,
-      "change": {
-        "status": "down",
-        "delta": -11
-      },
-      "title": "me me she",
-      "artists": [
-        "RADWIMPS"
-      ],
-      "track_id": "0BYa5V0RyOYthDeCMUBJQZ",
-      "track_url": "https://open.spotify.com/track/0BYa5V0RyOYthDeCMUBJQZ",
-      "peak_rank": 51,
-      "days_on_chart": 607,
-      "streams": 64318
-    },
-    {
-      "rank": 128,
-      "prev_rank": 124,
-      "change": {
-        "status": "down",
-        "delta": -4
-      },
-      "title": "新宝島",
-      "artists": [
-        "sakanaction"
-      ],
-      "track_id": "4a48lWUd64bZgHUDx0GZlj",
-      "track_url": "https://open.spotify.com/track/4a48lWUd64bZgHUDx0GZlj",
-      "peak_rank": 2,
-      "days_on_chart": 1590,
-      "streams": 64180
-    },
-    {
-      "rank": 129,
-      "prev_rank": 141,
+      "prev_rank": 129,
       "change": {
         "status": "up",
-        "delta": 12
+        "delta": 3
       },
       "title": "感電",
       "artists": [
@@ -2214,12 +2163,29 @@
       "track_id": "6H0PLsSYMzDOqhLgyOlzIj",
       "track_url": "https://open.spotify.com/track/6H0PLsSYMzDOqhLgyOlzIj",
       "peak_rank": 23,
-      "days_on_chart": 1669,
-      "streams": 63524
+      "days_on_chart": 1670,
+      "streams": 61256
     },
     {
-      "rank": 130,
-      "prev_rank": 132,
+      "rank": 127,
+      "prev_rank": 126,
+      "change": {
+        "status": "down",
+        "delta": -1
+      },
+      "title": "今夜このまま",
+      "artists": [
+        "Aimyon"
+      ],
+      "track_id": "6kKvmT4i0Dercz6f3kftg3",
+      "track_url": "https://open.spotify.com/track/6kKvmT4i0Dercz6f3kftg3",
+      "peak_rank": 1,
+      "days_on_chart": 1503,
+      "streams": 61203
+    },
+    {
+      "rank": 128,
+      "prev_rank": 130,
       "change": {
         "status": "up",
         "delta": 2
@@ -2231,151 +2197,49 @@
       "track_id": "57zS3lPil2VxdlBLXHu8l2",
       "track_url": "https://open.spotify.com/track/57zS3lPil2VxdlBLXHu8l2",
       "peak_rank": 1,
-      "days_on_chart": 560,
-      "streams": 63285
+      "days_on_chart": 561,
+      "streams": 61119
     },
     {
-      "rank": 131,
-      "prev_rank": 112,
+      "rank": 129,
+      "prev_rank": 128,
       "change": {
         "status": "down",
-        "delta": -19
+        "delta": -1
       },
-      "title": "It’s not a bad life",
+      "title": "新宝島",
       "artists": [
-        "BE:FIRST"
+        "sakanaction"
       ],
-      "track_id": "4nQPJUvKuq8ZbcjCqbMzu0",
-      "track_url": "https://open.spotify.com/track/4nQPJUvKuq8ZbcjCqbMzu0",
-      "peak_rank": 112,
-      "days_on_chart": 3,
-      "streams": 62930
+      "track_id": "4a48lWUd64bZgHUDx0GZlj",
+      "track_url": "https://open.spotify.com/track/4a48lWUd64bZgHUDx0GZlj",
+      "peak_rank": 2,
+      "days_on_chart": 1591,
+      "streams": 60814
     },
     {
-      "rank": 132,
-      "prev_rank": 156,
-      "change": {
-        "status": "up",
-        "delta": 24
-      },
-      "title": "花占い",
-      "artists": [
-        "Vaundy"
-      ],
-      "track_id": "4ETc1oFREuqQss7VQ1Y4mj",
-      "track_url": "https://open.spotify.com/track/4ETc1oFREuqQss7VQ1Y4mj",
-      "peak_rank": 17,
-      "days_on_chart": 1805,
-      "streams": 62778
-    },
-    {
-      "rank": 133,
-      "prev_rank": 143,
-      "change": {
-        "status": "up",
-        "delta": 10
-      },
-      "title": "Story",
-      "artists": [
-        "AI"
-      ],
-      "track_id": "0V2axJ946WH1vt9t5SGMLV",
-      "track_url": "https://open.spotify.com/track/0V2axJ946WH1vt9t5SGMLV",
-      "peak_rank": 17,
-      "days_on_chart": 1541,
-      "streams": 62760
-    },
-    {
-      "rank": 134,
-      "prev_rank": 138,
-      "change": {
-        "status": "up",
-        "delta": 4
-      },
-      "title": "I LOVE...",
-      "artists": [
-        "OFFICIAL HIGE DANDISM"
-      ],
-      "track_id": "5wWLNNwMAehpj83FU4Lz0m",
-      "track_url": "https://open.spotify.com/track/5wWLNNwMAehpj83FU4Lz0m",
-      "peak_rank": 1,
-      "days_on_chart": 2365,
-      "streams": 62590
-    },
-    {
-      "rank": 135,
-      "prev_rank": 133,
-      "change": {
-        "status": "down",
-        "delta": -2
-      },
-      "title": "アイラブユー",
-      "artists": [
-        "back number"
-      ],
-      "track_id": "34ayWAUrQcrjlKZOJAzqke",
-      "track_url": "https://open.spotify.com/track/34ayWAUrQcrjlKZOJAzqke",
-      "peak_rank": 8,
-      "days_on_chart": 1296,
-      "streams": 62589
-    },
-    {
-      "rank": 136,
-      "prev_rank": 131,
+      "rank": 130,
+      "prev_rank": 125,
       "change": {
         "status": "down",
         "delta": -5
       },
-      "title": "Walking with you",
+      "title": "愛とか恋とか",
       "artists": [
         "Novelbright"
       ],
-      "track_id": "7tGDXCPLpAScEwmqab9YZd",
-      "track_url": "https://open.spotify.com/track/7tGDXCPLpAScEwmqab9YZd",
-      "peak_rank": 13,
-      "days_on_chart": 2301,
-      "streams": 62164
+      "track_id": "1VHL1PIkhDwWbFc65xHwOr",
+      "track_url": "https://open.spotify.com/track/1VHL1PIkhDwWbFc65xHwOr",
+      "peak_rank": 7,
+      "days_on_chart": 1643,
+      "streams": 60435
     },
     {
-      "rank": 137,
-      "prev_rank": 129,
-      "change": {
-        "status": "down",
-        "delta": -8
-      },
-      "title": "美しい鰭",
-      "artists": [
-        "SPITZ"
-      ],
-      "track_id": "1H3qOzheTPhE7aVvJOWfvA",
-      "track_url": "https://open.spotify.com/track/1H3qOzheTPhE7aVvJOWfvA",
-      "peak_rank": 2,
-      "days_on_chart": 1247,
-      "streams": 61493
-    },
-    {
-      "rank": 138,
-      "prev_rank": 135,
-      "change": {
-        "status": "down",
-        "delta": -3
-      },
-      "title": "魔法の絨毯",
-      "artists": [
-        "Takaya Kawasaki"
-      ],
-      "track_id": "3PK5ERLCyMuQ5Cb89GbZVL",
-      "track_url": "https://open.spotify.com/track/3PK5ERLCyMuQ5Cb89GbZVL",
-      "peak_rank": 13,
-      "days_on_chart": 1683,
-      "streams": 61447
-    },
-    {
-      "rank": 139,
-      "prev_rank": 155,
+      "rank": 131,
+      "prev_rank": 139,
       "change": {
         "status": "up",
-        "delta": 16
+        "delta": 8
       },
       "title": "TSUNAMI",
       "artists": [
@@ -2384,284 +2248,63 @@
       "track_id": "2iXZA6Ecf9AZHw92tZBNLv",
       "track_url": "https://open.spotify.com/track/2iXZA6Ecf9AZHw92tZBNLv",
       "peak_rank": 54,
-      "days_on_chart": 398,
-      "streams": 61112
+      "days_on_chart": 399,
+      "streams": 60334
     },
     {
-      "rank": 140,
-      "prev_rank": 150,
-      "change": {
-        "status": "up",
-        "delta": 10
-      },
-      "title": "三日月",
-      "artists": [
-        "ayaka"
-      ],
-      "track_id": "5SDVaYU4nfaIV0rNSlWSCa",
-      "track_url": "https://open.spotify.com/track/5SDVaYU4nfaIV0rNSlWSCa",
-      "peak_rank": 84,
-      "days_on_chart": 592,
-      "streams": 60847
-    },
-    {
-      "rank": 141,
-      "prev_rank": 153,
-      "change": {
-        "status": "up",
-        "delta": 12
-      },
-      "title": "Five",
-      "artists": [
-        "ARASHI"
-      ],
-      "track_id": "2cIqVZFyBH8h5dnrzBvtre",
-      "track_url": "https://open.spotify.com/track/2cIqVZFyBH8h5dnrzBvtre",
-      "peak_rank": 1,
-      "days_on_chart": 227,
-      "streams": 60748
-    },
-    {
-      "rank": 142,
-      "prev_rank": 151,
-      "change": {
-        "status": "up",
-        "delta": 9
-      },
-      "title": "花",
-      "artists": [
-        "Fujii Kaze"
-      ],
-      "track_id": "5RIQU2JDuXC4NkLiHNNMon",
-      "track_url": "https://open.spotify.com/track/5RIQU2JDuXC4NkLiHNNMon",
-      "peak_rank": 7,
-      "days_on_chart": 1062,
-      "streams": 60618
-    },
-    {
-      "rank": 143,
-      "prev_rank": 142,
-      "change": {
-        "status": "down",
-        "delta": -1
-      },
-      "title": "Theater",
-      "artists": [
-        "King & Prince"
-      ],
-      "track_id": "6iltt0n1DkQ0AtCcwxXNZJ",
-      "track_url": "https://open.spotify.com/track/6iltt0n1DkQ0AtCcwxXNZJ",
-      "peak_rank": 4,
-      "days_on_chart": 299,
-      "streams": 60514
-    },
-    {
-      "rank": 144,
-      "prev_rank": 134,
-      "change": {
-        "status": "down",
-        "delta": -10
-      },
-      "title": "カリスマックス",
-      "artists": [
-        "Snow Man"
-      ],
-      "track_id": "76OElzXqlyLCdlSypwSKBy",
-      "track_url": "https://open.spotify.com/track/76OElzXqlyLCdlSypwSKBy",
-      "peak_rank": 7,
-      "days_on_chart": 417,
-      "streams": 60259
-    },
-    {
-      "rank": 145,
-      "prev_rank": 136,
-      "change": {
-        "status": "down",
-        "delta": -9
-      },
-      "title": "3XL",
-      "artists": [
-        "Number_i"
-      ],
-      "track_id": "3sNbkM4pIy1l7p6K2lhpvm",
-      "track_url": "https://open.spotify.com/track/3sNbkM4pIy1l7p6K2lhpvm",
-      "peak_rank": 1,
-      "days_on_chart": 264,
-      "streams": 60196
-    },
-    {
-      "rank": 146,
-      "prev_rank": 147,
+      "rank": 132,
+      "prev_rank": 133,
       "change": {
         "status": "up",
         "delta": 1
       },
-      "title": "空も飛べるはず",
+      "title": "Story",
       "artists": [
-        "SPITZ"
+        "AI"
       ],
-      "track_id": "3P2aSkjcbUYbcYr13EFE8n",
-      "track_url": "https://open.spotify.com/track/3P2aSkjcbUYbcYr13EFE8n",
-      "peak_rank": 58,
-      "days_on_chart": 1401,
-      "streams": 59940
+      "track_id": "0V2axJ946WH1vt9t5SGMLV",
+      "track_url": "https://open.spotify.com/track/0V2axJ946WH1vt9t5SGMLV",
+      "peak_rank": 17,
+      "days_on_chart": 1542,
+      "streams": 60016
     },
     {
-      "rank": 147,
-      "prev_rank": 128,
+      "rank": 133,
+      "prev_rank": 134,
       "change": {
-        "status": "down",
-        "delta": -19
+        "status": "up",
+        "delta": 1
       },
-      "title": "咲き誇れ",
+      "title": "I LOVE...",
       "artists": [
-        "YOASOBI"
+        "OFFICIAL HIGE DANDISM"
       ],
-      "track_id": "2t5C9K8bQMCHXG0zdXRI12",
-      "track_url": "https://open.spotify.com/track/2t5C9K8bQMCHXG0zdXRI12",
-      "peak_rank": 128,
-      "days_on_chart": 2,
+      "track_id": "5wWLNNwMAehpj83FU4Lz0m",
+      "track_url": "https://open.spotify.com/track/5wWLNNwMAehpj83FU4Lz0m",
+      "peak_rank": 1,
+      "days_on_chart": 2366,
+      "streams": 59893
+    },
+    {
+      "rank": 134,
+      "prev_rank": 136,
+      "change": {
+        "status": "up",
+        "delta": 2
+      },
+      "title": "Walking with you",
+      "artists": [
+        "Novelbright"
+      ],
+      "track_id": "7tGDXCPLpAScEwmqab9YZd",
+      "track_url": "https://open.spotify.com/track/7tGDXCPLpAScEwmqab9YZd",
+      "peak_rank": 13,
+      "days_on_chart": 2302,
       "streams": 59782
     },
     {
-      "rank": 148,
-      "prev_rank": 137,
-      "change": {
-        "status": "down",
-        "delta": -11
-      },
-      "title": "魔法が解けたら",
-      "artists": [
-        "Saucy Dog"
-      ],
-      "track_id": "3TplgwQZg91VTrAu5pK9lq",
-      "track_url": "https://open.spotify.com/track/3TplgwQZg91VTrAu5pK9lq",
-      "peak_rank": 75,
-      "days_on_chart": 184,
-      "streams": 59234
-    },
-    {
-      "rank": 149,
-      "prev_rank": 149,
-      "change": {
-        "status": "same",
-        "delta": 0
-      },
-      "title": "また逢う日まで",
-      "artists": [
-        "HIRAIDAI"
-      ],
-      "track_id": "3awymLmIrvn9lkJeFpmRSf",
-      "track_url": "https://open.spotify.com/track/3awymLmIrvn9lkJeFpmRSf",
-      "peak_rank": 60,
-      "days_on_chart": 1109,
-      "streams": 59122
-    },
-    {
-      "rank": 150,
-      "prev_rank": 158,
-      "change": {
-        "status": "up",
-        "delta": 8
-      },
-      "title": "東京フラッシュ",
-      "artists": [
-        "Vaundy"
-      ],
-      "track_id": "04e72JtsOIIlHUQ7CvWwvX",
-      "track_url": "https://open.spotify.com/track/04e72JtsOIIlHUQ7CvWwvX",
-      "peak_rank": 78,
-      "days_on_chart": 1509,
-      "streams": 58949
-    },
-    {
-      "rank": 151,
-      "prev_rank": 161,
-      "change": {
-        "status": "up",
-        "delta": 10
-      },
-      "title": "夜鷹 - Yodaka",
-      "artists": [
-        "Kenshi Yonezu"
-      ],
-      "track_id": "4Qa2LME2vWWPXMLnFCGgxU",
-      "track_url": "https://open.spotify.com/track/4Qa2LME2vWWPXMLnFCGgxU",
-      "peak_rank": 3,
-      "days_on_chart": 96,
-      "streams": 58899
-    },
-    {
-      "rank": 152,
-      "prev_rank": 162,
-      "change": {
-        "status": "up",
-        "delta": 10
-      },
-      "title": "Magnetic",
-      "artists": [
-        "ILLIT"
-      ],
-      "track_id": "1aKvZDoLGkNMxoRYgkckZG",
-      "track_url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG",
-      "peak_rank": 2,
-      "days_on_chart": 873,
-      "streams": 58431
-    },
-    {
-      "rank": 153,
-      "prev_rank": 154,
-      "change": {
-        "status": "up",
-        "delta": 1
-      },
-      "title": "Love so sweet",
-      "artists": [
-        "ARASHI"
-      ],
-      "track_id": "5I6JLJqnZICLvPebTj2YCm",
-      "track_url": "https://open.spotify.com/track/5I6JLJqnZICLvPebTj2YCm",
-      "peak_rank": 3,
-      "days_on_chart": 854,
-      "streams": 58420
-    },
-    {
-      "rank": 154,
-      "prev_rank": 145,
-      "change": {
-        "status": "down",
-        "delta": -9
-      },
-      "title": "シンデレラボーイ",
-      "artists": [
-        "Saucy Dog"
-      ],
-      "track_id": "1Vqs0lXeJafYZz2sxnfB3V",
-      "track_url": "https://open.spotify.com/track/1Vqs0lXeJafYZz2sxnfB3V",
-      "peak_rank": 2,
-      "days_on_chart": 1827,
-      "streams": 58411
-    },
-    {
-      "rank": 155,
-      "prev_rank": 163,
-      "change": {
-        "status": "up",
-        "delta": 8
-      },
-      "title": "ワタリドリ",
-      "artists": [
-        "[Alexandros]"
-      ],
-      "track_id": "0ve9Tpz8Yw0I4eXhWsy21o",
-      "track_url": "https://open.spotify.com/track/0ve9Tpz8Yw0I4eXhWsy21o",
-      "peak_rank": 5,
-      "days_on_chart": 3185,
-      "streams": 57765
-    },
-    {
-      "rank": 156,
-      "prev_rank": 177,
+      "rank": 135,
+      "prev_rank": 156,
       "change": {
         "status": "up",
         "delta": 21
@@ -2673,49 +2316,236 @@
       "track_id": "54TCi06LKnlO2NeSrdouQU",
       "track_url": "https://open.spotify.com/track/54TCi06LKnlO2NeSrdouQU",
       "peak_rank": 97,
-      "days_on_chart": 276,
-      "streams": 57682
+      "days_on_chart": 277,
+      "streams": 59538
     },
     {
-      "rank": 157,
-      "prev_rank": 167,
+      "rank": 136,
+      "prev_rank": 147,
       "change": {
         "status": "up",
-        "delta": 10
+        "delta": 11
       },
-      "title": "桜が降る夜は",
+      "title": "咲き誇れ",
       "artists": [
-        "Aimyon"
+        "YOASOBI"
       ],
-      "track_id": "1iEsGutpDvMJG0zYqoKKmQ",
-      "track_url": "https://open.spotify.com/track/1iEsGutpDvMJG0zYqoKKmQ",
-      "peak_rank": 12,
-      "days_on_chart": 866,
-      "streams": 57558
+      "track_id": "2t5C9K8bQMCHXG0zdXRI12",
+      "track_url": "https://open.spotify.com/track/2t5C9K8bQMCHXG0zdXRI12",
+      "peak_rank": 128,
+      "days_on_chart": 3,
+      "streams": 59103
     },
     {
-      "rank": 158,
-      "prev_rank": 159,
+      "rank": 137,
+      "prev_rank": 132,
+      "change": {
+        "status": "down",
+        "delta": -5
+      },
+      "title": "花占い",
+      "artists": [
+        "Vaundy"
+      ],
+      "track_id": "4ETc1oFREuqQss7VQ1Y4mj",
+      "track_url": "https://open.spotify.com/track/4ETc1oFREuqQss7VQ1Y4mj",
+      "peak_rank": 17,
+      "days_on_chart": 1806,
+      "streams": 58832
+    },
+    {
+      "rank": 138,
+      "prev_rank": 138,
+      "change": {
+        "status": "same",
+        "delta": 0
+      },
+      "title": "魔法の絨毯",
+      "artists": [
+        "Takaya Kawasaki"
+      ],
+      "track_id": "3PK5ERLCyMuQ5Cb89GbZVL",
+      "track_url": "https://open.spotify.com/track/3PK5ERLCyMuQ5Cb89GbZVL",
+      "peak_rank": 13,
+      "days_on_chart": 1684,
+      "streams": 58774
+    },
+    {
+      "rank": 139,
+      "prev_rank": 122,
+      "change": {
+        "status": "down",
+        "delta": -17
+      },
+      "title": "エピソード",
+      "artists": [
+        "Mrs. GREEN APPLE"
+      ],
+      "track_id": "4xHW17qjig42xvoNlgCRVc",
+      "track_url": "https://open.spotify.com/track/4xHW17qjig42xvoNlgCRVc",
+      "peak_rank": 35,
+      "days_on_chart": 19,
+      "streams": 58535
+    },
+    {
+      "rank": 140,
+      "prev_rank": 141,
       "change": {
         "status": "up",
         "delta": 1
       },
-      "title": "チェックのワンピース",
+      "title": "Five",
+      "artists": [
+        "ARASHI"
+      ],
+      "track_id": "2cIqVZFyBH8h5dnrzBvtre",
+      "track_url": "https://open.spotify.com/track/2cIqVZFyBH8h5dnrzBvtre",
+      "peak_rank": 1,
+      "days_on_chart": 228,
+      "streams": 58350
+    },
+    {
+      "rank": 141,
+      "prev_rank": 146,
+      "change": {
+        "status": "up",
+        "delta": 5
+      },
+      "title": "空も飛べるはず",
+      "artists": [
+        "SPITZ"
+      ],
+      "track_id": "3P2aSkjcbUYbcYr13EFE8n",
+      "track_url": "https://open.spotify.com/track/3P2aSkjcbUYbcYr13EFE8n",
+      "peak_rank": 58,
+      "days_on_chart": 1402,
+      "streams": 58204
+    },
+    {
+      "rank": 142,
+      "prev_rank": 131,
+      "change": {
+        "status": "down",
+        "delta": -11
+      },
+      "title": "It’s not a bad life",
+      "artists": [
+        "BE:FIRST"
+      ],
+      "track_id": "4nQPJUvKuq8ZbcjCqbMzu0",
+      "track_url": "https://open.spotify.com/track/4nQPJUvKuq8ZbcjCqbMzu0",
+      "peak_rank": 112,
+      "days_on_chart": 4,
+      "streams": 58128
+    },
+    {
+      "rank": 143,
+      "prev_rank": 127,
+      "change": {
+        "status": "down",
+        "delta": -16
+      },
+      "title": "me me she",
+      "artists": [
+        "RADWIMPS"
+      ],
+      "track_id": "0BYa5V0RyOYthDeCMUBJQZ",
+      "track_url": "https://open.spotify.com/track/0BYa5V0RyOYthDeCMUBJQZ",
+      "peak_rank": 51,
+      "days_on_chart": 608,
+      "streams": 57969
+    },
+    {
+      "rank": 144,
+      "prev_rank": 144,
+      "change": {
+        "status": "same",
+        "delta": 0
+      },
+      "title": "カリスマックス",
+      "artists": [
+        "Snow Man"
+      ],
+      "track_id": "76OElzXqlyLCdlSypwSKBy",
+      "track_url": "https://open.spotify.com/track/76OElzXqlyLCdlSypwSKBy",
+      "peak_rank": 7,
+      "days_on_chart": 418,
+      "streams": 57747
+    },
+    {
+      "rank": 145,
+      "prev_rank": 142,
+      "change": {
+        "status": "down",
+        "delta": -3
+      },
+      "title": "花",
+      "artists": [
+        "Fujii Kaze"
+      ],
+      "track_id": "5RIQU2JDuXC4NkLiHNNMon",
+      "track_url": "https://open.spotify.com/track/5RIQU2JDuXC4NkLiHNNMon",
+      "peak_rank": 7,
+      "days_on_chart": 1063,
+      "streams": 57709
+    },
+    {
+      "rank": 146,
+      "prev_rank": 149,
+      "change": {
+        "status": "up",
+        "delta": 3
+      },
+      "title": "また逢う日まで",
+      "artists": [
+        "HIRAIDAI"
+      ],
+      "track_id": "3awymLmIrvn9lkJeFpmRSf",
+      "track_url": "https://open.spotify.com/track/3awymLmIrvn9lkJeFpmRSf",
+      "peak_rank": 60,
+      "days_on_chart": 1110,
+      "streams": 57428
+    },
+    {
+      "rank": 147,
+      "prev_rank": 135,
+      "change": {
+        "status": "down",
+        "delta": -12
+      },
+      "title": "アイラブユー",
       "artists": [
         "back number"
       ],
-      "track_id": "3TpD7kfsRSbXYzYvug4yey",
-      "track_url": "https://open.spotify.com/track/3TpD7kfsRSbXYzYvug4yey",
-      "peak_rank": 61,
-      "days_on_chart": 304,
-      "streams": 57489
+      "track_id": "34ayWAUrQcrjlKZOJAzqke",
+      "track_url": "https://open.spotify.com/track/34ayWAUrQcrjlKZOJAzqke",
+      "peak_rank": 8,
+      "days_on_chart": 1297,
+      "streams": 57335
     },
     {
-      "rank": 159,
-      "prev_rank": 160,
+      "rank": 148,
+      "prev_rank": 137,
+      "change": {
+        "status": "down",
+        "delta": -11
+      },
+      "title": "美しい鰭",
+      "artists": [
+        "SPITZ"
+      ],
+      "track_id": "1H3qOzheTPhE7aVvJOWfvA",
+      "track_url": "https://open.spotify.com/track/1H3qOzheTPhE7aVvJOWfvA",
+      "peak_rank": 2,
+      "days_on_chart": 1248,
+      "streams": 57134
+    },
+    {
+      "rank": 149,
+      "prev_rank": 159,
       "change": {
         "status": "up",
-        "delta": 1
+        "delta": 10
       },
       "title": "友よ 〜 この先もずっと・・・",
       "artists": [
@@ -2724,83 +2554,66 @@
       "track_id": "3A0VFRUxhqpJeOxo0rklqC",
       "track_url": "https://open.spotify.com/track/3A0VFRUxhqpJeOxo0rklqC",
       "peak_rank": 85,
-      "days_on_chart": 558,
-      "streams": 57439
+      "days_on_chart": 559,
+      "streams": 57132
     },
     {
-      "rank": 160,
-      "prev_rank": 140,
+      "rank": 150,
+      "prev_rank": 121,
       "change": {
         "status": "down",
-        "delta": -20
+        "delta": -29
       },
-      "title": "ミスター・ブルースカイ",
+      "title": "So Honey",
       "artists": [
-        "Macaroni Empitsu"
+        "King & Prince"
       ],
-      "track_id": "6glcoO077gTGhgdVI9X5wA",
-      "track_url": "https://open.spotify.com/track/6glcoO077gTGhgdVI9X5wA",
-      "peak_rank": 72,
-      "days_on_chart": 466,
-      "streams": 57343
+      "track_id": "5oAyDEvsfDuirGzjEh3p3D",
+      "track_url": "https://open.spotify.com/track/5oAyDEvsfDuirGzjEh3p3D",
+      "peak_rank": 22,
+      "days_on_chart": 47,
+      "streams": 56894
     },
     {
-      "rank": 161,
-      "prev_rank": 169,
+      "rank": 151,
+      "prev_rank": 151,
+      "change": {
+        "status": "same",
+        "delta": 0
+      },
+      "title": "夜鷹 - Yodaka",
+      "artists": [
+        "Kenshi Yonezu"
+      ],
+      "track_id": "4Qa2LME2vWWPXMLnFCGgxU",
+      "track_url": "https://open.spotify.com/track/4Qa2LME2vWWPXMLnFCGgxU",
+      "peak_rank": 3,
+      "days_on_chart": 97,
+      "streams": 56771
+    },
+    {
+      "rank": 152,
+      "prev_rank": 143,
+      "change": {
+        "status": "down",
+        "delta": -9
+      },
+      "title": "Theater",
+      "artists": [
+        "King & Prince"
+      ],
+      "track_id": "6iltt0n1DkQ0AtCcwxXNZJ",
+      "track_url": "https://open.spotify.com/track/6iltt0n1DkQ0AtCcwxXNZJ",
+      "peak_rank": 4,
+      "days_on_chart": 300,
+      "streams": 56385
+    },
+    {
+      "rank": 153,
+      "prev_rank": 164,
       "change": {
         "status": "up",
-        "delta": 8
-      },
-      "title": "シルエット",
-      "artists": [
-        "KANA-BOON"
-      ],
-      "track_id": "1di1C0QI6Y92yZPYn6XYAZ",
-      "track_url": "https://open.spotify.com/track/1di1C0QI6Y92yZPYn6XYAZ",
-      "peak_rank": 30,
-      "days_on_chart": 358,
-      "streams": 57096
-    },
-    {
-      "rank": 162,
-      "prev_rank": 139,
-      "change": {
-        "status": "down",
-        "delta": -23
-      },
-      "title": "僕は君の事が好きだけど君は僕を別に好きじゃないみたい",
-      "artists": [
-        "back number"
-      ],
-      "track_id": "1WutVejYvP7220sofj3xId",
-      "track_url": "https://open.spotify.com/track/1WutVejYvP7220sofj3xId",
-      "peak_rank": 101,
-      "days_on_chart": 339,
-      "streams": 57093
-    },
-    {
-      "rank": 163,
-      "prev_rank": 166,
-      "change": {
-        "status": "up",
-        "delta": 3
-      },
-      "title": "Really Really",
-      "artists": [
-        "Mrs. GREEN APPLE"
-      ],
-      "track_id": "50HetESAgZlIMF7atFpBRK",
-      "track_url": "https://open.spotify.com/track/50HetESAgZlIMF7atFpBRK",
-      "peak_rank": 47,
-      "days_on_chart": 18,
-      "streams": 57082
-    },
-    {
-      "rank": 164,
-      "prev_rank": 148,
-      "change": {
-        "status": "down",
-        "delta": -16
+        "delta": 11
       },
       "title": "だから僕は音楽を辞めた",
       "artists": [
@@ -2809,66 +2622,49 @@
       "track_id": "5j7ixaLeGTGSv4DzKs0pCM",
       "track_url": "https://open.spotify.com/track/5j7ixaLeGTGSv4DzKs0pCM",
       "peak_rank": 37,
-      "days_on_chart": 1903,
-      "streams": 56980
+      "days_on_chart": 1904,
+      "streams": 56010
     },
     {
-      "rank": 165,
-      "prev_rank": null,
-      "change": {
-        "status": "re-entry",
-        "delta": null
-      },
-      "title": "ルート16",
-      "artists": [
-        "Macaroni Empitsu"
-      ],
-      "track_id": "6h7xub2fJiqUzLWKMSpxMp",
-      "track_url": "https://open.spotify.com/track/6h7xub2fJiqUzLWKMSpxMp",
-      "peak_rank": 129,
-      "days_on_chart": 52,
-      "streams": 56787
-    },
-    {
-      "rank": 166,
-      "prev_rank": 157,
+      "rank": 154,
+      "prev_rank": 153,
       "change": {
         "status": "down",
-        "delta": -9
+        "delta": -1
       },
-      "title": "小さな恋のうた",
+      "title": "Love so sweet",
       "artists": [
-        "MONGOL800"
+        "ARASHI"
       ],
-      "track_id": "23atyJacJVHvB9RHBNhr35",
-      "track_url": "https://open.spotify.com/track/23atyJacJVHvB9RHBNhr35",
-      "peak_rank": 6,
-      "days_on_chart": 3116,
-      "streams": 56693
+      "track_id": "5I6JLJqnZICLvPebTj2YCm",
+      "track_url": "https://open.spotify.com/track/5I6JLJqnZICLvPebTj2YCm",
+      "peak_rank": 3,
+      "days_on_chart": 855,
+      "streams": 55986
     },
     {
-      "rank": 167,
-      "prev_rank": 164,
+      "rank": 155,
+      "prev_rank": 155,
       "change": {
-        "status": "down",
-        "delta": -3
+        "status": "same",
+        "delta": 0
       },
-      "title": "Beautiful",
+      "title": "ワタリドリ",
       "artists": [
-        "Superfly"
+        "[Alexandros]"
       ],
-      "track_id": "2ruHYPN3a77Ra8WvvPyfwb",
-      "track_url": "https://open.spotify.com/track/2ruHYPN3a77Ra8WvvPyfwb",
-      "peak_rank": 87,
-      "days_on_chart": 136,
-      "streams": 56669
+      "track_id": "0ve9Tpz8Yw0I4eXhWsy21o",
+      "track_url": "https://open.spotify.com/track/0ve9Tpz8Yw0I4eXhWsy21o",
+      "peak_rank": 5,
+      "days_on_chart": 3186,
+      "streams": 55839
     },
     {
-      "rank": 168,
-      "prev_rank": 200,
+      "rank": 156,
+      "prev_rank": 168,
       "change": {
         "status": "up",
-        "delta": 32
+        "delta": 12
       },
       "title": "One Love",
       "artists": [
@@ -2877,66 +2673,83 @@
       "track_id": "3r6Am8NvUDbuS2Yqv76ivi",
       "track_url": "https://open.spotify.com/track/3r6Am8NvUDbuS2Yqv76ivi",
       "peak_rank": 2,
-      "days_on_chart": 291,
-      "streams": 56371
+      "days_on_chart": 292,
+      "streams": 55819
     },
     {
-      "rank": 169,
-      "prev_rank": 192,
+      "rank": 157,
+      "prev_rank": 166,
       "change": {
         "status": "up",
-        "delta": 23
+        "delta": 9
       },
-      "title": "さよーならまたいつか！- Sayonara",
+      "title": "小さな恋のうた",
       "artists": [
-        "Kenshi Yonezu"
+        "MONGOL800"
       ],
-      "track_id": "5pN2AyWwjzwRoI7gukEVNd",
-      "track_url": "https://open.spotify.com/track/5pN2AyWwjzwRoI7gukEVNd",
-      "peak_rank": 3,
-      "days_on_chart": 884,
-      "streams": 56362
+      "track_id": "23atyJacJVHvB9RHBNhr35",
+      "track_url": "https://open.spotify.com/track/23atyJacJVHvB9RHBNhr35",
+      "peak_rank": 6,
+      "days_on_chart": 3117,
+      "streams": 55654
     },
     {
-      "rank": 170,
-      "prev_rank": 186,
+      "rank": 158,
+      "prev_rank": 167,
       "change": {
         "status": "up",
-        "delta": 16
+        "delta": 9
       },
-      "title": "Shukumei",
+      "title": "Beautiful",
       "artists": [
-        "OFFICIAL HIGE DANDISM"
+        "Superfly"
       ],
-      "track_id": "0XaHPBAzPAC5ubwcRBqc1p",
-      "track_url": "https://open.spotify.com/track/0XaHPBAzPAC5ubwcRBqc1p",
-      "peak_rank": 4,
-      "days_on_chart": 1037,
-      "streams": 56129
+      "track_id": "2ruHYPN3a77Ra8WvvPyfwb",
+      "track_url": "https://open.spotify.com/track/2ruHYPN3a77Ra8WvvPyfwb",
+      "peak_rank": 87,
+      "days_on_chart": 137,
+      "streams": 55561
     },
     {
-      "rank": 171,
-      "prev_rank": 144,
+      "rank": 159,
+      "prev_rank": 161,
       "change": {
-        "status": "down",
-        "delta": -27
+        "status": "up",
+        "delta": 2
       },
-      "title": "ともに",
+      "title": "シルエット",
       "artists": [
-        "WANIMA"
+        "KANA-BOON"
       ],
-      "track_id": "6FHgHDXiGnRfhrSok9xAz3",
-      "track_url": "https://open.spotify.com/track/6FHgHDXiGnRfhrSok9xAz3",
-      "peak_rank": 57,
-      "days_on_chart": 1143,
-      "streams": 55943
+      "track_id": "1di1C0QI6Y92yZPYn6XYAZ",
+      "track_url": "https://open.spotify.com/track/1di1C0QI6Y92yZPYn6XYAZ",
+      "peak_rank": 30,
+      "days_on_chart": 359,
+      "streams": 55254
     },
     {
-      "rank": 172,
-      "prev_rank": 168,
+      "rank": 160,
+      "prev_rank": 150,
       "change": {
         "status": "down",
-        "delta": -4
+        "delta": -10
+      },
+      "title": "東京フラッシュ",
+      "artists": [
+        "Vaundy"
+      ],
+      "track_id": "04e72JtsOIIlHUQ7CvWwvX",
+      "track_url": "https://open.spotify.com/track/04e72JtsOIIlHUQ7CvWwvX",
+      "peak_rank": 78,
+      "days_on_chart": 1510,
+      "streams": 54883
+    },
+    {
+      "rank": 161,
+      "prev_rank": 172,
+      "change": {
+        "status": "up",
+        "delta": 11
       },
       "title": "Mela!",
       "artists": [
@@ -2945,15 +2758,203 @@
       "track_id": "6IO5nn84TKArsi3cjpIqaD",
       "track_url": "https://open.spotify.com/track/6IO5nn84TKArsi3cjpIqaD",
       "peak_rank": 21,
-      "days_on_chart": 2267,
-      "streams": 55814
+      "days_on_chart": 2268,
+      "streams": 54676
+    },
+    {
+      "rank": 162,
+      "prev_rank": 157,
+      "change": {
+        "status": "down",
+        "delta": -5
+      },
+      "title": "桜が降る夜は",
+      "artists": [
+        "Aimyon"
+      ],
+      "track_id": "1iEsGutpDvMJG0zYqoKKmQ",
+      "track_url": "https://open.spotify.com/track/1iEsGutpDvMJG0zYqoKKmQ",
+      "peak_rank": 12,
+      "days_on_chart": 867,
+      "streams": 54413
+    },
+    {
+      "rank": 163,
+      "prev_rank": 152,
+      "change": {
+        "status": "down",
+        "delta": -11
+      },
+      "title": "Magnetic",
+      "artists": [
+        "ILLIT"
+      ],
+      "track_id": "1aKvZDoLGkNMxoRYgkckZG",
+      "track_url": "https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG",
+      "peak_rank": 2,
+      "days_on_chart": 874,
+      "streams": 54114
+    },
+    {
+      "rank": 164,
+      "prev_rank": 182,
+      "change": {
+        "status": "up",
+        "delta": 18
+      },
+      "title": "CITRUS",
+      "artists": [
+        "Da-iCE"
+      ],
+      "track_id": "2IL2asrtx7XM1y8fu2RMnR",
+      "track_url": "https://open.spotify.com/track/2IL2asrtx7XM1y8fu2RMnR",
+      "peak_rank": 8,
+      "days_on_chart": 1831,
+      "streams": 54056
+    },
+    {
+      "rank": 165,
+      "prev_rank": 169,
+      "change": {
+        "status": "up",
+        "delta": 4
+      },
+      "title": "さよーならまたいつか！- Sayonara",
+      "artists": [
+        "Kenshi Yonezu"
+      ],
+      "track_id": "5pN2AyWwjzwRoI7gukEVNd",
+      "track_url": "https://open.spotify.com/track/5pN2AyWwjzwRoI7gukEVNd",
+      "peak_rank": 3,
+      "days_on_chart": 885,
+      "streams": 53921
+    },
+    {
+      "rank": 166,
+      "prev_rank": 187,
+      "change": {
+        "status": "up",
+        "delta": 21
+      },
+      "title": "Ikenai Taiyou",
+      "artists": [
+        "ORANGE RANGE"
+      ],
+      "track_id": "7emibp3qHeqNNYqZ2Y09xb",
+      "track_url": "https://open.spotify.com/track/7emibp3qHeqNNYqZ2Y09xb",
+      "peak_rank": 26,
+      "days_on_chart": 555,
+      "streams": 53661
+    },
+    {
+      "rank": 167,
+      "prev_rank": 179,
+      "change": {
+        "status": "up",
+        "delta": 12
+      },
+      "title": "ダンスホール",
+      "artists": [
+        "Mrs. GREEN APPLE"
+      ],
+      "track_id": "5LkmpgQYtwHtuvASgnLBe1",
+      "track_url": "https://open.spotify.com/track/5LkmpgQYtwHtuvASgnLBe1",
+      "peak_rank": 2,
+      "days_on_chart": 1607,
+      "streams": 53408
+    },
+    {
+      "rank": 168,
+      "prev_rank": 170,
+      "change": {
+        "status": "up",
+        "delta": 2
+      },
+      "title": "Shukumei",
+      "artists": [
+        "OFFICIAL HIGE DANDISM"
+      ],
+      "track_id": "0XaHPBAzPAC5ubwcRBqc1p",
+      "track_url": "https://open.spotify.com/track/0XaHPBAzPAC5ubwcRBqc1p",
+      "peak_rank": 4,
+      "days_on_chart": 1038,
+      "streams": 53237
+    },
+    {
+      "rank": 169,
+      "prev_rank": 178,
+      "change": {
+        "status": "up",
+        "delta": 9
+      },
+      "title": "ビリミリオン",
+      "artists": [
+        "Yuuri"
+      ],
+      "track_id": "7M0dIdZWN1FDcveRdoOzbZ",
+      "track_url": "https://open.spotify.com/track/7M0dIdZWN1FDcveRdoOzbZ",
+      "peak_rank": 4,
+      "days_on_chart": 1195,
+      "streams": 53102
+    },
+    {
+      "rank": 170,
+      "prev_rank": 165,
+      "change": {
+        "status": "down",
+        "delta": -5
+      },
+      "title": "ルート16",
+      "artists": [
+        "Macaroni Empitsu"
+      ],
+      "track_id": "6h7xub2fJiqUzLWKMSpxMp",
+      "track_url": "https://open.spotify.com/track/6h7xub2fJiqUzLWKMSpxMp",
+      "peak_rank": 129,
+      "days_on_chart": 53,
+      "streams": 52738
+    },
+    {
+      "rank": 171,
+      "prev_rank": 185,
+      "change": {
+        "status": "up",
+        "delta": 14
+      },
+      "title": "ノーダウト",
+      "artists": [
+        "OFFICIAL HIGE DANDISM"
+      ],
+      "track_id": "5DMEvbg3gUmiR5HIBWdveV",
+      "track_url": "https://open.spotify.com/track/5DMEvbg3gUmiR5HIBWdveV",
+      "peak_rank": 3,
+      "days_on_chart": 2421,
+      "streams": 52688
+    },
+    {
+      "rank": 172,
+      "prev_rank": null,
+      "change": {
+        "status": "re-entry",
+        "delta": null
+      },
+      "title": "アイノカタチ",
+      "artists": [
+        "MISIA",
+        "HIDE (GReeeeN)"
+      ],
+      "track_id": "7mSVOYRseiZi20xtBKhHnF",
+      "track_url": "https://open.spotify.com/track/7mSVOYRseiZi20xtBKhHnF",
+      "peak_rank": 96,
+      "days_on_chart": 633,
+      "streams": 52611
     },
     {
       "rank": 173,
-      "prev_rank": 174,
+      "prev_rank": 173,
       "change": {
-        "status": "up",
-        "delta": 1
+        "status": "same",
+        "delta": 0
       },
       "title": "踊り子",
       "artists": [
@@ -2962,25 +2963,25 @@
       "track_id": "1YXot2MLAG9sttepCtBRM7",
       "track_url": "https://open.spotify.com/track/1YXot2MLAG9sttepCtBRM7",
       "peak_rank": 7,
-      "days_on_chart": 1668,
-      "streams": 55743
+      "days_on_chart": 1669,
+      "streams": 52584
     },
     {
       "rank": 174,
-      "prev_rank": 146,
+      "prev_rank": 184,
       "change": {
-        "status": "down",
-        "delta": -28
+        "status": "up",
+        "delta": 10
       },
-      "title": "頬を濡らす雨のように",
+      "title": "群青",
       "artists": [
-        "back number"
+        "YOASOBI"
       ],
-      "track_id": "319VtHh8vtMRqSoZigWOtT",
-      "track_url": "https://open.spotify.com/track/319VtHh8vtMRqSoZigWOtT",
-      "peak_rank": 119,
-      "days_on_chart": 96,
-      "streams": 55637
+      "track_id": "1zd35Y44Blc1CwwVbW3Qnk",
+      "track_url": "https://open.spotify.com/track/1zd35Y44Blc1CwwVbW3Qnk",
+      "peak_rank": 5,
+      "days_on_chart": 2021,
+      "streams": 52513
     },
     {
       "rank": 175,
@@ -2989,19 +2990,104 @@
         "status": "up",
         "delta": 15
       },
-      "title": "Tokimeki",
+      "title": "丸ノ内サディスティック",
       "artists": [
-        "Vaundy"
+        "Sheena Ringo"
       ],
-      "track_id": "18gB0d6DaRPvrQBbl7WEuk",
-      "track_url": "https://open.spotify.com/track/18gB0d6DaRPvrQBbl7WEuk",
-      "peak_rank": 51,
-      "days_on_chart": 1090,
-      "streams": 55617
+      "track_id": "1mWN1USPKg632qQXG9sfDL",
+      "track_url": "https://open.spotify.com/track/1mWN1USPKg632qQXG9sfDL",
+      "peak_rank": 37,
+      "days_on_chart": 1570,
+      "streams": 52388
     },
     {
       "rank": 176,
       "prev_rank": 171,
+      "change": {
+        "status": "down",
+        "delta": -5
+      },
+      "title": "ともに",
+      "artists": [
+        "WANIMA"
+      ],
+      "track_id": "6FHgHDXiGnRfhrSok9xAz3",
+      "track_url": "https://open.spotify.com/track/6FHgHDXiGnRfhrSok9xAz3",
+      "peak_rank": 57,
+      "days_on_chart": 1144,
+      "streams": 52374
+    },
+    {
+      "rank": 177,
+      "prev_rank": 154,
+      "change": {
+        "status": "down",
+        "delta": -23
+      },
+      "title": "シンデレラボーイ",
+      "artists": [
+        "Saucy Dog"
+      ],
+      "track_id": "1Vqs0lXeJafYZz2sxnfB3V",
+      "track_url": "https://open.spotify.com/track/1Vqs0lXeJafYZz2sxnfB3V",
+      "peak_rank": 2,
+      "days_on_chart": 1828,
+      "streams": 52339
+    },
+    {
+      "rank": 178,
+      "prev_rank": 177,
+      "change": {
+        "status": "down",
+        "delta": -1
+      },
+      "title": "大阪LOVER",
+      "artists": [
+        "DREAMS COME TRUE"
+      ],
+      "track_id": "2WpgKrUoWaZHQLTgT6aZBF",
+      "track_url": "https://open.spotify.com/track/2WpgKrUoWaZHQLTgT6aZBF",
+      "peak_rank": 81,
+      "days_on_chart": 588,
+      "streams": 52159
+    },
+    {
+      "rank": 179,
+      "prev_rank": 158,
+      "change": {
+        "status": "down",
+        "delta": -21
+      },
+      "title": "チェックのワンピース",
+      "artists": [
+        "back number"
+      ],
+      "track_id": "3TpD7kfsRSbXYzYvug4yey",
+      "track_url": "https://open.spotify.com/track/3TpD7kfsRSbXYzYvug4yey",
+      "peak_rank": 61,
+      "days_on_chart": 305,
+      "streams": 52086
+    },
+    {
+      "rank": 180,
+      "prev_rank": 188,
+      "change": {
+        "status": "up",
+        "delta": 8
+      },
+      "title": "Lovers Again",
+      "artists": [
+        "EXILE"
+      ],
+      "track_id": "4wLQr28uORriOx5rNM8by7",
+      "track_url": "https://open.spotify.com/track/4wLQr28uORriOx5rNM8by7",
+      "peak_rank": 169,
+      "days_on_chart": 15,
+      "streams": 52076
+    },
+    {
+      "rank": 181,
+      "prev_rank": 176,
       "change": {
         "status": "down",
         "delta": -5
@@ -3013,373 +3099,32 @@
       "track_id": "0jj4mLjwYcos3PPzjQwVzh",
       "track_url": "https://open.spotify.com/track/0jj4mLjwYcos3PPzjQwVzh",
       "peak_rank": 55,
-      "days_on_chart": 300,
-      "streams": 55445
-    },
-    {
-      "rank": 177,
-      "prev_rank": 165,
-      "change": {
-        "status": "down",
-        "delta": -12
-      },
-      "title": "大阪LOVER",
-      "artists": [
-        "DREAMS COME TRUE"
-      ],
-      "track_id": "2WpgKrUoWaZHQLTgT6aZBF",
-      "track_url": "https://open.spotify.com/track/2WpgKrUoWaZHQLTgT6aZBF",
-      "peak_rank": 81,
-      "days_on_chart": 587,
-      "streams": 55301
-    },
-    {
-      "rank": 178,
-      "prev_rank": 179,
-      "change": {
-        "status": "up",
-        "delta": 1
-      },
-      "title": "ビリミリオン",
-      "artists": [
-        "Yuuri"
-      ],
-      "track_id": "7M0dIdZWN1FDcveRdoOzbZ",
-      "track_url": "https://open.spotify.com/track/7M0dIdZWN1FDcveRdoOzbZ",
-      "peak_rank": 4,
-      "days_on_chart": 1194,
-      "streams": 55242
-    },
-    {
-      "rank": 179,
-      "prev_rank": 175,
-      "change": {
-        "status": "down",
-        "delta": -4
-      },
-      "title": "ダンスホール",
-      "artists": [
-        "Mrs. GREEN APPLE"
-      ],
-      "track_id": "5LkmpgQYtwHtuvASgnLBe1",
-      "track_url": "https://open.spotify.com/track/5LkmpgQYtwHtuvASgnLBe1",
-      "peak_rank": 2,
-      "days_on_chart": 1606,
-      "streams": 55134
-    },
-    {
-      "rank": 180,
-      "prev_rank": 180,
-      "change": {
-        "status": "same",
-        "delta": 0
-      },
-      "title": "部屋",
-      "artists": [
-        "shytaupe"
-      ],
-      "track_id": "4ECgL11icHnXzZ3RjTaoxJ",
-      "track_url": "https://open.spotify.com/track/4ECgL11icHnXzZ3RjTaoxJ",
-      "peak_rank": 150,
-      "days_on_chart": 21,
-      "streams": 55007
-    },
-    {
-      "rank": 181,
-      "prev_rank": 178,
-      "change": {
-        "status": "down",
-        "delta": -3
-      },
-      "title": "君が眩しいから僕は星が見えない",
-      "artists": [
-        "SIX LOUNGE"
-      ],
-      "track_id": "2AofAbNYmyevuCF6JEnyOZ",
-      "track_url": "https://open.spotify.com/track/2AofAbNYmyevuCF6JEnyOZ",
-      "peak_rank": 55,
-      "days_on_chart": 130,
-      "streams": 54901
+      "days_on_chart": 301,
+      "streams": 51765
     },
     {
       "rank": 182,
-      "prev_rank": 170,
+      "prev_rank": null,
       "change": {
-        "status": "down",
-        "delta": -12
+        "status": "re-entry",
+        "delta": null
       },
-      "title": "CITRUS",
+      "title": "愛の花",
       "artists": [
-        "Da-iCE"
+        "Aimyon"
       ],
-      "track_id": "2IL2asrtx7XM1y8fu2RMnR",
-      "track_url": "https://open.spotify.com/track/2IL2asrtx7XM1y8fu2RMnR",
-      "peak_rank": 8,
-      "days_on_chart": 1830,
-      "streams": 54856
+      "track_id": "4iBO3Jg6kSXZHw06db0ds3",
+      "track_url": "https://open.spotify.com/track/4iBO3Jg6kSXZHw06db0ds3",
+      "peak_rank": 6,
+      "days_on_chart": 737,
+      "streams": 51724
     },
     {
       "rank": 183,
-      "prev_rank": 188,
+      "prev_rank": 198,
       "change": {
         "status": "up",
-        "delta": 5
-      },
-      "title": "#情とは",
-      "artists": [
-        "This is LAST"
-      ],
-      "track_id": "3PPxtreRGyGpUnV7qY20Ha",
-      "track_url": "https://open.spotify.com/track/3PPxtreRGyGpUnV7qY20Ha",
-      "peak_rank": 154,
-      "days_on_chart": 31,
-      "streams": 54849
-    },
-    {
-      "rank": 184,
-      "prev_rank": 176,
-      "change": {
-        "status": "down",
-        "delta": -8
-      },
-      "title": "群青",
-      "artists": [
-        "YOASOBI"
-      ],
-      "track_id": "1zd35Y44Blc1CwwVbW3Qnk",
-      "track_url": "https://open.spotify.com/track/1zd35Y44Blc1CwwVbW3Qnk",
-      "peak_rank": 5,
-      "days_on_chart": 2020,
-      "streams": 54757
-    },
-    {
-      "rank": 185,
-      "prev_rank": null,
-      "change": {
-        "status": "re-entry",
-        "delta": null
-      },
-      "title": "ノーダウト",
-      "artists": [
-        "OFFICIAL HIGE DANDISM"
-      ],
-      "track_id": "5DMEvbg3gUmiR5HIBWdveV",
-      "track_url": "https://open.spotify.com/track/5DMEvbg3gUmiR5HIBWdveV",
-      "peak_rank": 3,
-      "days_on_chart": 2420,
-      "streams": 54659
-    },
-    {
-      "rank": 186,
-      "prev_rank": 187,
-      "change": {
-        "status": "up",
-        "delta": 1
-      },
-      "title": "花火",
-      "artists": [
-        "aiko"
-      ],
-      "track_id": "0I0zZHGJ6ea8TxwbUvvJEH",
-      "track_url": "https://open.spotify.com/track/0I0zZHGJ6ea8TxwbUvvJEH",
-      "peak_rank": 52,
-      "days_on_chart": 446,
-      "streams": 54559
-    },
-    {
-      "rank": 187,
-      "prev_rank": null,
-      "change": {
-        "status": "re-entry",
-        "delta": null
-      },
-      "title": "Ikenai Taiyou",
-      "artists": [
-        "ORANGE RANGE"
-      ],
-      "track_id": "7emibp3qHeqNNYqZ2Y09xb",
-      "track_url": "https://open.spotify.com/track/7emibp3qHeqNNYqZ2Y09xb",
-      "peak_rank": 26,
-      "days_on_chart": 554,
-      "streams": 54348
-    },
-    {
-      "rank": 188,
-      "prev_rank": 193,
-      "change": {
-        "status": "up",
-        "delta": 5
-      },
-      "title": "Lovers Again",
-      "artists": [
-        "EXILE"
-      ],
-      "track_id": "4wLQr28uORriOx5rNM8by7",
-      "track_url": "https://open.spotify.com/track/4wLQr28uORriOx5rNM8by7",
-      "peak_rank": 169,
-      "days_on_chart": 14,
-      "streams": 54341
-    },
-    {
-      "rank": 189,
-      "prev_rank": 189,
-      "change": {
-        "status": "same",
-        "delta": 0
-      },
-      "title": "アゲハ蝶",
-      "artists": [
-        "PornoGraffitti"
-      ],
-      "track_id": "3blWd9ZEt4VSY5udhugpRs",
-      "track_url": "https://open.spotify.com/track/3blWd9ZEt4VSY5udhugpRs",
-      "peak_rank": 20,
-      "days_on_chart": 338,
-      "streams": 54331
-    },
-    {
-      "rank": 190,
-      "prev_rank": 196,
-      "change": {
-        "status": "up",
-        "delta": 6
-      },
-      "title": "丸ノ内サディスティック",
-      "artists": [
-        "Sheena Ringo"
-      ],
-      "track_id": "1mWN1USPKg632qQXG9sfDL",
-      "track_url": "https://open.spotify.com/track/1mWN1USPKg632qQXG9sfDL",
-      "peak_rank": 37,
-      "days_on_chart": 1569,
-      "streams": 54287
-    },
-    {
-      "rank": 191,
-      "prev_rank": 199,
-      "change": {
-        "status": "up",
-        "delta": 8
-      },
-      "title": "Stand by me, Stand by you.",
-      "artists": [
-        "HIRAIDAI"
-      ],
-      "track_id": "7DyS11kB1YNrfDzQqtjmTh",
-      "track_url": "https://open.spotify.com/track/7DyS11kB1YNrfDzQqtjmTh",
-      "peak_rank": 4,
-      "days_on_chart": 2111,
-      "streams": 54132
-    },
-    {
-      "rank": 192,
-      "prev_rank": null,
-      "change": {
-        "status": "re-entry",
-        "delta": null
-      },
-      "title": "366日",
-      "artists": [
-        "HY"
-      ],
-      "track_id": "22aZD7yaGYfhgCYazL4nbc",
-      "track_url": "https://open.spotify.com/track/22aZD7yaGYfhgCYazL4nbc",
-      "peak_rank": 6,
-      "days_on_chart": 1704,
-      "streams": 53978
-    },
-    {
-      "rank": 193,
-      "prev_rank": 172,
-      "change": {
-        "status": "down",
-        "delta": -21
-      },
-      "title": "it’s okay",
-      "artists": [
-        "LANA"
-      ],
-      "track_id": "4q8shMNFx1n3bgVV9t4xyB",
-      "track_url": "https://open.spotify.com/track/4q8shMNFx1n3bgVV9t4xyB",
-      "peak_rank": 58,
-      "days_on_chart": 232,
-      "streams": 53942
-    },
-    {
-      "rank": 194,
-      "prev_rank": 182,
-      "change": {
-        "status": "down",
-        "delta": -12
-      },
-      "title": "らしさ",
-      "artists": [
-        "OFFICIAL HIGE DANDISM"
-      ],
-      "track_id": "2TRxremVZ0t2JVu5OFxbiA",
-      "track_url": "https://open.spotify.com/track/2TRxremVZ0t2JVu5OFxbiA",
-      "peak_rank": 20,
-      "days_on_chart": 416,
-      "streams": 53915
-    },
-    {
-      "rank": 195,
-      "prev_rank": 183,
-      "change": {
-        "status": "down",
-        "delta": -12
-      },
-      "title": "瞞し",
-      "artists": [
-        "Mrs. GREEN APPLE"
-      ],
-      "track_id": "26Qm11RkM99q8AXizwwdF1",
-      "track_url": "https://open.spotify.com/track/26Qm11RkM99q8AXizwwdF1",
-      "peak_rank": 45,
-      "days_on_chart": 18,
-      "streams": 53674
-    },
-    {
-      "rank": 196,
-      "prev_rank": null,
-      "change": {
-        "status": "re-entry",
-        "delta": null
-      },
-      "title": "春雷",
-      "artists": [
-        "Kenshi Yonezu"
-      ],
-      "track_id": "6megNXGjmim4OitjZnIn9v",
-      "track_url": "https://open.spotify.com/track/6megNXGjmim4OitjZnIn9v",
-      "peak_rank": 119,
-      "days_on_chart": 137,
-      "streams": 53563
-    },
-    {
-      "rank": 197,
-      "prev_rank": 184,
-      "change": {
-        "status": "down",
-        "delta": -13
-      },
-      "title": "Beauty And A Beat",
-      "artists": [
-        "Justin Bieber",
-        "Nicki Minaj"
-      ],
-      "track_id": "6QFCMUUq1T2Vf5sFUXcuQ7",
-      "track_url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7",
-      "peak_rank": 64,
-      "days_on_chart": 161,
-      "streams": 53509
-    },
-    {
-      "rank": 198,
-      "prev_rank": null,
-      "change": {
-        "status": "re-entry",
-        "delta": null
+        "delta": 15
       },
       "title": "全力少年",
       "artists": [
@@ -3388,32 +3133,270 @@
       "track_id": "3Ztjw8utVpcrzms1RrsJvR",
       "track_url": "https://open.spotify.com/track/3Ztjw8utVpcrzms1RrsJvR",
       "peak_rank": 65,
-      "days_on_chart": 1486,
-      "streams": 53373
+      "days_on_chart": 1487,
+      "streams": 51447
     },
     {
-      "rank": 199,
-      "prev_rank": 197,
+      "rank": 184,
+      "prev_rank": 175,
       "change": {
         "status": "down",
-        "delta": -2
+        "delta": -9
       },
-      "title": "Carrying Happiness",
+      "title": "Tokimeki",
+      "artists": [
+        "Vaundy"
+      ],
+      "track_id": "18gB0d6DaRPvrQBbl7WEuk",
+      "track_url": "https://open.spotify.com/track/18gB0d6DaRPvrQBbl7WEuk",
+      "peak_rank": 51,
+      "days_on_chart": 1091,
+      "streams": 51376
+    },
+    {
+      "rank": 185,
+      "prev_rank": 148,
+      "change": {
+        "status": "down",
+        "delta": -37
+      },
+      "title": "魔法が解けたら",
+      "artists": [
+        "Saucy Dog"
+      ],
+      "track_id": "3TplgwQZg91VTrAu5pK9lq",
+      "track_url": "https://open.spotify.com/track/3TplgwQZg91VTrAu5pK9lq",
+      "peak_rank": 75,
+      "days_on_chart": 185,
+      "streams": 51374
+    },
+    {
+      "rank": 186,
+      "prev_rank": 192,
+      "change": {
+        "status": "up",
+        "delta": 6
+      },
+      "title": "366日",
+      "artists": [
+        "HY"
+      ],
+      "track_id": "22aZD7yaGYfhgCYazL4nbc",
+      "track_url": "https://open.spotify.com/track/22aZD7yaGYfhgCYazL4nbc",
+      "peak_rank": 6,
+      "days_on_chart": 1705,
+      "streams": 51354
+    },
+    {
+      "rank": 187,
+      "prev_rank": null,
+      "change": {
+        "status": "re-entry",
+        "delta": null
+      },
+      "title": "僕らまた",
+      "artists": [
+        "SG"
+      ],
+      "track_id": "5hzOyvCqy8sb39xGXUEdpb",
+      "track_url": "https://open.spotify.com/track/5hzOyvCqy8sb39xGXUEdpb",
+      "peak_rank": 62,
+      "days_on_chart": 744,
+      "streams": 51344
+    },
+    {
+      "rank": 188,
+      "prev_rank": 189,
+      "change": {
+        "status": "up",
+        "delta": 1
+      },
+      "title": "アゲハ蝶",
+      "artists": [
+        "PornoGraffitti"
+      ],
+      "track_id": "3blWd9ZEt4VSY5udhugpRs",
+      "track_url": "https://open.spotify.com/track/3blWd9ZEt4VSY5udhugpRs",
+      "peak_rank": 20,
+      "days_on_chart": 339,
+      "streams": 51279
+    },
+    {
+      "rank": 189,
+      "prev_rank": 163,
+      "change": {
+        "status": "down",
+        "delta": -26
+      },
+      "title": "Really Really",
       "artists": [
         "Mrs. GREEN APPLE"
       ],
-      "track_id": "6cSE6qGHagStJmrPa0jzu9",
-      "track_url": "https://open.spotify.com/track/6cSE6qGHagStJmrPa0jzu9",
-      "peak_rank": 11,
-      "days_on_chart": 118,
-      "streams": 53153
+      "track_id": "50HetESAgZlIMF7atFpBRK",
+      "track_url": "https://open.spotify.com/track/50HetESAgZlIMF7atFpBRK",
+      "peak_rank": 47,
+      "days_on_chart": 19,
+      "streams": 51161
     },
     {
-      "rank": 200,
-      "prev_rank": 185,
+      "rank": 190,
+      "prev_rank": 193,
+      "change": {
+        "status": "up",
+        "delta": 3
+      },
+      "title": "it’s okay",
+      "artists": [
+        "LANA"
+      ],
+      "track_id": "4q8shMNFx1n3bgVV9t4xyB",
+      "track_url": "https://open.spotify.com/track/4q8shMNFx1n3bgVV9t4xyB",
+      "peak_rank": 58,
+      "days_on_chart": 233,
+      "streams": 50903
+    },
+    {
+      "rank": 191,
+      "prev_rank": 191,
+      "change": {
+        "status": "same",
+        "delta": 0
+      },
+      "title": "Stand by me, Stand by you.",
+      "artists": [
+        "HIRAIDAI"
+      ],
+      "track_id": "7DyS11kB1YNrfDzQqtjmTh",
+      "track_url": "https://open.spotify.com/track/7DyS11kB1YNrfDzQqtjmTh",
+      "peak_rank": 4,
+      "days_on_chart": 2112,
+      "streams": 50889
+    },
+    {
+      "rank": 192,
+      "prev_rank": null,
+      "change": {
+        "status": "re-entry",
+        "delta": null
+      },
+      "title": "天体観測",
+      "artists": [
+        "BUMP OF CHICKEN"
+      ],
+      "track_id": "3hRRYgBeunE3PTmnzATTS0",
+      "track_url": "https://open.spotify.com/track/3hRRYgBeunE3PTmnzATTS0",
+      "peak_rank": 58,
+      "days_on_chart": 971,
+      "streams": 50807
+    },
+    {
+      "rank": 193,
+      "prev_rank": 162,
       "change": {
         "status": "down",
-        "delta": -15
+        "delta": -31
+      },
+      "title": "僕は君の事が好きだけど君は僕を別に好きじゃないみたい",
+      "artists": [
+        "back number"
+      ],
+      "track_id": "1WutVejYvP7220sofj3xId",
+      "track_url": "https://open.spotify.com/track/1WutVejYvP7220sofj3xId",
+      "peak_rank": 101,
+      "days_on_chart": 340,
+      "streams": 50798
+    },
+    {
+      "rank": 194,
+      "prev_rank": 186,
+      "change": {
+        "status": "down",
+        "delta": -8
+      },
+      "title": "花火",
+      "artists": [
+        "aiko"
+      ],
+      "track_id": "0I0zZHGJ6ea8TxwbUvvJEH",
+      "track_url": "https://open.spotify.com/track/0I0zZHGJ6ea8TxwbUvvJEH",
+      "peak_rank": 52,
+      "days_on_chart": 447,
+      "streams": 50737
+    },
+    {
+      "rank": 195,
+      "prev_rank": 160,
+      "change": {
+        "status": "down",
+        "delta": -35
+      },
+      "title": "ミスター・ブルースカイ",
+      "artists": [
+        "Macaroni Empitsu"
+      ],
+      "track_id": "6glcoO077gTGhgdVI9X5wA",
+      "track_url": "https://open.spotify.com/track/6glcoO077gTGhgdVI9X5wA",
+      "peak_rank": 72,
+      "days_on_chart": 467,
+      "streams": 50418
+    },
+    {
+      "rank": 196,
+      "prev_rank": null,
+      "change": {
+        "status": "re-entry",
+        "delta": null
+      },
+      "title": "夜に駆ける",
+      "artists": [
+        "YOASOBI"
+      ],
+      "track_id": "6MCjmGYlw6mQVWRFVgBRvB",
+      "track_url": "https://open.spotify.com/track/6MCjmGYlw6mQVWRFVgBRvB",
+      "peak_rank": 1,
+      "days_on_chart": 1998,
+      "streams": 50322
+    },
+    {
+      "rank": 197,
+      "prev_rank": null,
+      "change": {
+        "status": "re-entry",
+        "delta": null
+      },
+      "title": "Manatsu no Kajitsu",
+      "artists": [
+        "SOUTHERN ALL STARS"
+      ],
+      "track_id": "7k2lMxHBsiz4dlVb1HDy9b",
+      "track_url": "https://open.spotify.com/track/7k2lMxHBsiz4dlVb1HDy9b",
+      "peak_rank": 52,
+      "days_on_chart": 82,
+      "streams": 50190
+    },
+    {
+      "rank": 198,
+      "prev_rank": 181,
+      "change": {
+        "status": "down",
+        "delta": -17
+      },
+      "title": "君が眩しいから僕は星が見えない",
+      "artists": [
+        "SIX LOUNGE"
+      ],
+      "track_id": "2AofAbNYmyevuCF6JEnyOZ",
+      "track_url": "https://open.spotify.com/track/2AofAbNYmyevuCF6JEnyOZ",
+      "peak_rank": 55,
+      "days_on_chart": 131,
+      "streams": 50069
+    },
+    {
+      "rank": 199,
+      "prev_rank": 200,
+      "change": {
+        "status": "up",
+        "delta": 1
       },
       "title": "SPIN",
       "artists": [
@@ -3422,17 +3405,53 @@
       "track_id": "2f0aQlbzfF7Zz4olebBtjG",
       "track_url": "https://open.spotify.com/track/2f0aQlbzfF7Zz4olebBtjG",
       "peak_rank": 183,
-      "days_on_chart": 7,
-      "streams": 53090
+      "days_on_chart": 8,
+      "streams": 50047
+    },
+    {
+      "rank": 200,
+      "prev_rank": 196,
+      "change": {
+        "status": "down",
+        "delta": -4
+      },
+      "title": "春雷",
+      "artists": [
+        "Kenshi Yonezu"
+      ],
+      "track_id": "6megNXGjmim4OitjZnIn9v",
+      "track_url": "https://open.spotify.com/track/6megNXGjmim4OitjZnIn9v",
+      "peak_rank": 119,
+      "days_on_chart": 138,
+      "streams": 49565
     }
   ],
   "new_entries": [
     {
-      "rank": 65,
+      "rank": 114,
       "prev_rank": null,
       "change": {
         "status": "new",
         "delta": null
+      },
+      "title": "汝、星のごとく",
+      "artists": [
+        "RADWIMPS"
+      ],
+      "track_id": "3HC46DzSre5EflDoNa5yrj",
+      "track_url": "https://open.spotify.com/track/3HC46DzSre5EflDoNa5yrj",
+      "peak_rank": 114,
+      "days_on_chart": 1,
+      "streams": 63938
+    }
+  ],
+  "top_climbers": [
+    {
+      "rank": 49,
+      "prev_rank": 65,
+      "change": {
+        "status": "up",
+        "delta": 16
       },
       "title": "NEON",
       "artists": [
@@ -3441,35 +3460,16 @@
       ],
       "track_id": "5PvLNQRNRj61y3CU4SFIY4",
       "track_url": "https://open.spotify.com/track/5PvLNQRNRj61y3CU4SFIY4",
-      "peak_rank": 65,
-      "days_on_chart": 1,
-      "streams": 84854
-    }
-  ],
-  "top_climbers": [
-    {
-      "rank": 71,
-      "prev_rank": 90,
-      "change": {
-        "status": "up",
-        "delta": 19
-      },
-      "title": "わたがし",
-      "artists": [
-        "back number"
-      ],
-      "track_id": "23NPPhiLqHywaExkaEey8l",
-      "track_url": "https://open.spotify.com/track/23NPPhiLqHywaExkaEey8l",
-      "peak_rank": 54,
-      "days_on_chart": 253,
-      "streams": 80267
+      "peak_rank": 49,
+      "days_on_chart": 2,
+      "streams": 101478
     },
     {
-      "rank": 93,
-      "prev_rank": 106,
+      "rank": 78,
+      "prev_rank": 93,
       "change": {
         "status": "up",
-        "delta": 13
+        "delta": 15
       },
       "title": "正解",
       "artists": [
@@ -3478,63 +3478,80 @@
       "track_id": "6vg9UGXRVL4YKNVqVMmOKF",
       "track_url": "https://open.spotify.com/track/6vg9UGXRVL4YKNVqVMmOKF",
       "peak_rank": 29,
-      "days_on_chart": 372,
-      "streams": 74133
+      "days_on_chart": 373,
+      "streams": 73548
     },
     {
-      "rank": 115,
-      "prev_rank": 130,
+      "rank": 81,
+      "prev_rank": 96,
       "change": {
         "status": "up",
         "delta": 15
       },
-      "title": "EGO",
+      "title": "アイネクライネ",
       "artists": [
-        "Travis Japan"
+        "Kenshi Yonezu"
       ],
-      "track_id": "5503SbOjsHoAF12iwW4eS4",
-      "track_url": "https://open.spotify.com/track/5503SbOjsHoAF12iwW4eS4",
-      "peak_rank": 115,
-      "days_on_chart": 4,
-      "streams": 69269
+      "track_id": "45YBVp6zMwQZRbUDcPzmMB",
+      "track_url": "https://open.spotify.com/track/45YBVp6zMwQZRbUDcPzmMB",
+      "peak_rank": 58,
+      "days_on_chart": 1501,
+      "streams": 72322
     },
     {
-      "rank": 132,
-      "prev_rank": 156,
+      "rank": 84,
+      "prev_rank": 103,
+      "change": {
+        "status": "up",
+        "delta": 19
+      },
+      "title": "キセキ",
+      "artists": [
+        "GReeeeN"
+      ],
+      "track_id": "7ztdl6cnbJgHRdMkKldkts",
+      "track_url": "https://open.spotify.com/track/7ztdl6cnbJgHRdMkKldkts",
+      "peak_rank": 19,
+      "days_on_chart": 3043,
+      "streams": 71286
+    },
+    {
+      "rank": 121,
+      "prev_rank": 145,
       "change": {
         "status": "up",
         "delta": 24
       },
-      "title": "花占い",
+      "title": "3XL",
       "artists": [
-        "Vaundy"
+        "Number_i"
       ],
-      "track_id": "4ETc1oFREuqQss7VQ1Y4mj",
-      "track_url": "https://open.spotify.com/track/4ETc1oFREuqQss7VQ1Y4mj",
-      "peak_rank": 17,
-      "days_on_chart": 1805,
-      "streams": 62778
+      "track_id": "3sNbkM4pIy1l7p6K2lhpvm",
+      "track_url": "https://open.spotify.com/track/3sNbkM4pIy1l7p6K2lhpvm",
+      "peak_rank": 1,
+      "days_on_chart": 265,
+      "streams": 61989
     },
     {
-      "rank": 139,
-      "prev_rank": 155,
+      "rank": 122,
+      "prev_rank": 140,
       "change": {
         "status": "up",
-        "delta": 16
+        "delta": 18
       },
-      "title": "TSUNAMI",
+      "title": "三日月",
       "artists": [
-        "SOUTHERN ALL STARS"
+        "ayaka"
       ],
-      "track_id": "2iXZA6Ecf9AZHw92tZBNLv",
-      "track_url": "https://open.spotify.com/track/2iXZA6Ecf9AZHw92tZBNLv",
-      "peak_rank": 54,
-      "days_on_chart": 398,
-      "streams": 61112
+      "track_id": "5SDVaYU4nfaIV0rNSlWSCa",
+      "track_url": "https://open.spotify.com/track/5SDVaYU4nfaIV0rNSlWSCa",
+      "peak_rank": 84,
+      "days_on_chart": 593,
+      "streams": 61782
     },
     {
-      "rank": 156,
-      "prev_rank": 177,
+      "rank": 135,
+      "prev_rank": 156,
       "change": {
         "status": "up",
         "delta": 21
@@ -3546,59 +3563,42 @@
       "track_id": "54TCi06LKnlO2NeSrdouQU",
       "track_url": "https://open.spotify.com/track/54TCi06LKnlO2NeSrdouQU",
       "peak_rank": 97,
-      "days_on_chart": 276,
-      "streams": 57682
+      "days_on_chart": 277,
+      "streams": 59538
     },
     {
-      "rank": 168,
-      "prev_rank": 200,
+      "rank": 164,
+      "prev_rank": 182,
       "change": {
         "status": "up",
-        "delta": 32
+        "delta": 18
       },
-      "title": "One Love",
+      "title": "CITRUS",
       "artists": [
-        "ARASHI"
+        "Da-iCE"
       ],
-      "track_id": "3r6Am8NvUDbuS2Yqv76ivi",
-      "track_url": "https://open.spotify.com/track/3r6Am8NvUDbuS2Yqv76ivi",
-      "peak_rank": 2,
-      "days_on_chart": 291,
-      "streams": 56371
+      "track_id": "2IL2asrtx7XM1y8fu2RMnR",
+      "track_url": "https://open.spotify.com/track/2IL2asrtx7XM1y8fu2RMnR",
+      "peak_rank": 8,
+      "days_on_chart": 1831,
+      "streams": 54056
     },
     {
-      "rank": 169,
-      "prev_rank": 192,
+      "rank": 166,
+      "prev_rank": 187,
       "change": {
         "status": "up",
-        "delta": 23
+        "delta": 21
       },
-      "title": "さよーならまたいつか！- Sayonara",
+      "title": "Ikenai Taiyou",
       "artists": [
-        "Kenshi Yonezu"
+        "ORANGE RANGE"
       ],
-      "track_id": "5pN2AyWwjzwRoI7gukEVNd",
-      "track_url": "https://open.spotify.com/track/5pN2AyWwjzwRoI7gukEVNd",
-      "peak_rank": 3,
-      "days_on_chart": 884,
-      "streams": 56362
-    },
-    {
-      "rank": 170,
-      "prev_rank": 186,
-      "change": {
-        "status": "up",
-        "delta": 16
-      },
-      "title": "Shukumei",
-      "artists": [
-        "OFFICIAL HIGE DANDISM"
-      ],
-      "track_id": "0XaHPBAzPAC5ubwcRBqc1p",
-      "track_url": "https://open.spotify.com/track/0XaHPBAzPAC5ubwcRBqc1p",
-      "peak_rank": 4,
-      "days_on_chart": 1037,
-      "streams": 56129
+      "track_id": "7emibp3qHeqNNYqZ2Y09xb",
+      "track_url": "https://open.spotify.com/track/7emibp3qHeqNNYqZ2Y09xb",
+      "peak_rank": 26,
+      "days_on_chart": 555,
+      "streams": 53661
     },
     {
       "rank": 175,
@@ -3607,15 +3607,15 @@
         "status": "up",
         "delta": 15
       },
-      "title": "Tokimeki",
+      "title": "丸ノ内サディスティック",
       "artists": [
-        "Vaundy"
+        "Sheena Ringo"
       ],
-      "track_id": "18gB0d6DaRPvrQBbl7WEuk",
-      "track_url": "https://open.spotify.com/track/18gB0d6DaRPvrQBbl7WEuk",
-      "peak_rank": 51,
-      "days_on_chart": 1090,
-      "streams": 55617
+      "track_id": "1mWN1USPKg632qQXG9sfDL",
+      "track_url": "https://open.spotify.com/track/1mWN1USPKg632qQXG9sfDL",
+      "peak_rank": 37,
+      "days_on_chart": 1570,
+      "streams": 52388
     }
   ]
 }

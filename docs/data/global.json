@@ -1,8 +1,8 @@
 {
   "region": "global",
   "label": "Global",
-  "chart_date": "2026-11-13",
-  "generated_at": "2026-11-15T01:30:07.048869+00:00",
+  "chart_date": "2026-11-14",
+  "generated_at": "2026-11-16T01:34:27.957557+00:00",
   "source_mode": "kworb.net daily chart",
   "source_url": "https://kworb.net/spotify/country/global_daily.html",
   "entry_count": 200,
@@ -23,8 +23,8 @@
       "track_id": "3h5T5JypYU7huFiVYhv1dr",
       "track_url": "https://open.spotify.com/track/3h5T5JypYU7huFiVYhv1dr",
       "peak_rank": 1,
-      "days_on_chart": 94,
-      "streams": 4953565
+      "days_on_chart": 95,
+      "streams": 5006094
     },
     {
       "rank": 2,
@@ -40,8 +40,8 @@
       "track_id": "7MOO89Qv9AV7VZkt5mcqA8",
       "track_url": "https://open.spotify.com/track/7MOO89Qv9AV7VZkt5mcqA8",
       "peak_rank": 2,
-      "days_on_chart": 67,
-      "streams": 4497995
+      "days_on_chart": 68,
+      "streams": 4340617
     },
     {
       "rank": 3,
@@ -57,15 +57,15 @@
       "track_id": "2sFepQNyl1WjpROruP8bJ0",
       "track_url": "https://open.spotify.com/track/2sFepQNyl1WjpROruP8bJ0",
       "peak_rank": 1,
-      "days_on_chart": 29,
-      "streams": 3904390
+      "days_on_chart": 30,
+      "streams": 3742893
     },
     {
       "rank": 4,
-      "prev_rank": 5,
+      "prev_rank": 4,
       "change": {
-        "status": "up",
-        "delta": 1
+        "status": "same",
+        "delta": 0
       },
       "title": "Nicole Kidman",
       "artists": [
@@ -74,15 +74,15 @@
       "track_id": "70cHKK8bHAfJrOGVnfRG9J",
       "track_url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J",
       "peak_rank": 2,
-      "days_on_chart": 71,
-      "streams": 3372190
+      "days_on_chart": 72,
+      "streams": 3217738
     },
     {
       "rank": 5,
-      "prev_rank": 4,
+      "prev_rank": 5,
       "change": {
-        "status": "down",
-        "delta": -1
+        "status": "same",
+        "delta": 0
       },
       "title": "the cure",
       "artists": [
@@ -91,8 +91,8 @@
       "track_id": "55pBIZO1cqoldeqpp5WR7H",
       "track_url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H",
       "peak_rank": 1,
-      "days_on_chart": 176,
-      "streams": 3273607
+      "days_on_chart": 177,
+      "streams": 3121199
     },
     {
       "rank": 6,
@@ -108,8 +108,8 @@
       "track_id": "6U9VpmP3dEinuezxCJ2Zg9",
       "track_url": "https://open.spotify.com/track/6U9VpmP3dEinuezxCJ2Zg9",
       "peak_rank": 2,
-      "days_on_chart": 108,
-      "streams": 3161430
+      "days_on_chart": 109,
+      "streams": 3014365
     },
     {
       "rank": 7,
@@ -125,49 +125,49 @@
       "track_id": "1o9mAOmNm3wT2NdyGV1Ard",
       "track_url": "https://open.spotify.com/track/1o9mAOmNm3wT2NdyGV1Ard",
       "peak_rank": 7,
-      "days_on_chart": 41,
-      "streams": 3087795
+      "days_on_chart": 42,
+      "streams": 2985649
     },
     {
       "rank": 8,
-      "prev_rank": 9,
+      "prev_rank": 13,
       "change": {
         "status": "up",
-        "delta": 1
+        "delta": 5
       },
-      "title": "Earrings",
+      "title": "Last Christmas",
       "artists": [
-        "Malcolm Todd"
+        "Wham!"
       ],
-      "track_id": "0eAuGrXyGFYwur9ARUe7LJ",
-      "track_url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ",
+      "track_id": "2FRnf9qhLbvw8fu4IBXx78",
+      "track_url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78",
       "peak_rank": 1,
-      "days_on_chart": 229,
-      "streams": 2623351
+      "days_on_chart": 577,
+      "streams": 2938668
     },
     {
       "rank": 9,
-      "prev_rank": 8,
+      "prev_rank": 21,
       "change": {
-        "status": "down",
-        "delta": -1
+        "status": "up",
+        "delta": 12
       },
-      "title": "back to friends",
+      "title": "All I Want for Christmas Is You",
       "artists": [
-        "sombr"
+        "Mariah Carey"
       ],
-      "track_id": "7qjZnBKE73H4Oxkopwulqe",
-      "track_url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe",
+      "track_id": "0bYg9bo50gSsH3LtXe2SQn",
+      "track_url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn",
       "peak_rank": 1,
-      "days_on_chart": 606,
-      "streams": 2599678
+      "days_on_chart": 636,
+      "streams": 2840963
     },
     {
       "rank": 10,
-      "prev_rank": 12,
+      "prev_rank": 10,
       "change": {
-        "status": "up",
-        "delta": 2
+        "status": "same",
+        "delta": 0
       },
       "title": "Beauty And A Beat",
       "artists": [
@@ -177,67 +177,66 @@
       "track_id": "6QFCMUUq1T2Vf5sFUXcuQ7",
       "track_url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7",
       "peak_rank": 1,
-      "days_on_chart": 260,
-      "streams": 2547420
+      "days_on_chart": 261,
+      "streams": 2577837
     },
     {
       "rank": 11,
-      "prev_rank": 11,
+      "prev_rank": 8,
       "change": {
-        "status": "same",
-        "delta": 0
+        "status": "down",
+        "delta": -3
       },
-      "title": "Just Give Me a Reason",
+      "title": "Earrings",
       "artists": [
-        "P!nk",
-        "Nate Ruess"
+        "Malcolm Todd"
       ],
-      "track_id": "1mKXFLRA179hdOWQBwUk9e",
-      "track_url": "https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e",
-      "peak_rank": 11,
-      "days_on_chart": 171,
-      "streams": 2547073
+      "track_id": "0eAuGrXyGFYwur9ARUe7LJ",
+      "track_url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ",
+      "peak_rank": 1,
+      "days_on_chart": 230,
+      "streams": 2571010
     },
     {
       "rank": 12,
-      "prev_rank": 13,
+      "prev_rank": 22,
       "change": {
         "status": "up",
-        "delta": 1
+        "delta": 10
       },
-      "title": "The One That Got Away",
+      "title": "Pós - Ao Vivo",
       "artists": [
-        "Katy Perry"
+        "Felipe e Rodrigo"
       ],
-      "track_id": "2009X8GyWTqyxIdzAEYW6N",
-      "track_url": "https://open.spotify.com/track/2009X8GyWTqyxIdzAEYW6N",
-      "peak_rank": 3,
-      "days_on_chart": 240,
-      "streams": 2500137
+      "track_id": "1uDn0nbzeGPVw97jp7SvzR",
+      "track_url": "https://open.spotify.com/track/1uDn0nbzeGPVw97jp7SvzR",
+      "peak_rank": 7,
+      "days_on_chart": 37,
+      "streams": 2539638
     },
     {
       "rank": 13,
-      "prev_rank": 19,
+      "prev_rank": 9,
       "change": {
-        "status": "up",
-        "delta": 6
+        "status": "down",
+        "delta": -4
       },
-      "title": "Last Christmas",
+      "title": "back to friends",
       "artists": [
-        "Wham!"
+        "sombr"
       ],
-      "track_id": "2FRnf9qhLbvw8fu4IBXx78",
-      "track_url": "https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78",
+      "track_id": "7qjZnBKE73H4Oxkopwulqe",
+      "track_url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe",
       "peak_rank": 1,
-      "days_on_chart": 576,
-      "streams": 2486699
+      "days_on_chart": 607,
+      "streams": 2516107
     },
     {
       "rank": 14,
-      "prev_rank": 18,
+      "prev_rank": 14,
       "change": {
-        "status": "up",
-        "delta": 4
+        "status": "same",
+        "delta": 0
       },
       "title": "Suzuki (from GTAVI: The Album)",
       "artists": [
@@ -247,15 +246,50 @@
       "track_id": "6VDw2mGBIa4csypjOhS6JT",
       "track_url": "https://open.spotify.com/track/6VDw2mGBIa4csypjOhS6JT",
       "peak_rank": 14,
-      "days_on_chart": 26,
-      "streams": 2469171
+      "days_on_chart": 27,
+      "streams": 2505659
     },
     {
       "rank": 15,
-      "prev_rank": 10,
+      "prev_rank": 11,
       "change": {
         "status": "down",
-        "delta": -5
+        "delta": -4
+      },
+      "title": "Just Give Me a Reason",
+      "artists": [
+        "P!nk",
+        "Nate Ruess"
+      ],
+      "track_id": "1mKXFLRA179hdOWQBwUk9e",
+      "track_url": "https://open.spotify.com/track/1mKXFLRA179hdOWQBwUk9e",
+      "peak_rank": 11,
+      "days_on_chart": 172,
+      "streams": 2486272
+    },
+    {
+      "rank": 16,
+      "prev_rank": 12,
+      "change": {
+        "status": "down",
+        "delta": -4
+      },
+      "title": "The One That Got Away",
+      "artists": [
+        "Katy Perry"
+      ],
+      "track_id": "2009X8GyWTqyxIdzAEYW6N",
+      "track_url": "https://open.spotify.com/track/2009X8GyWTqyxIdzAEYW6N",
+      "peak_rank": 3,
+      "days_on_chart": 241,
+      "streams": 2460205
+    },
+    {
+      "rank": 17,
+      "prev_rank": 15,
+      "change": {
+        "status": "down",
+        "delta": -2
       },
       "title": "Die With A Smile",
       "artists": [
@@ -265,29 +299,29 @@
       "track_id": "7so0lgd0zP2Sbgs2d7a1SZ",
       "track_url": "https://open.spotify.com/track/7so0lgd0zP2Sbgs2d7a1SZ",
       "peak_rank": 1,
-      "days_on_chart": 820,
-      "streams": 2451816
+      "days_on_chart": 821,
+      "streams": 2370367
     },
     {
-      "rank": 16,
-      "prev_rank": 24,
+      "rank": 18,
+      "prev_rank": 18,
       "change": {
-        "status": "up",
-        "delta": 8
+        "status": "same",
+        "delta": 0
       },
-      "title": "Self Aware",
+      "title": "Man I Need",
       "artists": [
-        "Temper City"
+        "Olivia Dean"
       ],
-      "track_id": "4qW3BbQAwZsrnu8a3ZRdyT",
-      "track_url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT",
-      "peak_rank": 5,
-      "days_on_chart": 222,
-      "streams": 2440283
+      "track_id": "1qbmS6ep2hbBRaEZFpn7BX",
+      "track_url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX",
+      "peak_rank": 2,
+      "days_on_chart": 452,
+      "streams": 2347879
     },
     {
-      "rank": 17,
-      "prev_rank": 15,
+      "rank": 19,
+      "prev_rank": 17,
       "change": {
         "status": "down",
         "delta": -2
@@ -299,42 +333,8 @@
       "track_id": "2QjOHCTQ1Jl3zawyYOpxh6",
       "track_url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6",
       "peak_rank": 10,
-      "days_on_chart": 2357,
-      "streams": 2425815
-    },
-    {
-      "rank": 18,
-      "prev_rank": 17,
-      "change": {
-        "status": "down",
-        "delta": -1
-      },
-      "title": "Man I Need",
-      "artists": [
-        "Olivia Dean"
-      ],
-      "track_id": "1qbmS6ep2hbBRaEZFpn7BX",
-      "track_url": "https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX",
-      "peak_rank": 2,
-      "days_on_chart": 451,
-      "streams": 2406905
-    },
-    {
-      "rank": 19,
-      "prev_rank": 14,
-      "change": {
-        "status": "down",
-        "delta": -5
-      },
-      "title": "Iris",
-      "artists": [
-        "The Goo Goo Dolls"
-      ],
-      "track_id": "6Qyc6fS4DsZjB2mRW9DsQs",
-      "track_url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs",
-      "peak_rank": 6,
-      "days_on_chart": 1156,
-      "streams": 2390954
+      "days_on_chart": 2358,
+      "streams": 2345301
     },
     {
       "rank": 20,
@@ -343,6 +343,23 @@
         "status": "down",
         "delta": -4
       },
+      "title": "Self Aware",
+      "artists": [
+        "Temper City"
+      ],
+      "track_id": "4qW3BbQAwZsrnu8a3ZRdyT",
+      "track_url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT",
+      "peak_rank": 5,
+      "days_on_chart": 223,
+      "streams": 2326676
+    },
+    {
+      "rank": 21,
+      "prev_rank": 20,
+      "change": {
+        "status": "down",
+        "delta": -1
+      },
       "title": "stupid song",
       "artists": [
         "Olivia Rodrigo"
@@ -350,63 +367,29 @@
       "track_id": "49j6SvuvWfbEKZKzsHCdLJ",
       "track_url": "https://open.spotify.com/track/49j6SvuvWfbEKZKzsHCdLJ",
       "peak_rank": 1,
-      "days_on_chart": 155,
-      "streams": 2340575
-    },
-    {
-      "rank": 21,
-      "prev_rank": 28,
-      "change": {
-        "status": "up",
-        "delta": 7
-      },
-      "title": "All I Want for Christmas Is You",
-      "artists": [
-        "Mariah Carey"
-      ],
-      "track_id": "0bYg9bo50gSsH3LtXe2SQn",
-      "track_url": "https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn",
-      "peak_rank": 1,
-      "days_on_chart": 635,
-      "streams": 2276620
+      "days_on_chart": 156,
+      "streams": 2320105
     },
     {
       "rank": 22,
-      "prev_rank": 29,
-      "change": {
-        "status": "up",
-        "delta": 7
-      },
-      "title": "Pós - Ao Vivo",
-      "artists": [
-        "Felipe e Rodrigo"
-      ],
-      "track_id": "1uDn0nbzeGPVw97jp7SvzR",
-      "track_url": "https://open.spotify.com/track/1uDn0nbzeGPVw97jp7SvzR",
-      "peak_rank": 7,
-      "days_on_chart": 36,
-      "streams": 2276148
-    },
-    {
-      "rank": 23,
-      "prev_rank": 20,
+      "prev_rank": 19,
       "change": {
         "status": "down",
         "delta": -3
       },
-      "title": "Great Expectation",
+      "title": "Iris",
       "artists": [
-        "SIENNA SPIRO"
+        "The Goo Goo Dolls"
       ],
-      "track_id": "7ujApz6iFP3PmKIDGcaGbe",
-      "track_url": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe",
-      "peak_rank": 12,
-      "days_on_chart": 129,
-      "streams": 2246371
+      "track_id": "6Qyc6fS4DsZjB2mRW9DsQs",
+      "track_url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs",
+      "peak_rank": 6,
+      "days_on_chart": 1157,
+      "streams": 2244620
     },
     {
-      "rank": 24,
-      "prev_rank": 25,
+      "rank": 23,
+      "prev_rank": 24,
       "change": {
         "status": "up",
         "delta": 1
@@ -418,49 +401,15 @@
       "track_id": "7scFxt9VhL4FJwuPSfRlfN",
       "track_url": "https://open.spotify.com/track/7scFxt9VhL4FJwuPSfRlfN",
       "peak_rank": 8,
-      "days_on_chart": 317,
-      "streams": 2232643
+      "days_on_chart": 318,
+      "streams": 2216376
     },
     {
-      "rank": 25,
-      "prev_rank": 21,
-      "change": {
-        "status": "down",
-        "delta": -4
-      },
-      "title": "End of Beginning",
-      "artists": [
-        "Djo"
-      ],
-      "track_id": "3qhlB30KknSejmIvZZLjOD",
-      "track_url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD",
-      "peak_rank": 1,
-      "days_on_chart": 1001,
-      "streams": 2203036
-    },
-    {
-      "rank": 26,
-      "prev_rank": 31,
+      "rank": 24,
+      "prev_rank": 27,
       "change": {
         "status": "up",
-        "delta": 5
-      },
-      "title": "Loser",
-      "artists": [
-        "Tame Impala"
-      ],
-      "track_id": "7bxaFZ1O3cHkgLKMsdC3xR",
-      "track_url": "https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR",
-      "peak_rank": 1,
-      "days_on_chart": 106,
-      "streams": 2182914
-    },
-    {
-      "rank": 27,
-      "prev_rank": 23,
-      "change": {
-        "status": "down",
-        "delta": -4
+        "delta": 3
       },
       "title": "Love Me Not",
       "artists": [
@@ -469,15 +418,49 @@
       "track_id": "4WFgvKVfEhb3IUAFGrutTR",
       "track_url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR",
       "peak_rank": 5,
-      "days_on_chart": 605,
-      "streams": 2163165
+      "days_on_chart": 606,
+      "streams": 2139017
     },
     {
-      "rank": 28,
-      "prev_rank": 22,
+      "rank": 25,
+      "prev_rank": 23,
       "change": {
         "status": "down",
-        "delta": -6
+        "delta": -2
+      },
+      "title": "Great Expectation",
+      "artists": [
+        "SIENNA SPIRO"
+      ],
+      "track_id": "7ujApz6iFP3PmKIDGcaGbe",
+      "track_url": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe",
+      "peak_rank": 12,
+      "days_on_chart": 130,
+      "streams": 2129738
+    },
+    {
+      "rank": 26,
+      "prev_rank": 25,
+      "change": {
+        "status": "down",
+        "delta": -1
+      },
+      "title": "End of Beginning",
+      "artists": [
+        "Djo"
+      ],
+      "track_id": "3qhlB30KknSejmIvZZLjOD",
+      "track_url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD",
+      "peak_rank": 1,
+      "days_on_chart": 1002,
+      "streams": 2101821
+    },
+    {
+      "rank": 27,
+      "prev_rank": 28,
+      "change": {
+        "status": "up",
+        "delta": 1
       },
       "title": "SWIM",
       "artists": [
@@ -486,15 +469,32 @@
       "track_id": "68lbSrXDORS51pmyjZv712",
       "track_url": "https://open.spotify.com/track/68lbSrXDORS51pmyjZv712",
       "peak_rank": 1,
-      "days_on_chart": 239,
-      "streams": 2135840
+      "days_on_chart": 240,
+      "streams": 2082334
     },
     {
-      "rank": 29,
-      "prev_rank": 27,
+      "rank": 28,
+      "prev_rank": 26,
       "change": {
         "status": "down",
         "delta": -2
+      },
+      "title": "Loser",
+      "artists": [
+        "Tame Impala"
+      ],
+      "track_id": "7bxaFZ1O3cHkgLKMsdC3xR",
+      "track_url": "https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR",
+      "peak_rank": 1,
+      "days_on_chart": 107,
+      "streams": 2047082
+    },
+    {
+      "rank": 29,
+      "prev_rank": 29,
+      "change": {
+        "status": "same",
+        "delta": 0
       },
       "title": "Mr. Brightside",
       "artists": [
@@ -503,15 +503,15 @@
       "track_id": "003vvx7Niy0yvhvHt4a68B",
       "track_url": "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B",
       "peak_rank": 22,
-      "days_on_chart": 1919,
-      "streams": 2104141
+      "days_on_chart": 1920,
+      "streams": 2038257
     },
     {
       "rank": 30,
-      "prev_rank": 32,
+      "prev_rank": 30,
       "change": {
-        "status": "up",
-        "delta": 2
+        "status": "same",
+        "delta": 0
       },
       "title": "Babydoll",
       "artists": [
@@ -520,15 +520,32 @@
       "track_id": "7yNf9YjeO5JXUE3JEBgnYc",
       "track_url": "https://open.spotify.com/track/7yNf9YjeO5JXUE3JEBgnYc",
       "peak_rank": 1,
-      "days_on_chart": 356,
-      "streams": 2041881
+      "days_on_chart": 357,
+      "streams": 2028455
     },
     {
       "rank": 31,
-      "prev_rank": 33,
+      "prev_rank": 40,
       "change": {
         "status": "up",
-        "delta": 2
+        "delta": 9
+      },
+      "title": "Billie Jean",
+      "artists": [
+        "Michael Jackson"
+      ],
+      "track_id": "7J1uxwnxfQLu4APicE5Rnj",
+      "track_url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj",
+      "peak_rank": 1,
+      "days_on_chart": 601,
+      "streams": 2008095
+    },
+    {
+      "rank": 32,
+      "prev_rank": 31,
+      "change": {
+        "status": "down",
+        "delta": -1
       },
       "title": "Ordinary",
       "artists": [
@@ -537,83 +554,33 @@
       "track_id": "2RkZ5LkEzeHGRsmDqKwmaJ",
       "track_url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ",
       "peak_rank": 1,
-      "days_on_chart": 645,
-      "streams": 2013342
-    },
-    {
-      "rank": 32,
-      "prev_rank": 26,
-      "change": {
-        "status": "down",
-        "delta": -6
-      },
-      "title": "Sailor Song",
-      "artists": [
-        "Gigi Perez"
-      ],
-      "track_id": "21IYMdzTrzSe191Cy5eMap",
-      "track_url": "https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap",
-      "peak_rank": 5,
-      "days_on_chart": 818,
-      "streams": 2008487
+      "days_on_chart": 646,
+      "streams": 2003083
     },
     {
       "rank": 33,
-      "prev_rank": 40,
+      "prev_rank": 57,
       "change": {
         "status": "up",
-        "delta": 7
+        "delta": 24
       },
-      "title": "Every Breath You Take",
+      "title": "Postinho de Gasolina",
       "artists": [
-        "The Police"
+        "João Gustavo e Murilo",
+        "Grelo"
       ],
-      "track_id": "1JSTJqkT5qHq8MDJnJbRE1",
-      "track_url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1",
-      "peak_rank": 6,
-      "days_on_chart": 1856,
-      "streams": 1999622
+      "track_id": "4RuRAwMmuBxw4QsKeFVhxh",
+      "track_url": "https://open.spotify.com/track/4RuRAwMmuBxw4QsKeFVhxh",
+      "peak_rank": 25,
+      "days_on_chart": 50,
+      "streams": 1972559
     },
     {
       "rank": 34,
-      "prev_rank": 39,
-      "change": {
-        "status": "up",
-        "delta": 5
-      },
-      "title": "Creep",
-      "artists": [
-        "Radiohead"
-      ],
-      "track_id": "70LcF31zb1H0PyJoS1Sx1r",
-      "track_url": "https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r",
-      "peak_rank": 22,
-      "days_on_chart": 1079,
-      "streams": 1991612
-    },
-    {
-      "rank": 35,
       "prev_rank": 36,
       "change": {
         "status": "up",
-        "delta": 1
-      },
-      "title": "Treat You Better",
-      "artists": [
-        "Shawn Mendes"
-      ],
-      "track_id": "3QGsuHI8jO1Rx4JWLUh9jd",
-      "track_url": "https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd",
-      "peak_rank": 4,
-      "days_on_chart": 806,
-      "streams": 1964107
-    },
-    {
-      "rank": 36,
-      "prev_rank": 37,
-      "change": {
-        "status": "up",
-        "delta": 1
+        "delta": 2
       },
       "title": "I Wanna Be Yours",
       "artists": [
@@ -622,49 +589,84 @@
       "track_id": "5XeFesFbtLpXzIVDNQP22n",
       "track_url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n",
       "peak_rank": 11,
-      "days_on_chart": 1591,
-      "streams": 1963440
+      "days_on_chart": 1592,
+      "streams": 1967797
     },
     {
-      "rank": 37,
-      "prev_rank": 30,
+      "rank": 35,
+      "prev_rank": 48,
       "change": {
-        "status": "down",
-        "delta": -7
+        "status": "up",
+        "delta": 13
       },
-      "title": "Coming Up Roses",
+      "title": "Dai Dai",
       "artists": [
-        "Harry Styles"
+        "Shakira",
+        "Burna Boy"
       ],
-      "track_id": "0QPdjsMOUhwouq1NS3HwfQ",
-      "track_url": "https://open.spotify.com/track/0QPdjsMOUhwouq1NS3HwfQ",
-      "peak_rank": 8,
-      "days_on_chart": 48,
-      "streams": 1946844
+      "track_id": "0kosUz0jePvjiz4ctmR6wL",
+      "track_url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL",
+      "peak_rank": 1,
+      "days_on_chart": 178,
+      "streams": 1960090
     },
     {
-      "rank": 38,
+      "rank": 36,
       "prev_rank": 35,
       "change": {
         "status": "down",
-        "delta": -3
+        "delta": -1
       },
-      "title": "BIRDS OF A FEATHER",
+      "title": "Treat You Better",
       "artists": [
-        "Billie Eilish"
+        "Shawn Mendes"
       ],
-      "track_id": "6dOtVTDdiauQNBQEDOtlAB",
-      "track_url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB",
-      "peak_rank": 1,
-      "days_on_chart": 911,
-      "streams": 1940666
+      "track_id": "3QGsuHI8jO1Rx4JWLUh9jd",
+      "track_url": "https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd",
+      "peak_rank": 4,
+      "days_on_chart": 807,
+      "streams": 1943698
     },
     {
-      "rank": 39,
-      "prev_rank": 34,
+      "rank": 37,
+      "prev_rank": 32,
       "change": {
         "status": "down",
         "delta": -5
+      },
+      "title": "Sailor Song",
+      "artists": [
+        "Gigi Perez"
+      ],
+      "track_id": "21IYMdzTrzSe191Cy5eMap",
+      "track_url": "https://open.spotify.com/track/21IYMdzTrzSe191Cy5eMap",
+      "peak_rank": 5,
+      "days_on_chart": 819,
+      "streams": 1939807
+    },
+    {
+      "rank": 38,
+      "prev_rank": 33,
+      "change": {
+        "status": "down",
+        "delta": -5
+      },
+      "title": "Every Breath You Take",
+      "artists": [
+        "The Police"
+      ],
+      "track_id": "1JSTJqkT5qHq8MDJnJbRE1",
+      "track_url": "https://open.spotify.com/track/1JSTJqkT5qHq8MDJnJbRE1",
+      "peak_rank": 6,
+      "days_on_chart": 1857,
+      "streams": 1930849
+    },
+    {
+      "rank": 39,
+      "prev_rank": 39,
+      "change": {
+        "status": "same",
+        "delta": 0
       },
       "title": "One Of The Girls",
       "artists": [
@@ -675,66 +677,32 @@
       "track_id": "7CyPwkp0oE8Ro9Dd5CUDjW",
       "track_url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW",
       "peak_rank": 2,
-      "days_on_chart": 1133,
-      "streams": 1918002
+      "days_on_chart": 1134,
+      "streams": 1911389
     },
     {
       "rank": 40,
-      "prev_rank": 45,
+      "prev_rank": 34,
       "change": {
-        "status": "up",
-        "delta": 5
+        "status": "down",
+        "delta": -6
       },
-      "title": "Billie Jean",
+      "title": "Creep",
       "artists": [
-        "Michael Jackson"
+        "Radiohead"
       ],
-      "track_id": "7J1uxwnxfQLu4APicE5Rnj",
-      "track_url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj",
-      "peak_rank": 1,
-      "days_on_chart": 600,
-      "streams": 1902544
+      "track_id": "70LcF31zb1H0PyJoS1Sx1r",
+      "track_url": "https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r",
+      "peak_rank": 22,
+      "days_on_chart": 1080,
+      "streams": 1906086
     },
     {
       "rank": 41,
-      "prev_rank": 41,
-      "change": {
-        "status": "same",
-        "delta": 0
-      },
-      "title": "Bring Me To Life",
-      "artists": [
-        "Evanescence"
-      ],
-      "track_id": "0COqiPhxzoWICwFCS4eZcp",
-      "track_url": "https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp",
-      "peak_rank": 41,
-      "days_on_chart": 578,
-      "streams": 1859574
-    },
-    {
-      "rank": 42,
-      "prev_rank": 38,
-      "change": {
-        "status": "down",
-        "delta": -4
-      },
-      "title": "Yellow",
-      "artists": [
-        "Coldplay"
-      ],
-      "track_id": "3AJwUDP919kvQ9QcozQPxg",
-      "track_url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg",
-      "peak_rank": 15,
-      "days_on_chart": 2146,
-      "streams": 1849309
-    },
-    {
-      "rank": 43,
       "prev_rank": 43,
       "change": {
-        "status": "same",
-        "delta": 0
+        "status": "up",
+        "delta": 2
       },
       "title": "Alfaaz",
       "artists": [
@@ -744,32 +712,66 @@
       "track_id": "0tW2gwaRzFQQrgr2UCO56G",
       "track_url": "https://open.spotify.com/track/0tW2gwaRzFQQrgr2UCO56G",
       "peak_rank": 26,
-      "days_on_chart": 41,
-      "streams": 1819107
+      "days_on_chart": 42,
+      "streams": 1869499
+    },
+    {
+      "rank": 42,
+      "prev_rank": 70,
+      "change": {
+        "status": "up",
+        "delta": 28
+      },
+      "title": "Snowman",
+      "artists": [
+        "Sia"
+      ],
+      "track_id": "7uoFMmxln0GPXQ0AcCBXRq",
+      "track_url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq",
+      "peak_rank": 8,
+      "days_on_chart": 343,
+      "streams": 1860533
+    },
+    {
+      "rank": 43,
+      "prev_rank": 38,
+      "change": {
+        "status": "down",
+        "delta": -5
+      },
+      "title": "BIRDS OF A FEATHER",
+      "artists": [
+        "Billie Eilish"
+      ],
+      "track_id": "6dOtVTDdiauQNBQEDOtlAB",
+      "track_url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB",
+      "peak_rank": 1,
+      "days_on_chart": 912,
+      "streams": 1848727
     },
     {
       "rank": 44,
-      "prev_rank": 44,
+      "prev_rank": 82,
       "change": {
-        "status": "same",
-        "delta": 0
+        "status": "up",
+        "delta": 38
       },
-      "title": "hate that i made you love me",
+      "title": "Santa Tell Me",
       "artists": [
         "Ariana Grande"
       ],
-      "track_id": "3iy2QuCtCzpWnR6tia39AB",
-      "track_url": "https://open.spotify.com/track/3iy2QuCtCzpWnR6tia39AB",
-      "peak_rank": 1,
-      "days_on_chart": 169,
-      "streams": 1810123
+      "track_id": "0lizgQ7Qw35od7CYaoMBZb",
+      "track_url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb",
+      "peak_rank": 3,
+      "days_on_chart": 500,
+      "streams": 1816534
     },
     {
       "rank": 45,
-      "prev_rank": 47,
+      "prev_rank": 45,
       "change": {
-        "status": "up",
-        "delta": 2
+        "status": "same",
+        "delta": 0
       },
       "title": "Wonderwall - Remastered",
       "artists": [
@@ -778,15 +780,83 @@
       "track_id": "5qqabIl2vWzo9ApSC317sa",
       "track_url": "https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa",
       "peak_rank": 1,
-      "days_on_chart": 1120,
-      "streams": 1809866
+      "days_on_chart": 1121,
+      "streams": 1782694
     },
     {
       "rank": 46,
+      "prev_rank": 37,
+      "change": {
+        "status": "down",
+        "delta": -9
+      },
+      "title": "Coming Up Roses",
+      "artists": [
+        "Harry Styles"
+      ],
+      "track_id": "0QPdjsMOUhwouq1NS3HwfQ",
+      "track_url": "https://open.spotify.com/track/0QPdjsMOUhwouq1NS3HwfQ",
+      "peak_rank": 8,
+      "days_on_chart": 49,
+      "streams": 1782679
+    },
+    {
+      "rank": 47,
+      "prev_rank": 49,
+      "change": {
+        "status": "up",
+        "delta": 2
+      },
+      "title": "DtMF",
+      "artists": [
+        "Bad Bunny"
+      ],
+      "track_id": "3sK8wGT43QFpWrvNQsrQya",
+      "track_url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya",
+      "peak_rank": 1,
+      "days_on_chart": 679,
+      "streams": 1776896
+    },
+    {
+      "rank": 48,
+      "prev_rank": 42,
+      "change": {
+        "status": "down",
+        "delta": -6
+      },
+      "title": "Yellow",
+      "artists": [
+        "Coldplay"
+      ],
+      "track_id": "3AJwUDP919kvQ9QcozQPxg",
+      "track_url": "https://open.spotify.com/track/3AJwUDP919kvQ9QcozQPxg",
+      "peak_rank": 15,
+      "days_on_chart": 2147,
+      "streams": 1768021
+    },
+    {
+      "rank": 49,
+      "prev_rank": 47,
+      "change": {
+        "status": "down",
+        "delta": -2
+      },
+      "title": "Sign of the Times",
+      "artists": [
+        "Harry Styles"
+      ],
+      "track_id": "5Ohxk2dO5COHF1krpoPigN",
+      "track_url": "https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN",
+      "peak_rank": 13,
+      "days_on_chart": 569,
+      "streams": 1751569
+    },
+    {
+      "rank": 50,
       "prev_rank": 46,
       "change": {
-        "status": "same",
-        "delta": 0
+        "status": "down",
+        "delta": -4
       },
       "title": "Starboy",
       "artists": [
@@ -796,67 +866,83 @@
       "track_id": "7MXVkk9YMctZqd1Srtv4MB",
       "track_url": "https://open.spotify.com/track/7MXVkk9YMctZqd1Srtv4MB",
       "peak_rank": 1,
-      "days_on_chart": 2332,
-      "streams": 1804871
+      "days_on_chart": 2333,
+      "streams": 1743986
     },
     {
-      "rank": 47,
-      "prev_rank": 42,
+      "rank": 51,
+      "prev_rank": 128,
+      "change": {
+        "status": "up",
+        "delta": 77
+      },
+      "title": "Jingle Bell Rock",
+      "artists": [
+        "Bobby Helms"
+      ],
+      "track_id": "7vQbuQcyTflfCIOu3Uzzya",
+      "track_url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya",
+      "peak_rank": 4,
+      "days_on_chart": 430,
+      "streams": 1743384
+    },
+    {
+      "rank": 52,
+      "prev_rank": 44,
+      "change": {
+        "status": "down",
+        "delta": -8
+      },
+      "title": "hate that i made you love me",
+      "artists": [
+        "Ariana Grande"
+      ],
+      "track_id": "3iy2QuCtCzpWnR6tia39AB",
+      "track_url": "https://open.spotify.com/track/3iy2QuCtCzpWnR6tia39AB",
+      "peak_rank": 1,
+      "days_on_chart": 170,
+      "streams": 1736551
+    },
+    {
+      "rank": 53,
+      "prev_rank": 115,
+      "change": {
+        "status": "up",
+        "delta": 62
+      },
+      "title": "Underneath the Tree",
+      "artists": [
+        "Kelly Clarkson"
+      ],
+      "track_id": "3nAp4IvdMPPWEH9uuXFFV5",
+      "track_url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5",
+      "peak_rank": 6,
+      "days_on_chart": 319,
+      "streams": 1735641
+    },
+    {
+      "rank": 54,
+      "prev_rank": 53,
+      "change": {
+        "status": "down",
+        "delta": -1
+      },
+      "title": "deja vu",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "track_id": "6HU7h9RYOaPRFeh0R3UeAr",
+      "track_url": "https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr",
+      "peak_rank": 3,
+      "days_on_chart": 669,
+      "streams": 1706746
+    },
+    {
+      "rank": 55,
+      "prev_rank": 50,
       "change": {
         "status": "down",
         "delta": -5
-      },
-      "title": "Sign of the Times",
-      "artists": [
-        "Harry Styles"
-      ],
-      "track_id": "5Ohxk2dO5COHF1krpoPigN",
-      "track_url": "https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN",
-      "peak_rank": 13,
-      "days_on_chart": 568,
-      "streams": 1785014
-    },
-    {
-      "rank": 48,
-      "prev_rank": 59,
-      "change": {
-        "status": "up",
-        "delta": 11
-      },
-      "title": "Dai Dai",
-      "artists": [
-        "Shakira",
-        "Burna Boy"
-      ],
-      "track_id": "0kosUz0jePvjiz4ctmR6wL",
-      "track_url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL",
-      "peak_rank": 1,
-      "days_on_chart": 177,
-      "streams": 1766469
-    },
-    {
-      "rank": 49,
-      "prev_rank": 50,
-      "change": {
-        "status": "up",
-        "delta": 1
-      },
-      "title": "DtMF",
-      "artists": [
-        "Bad Bunny"
-      ],
-      "track_id": "3sK8wGT43QFpWrvNQsrQya",
-      "track_url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya",
-      "peak_rank": 1,
-      "days_on_chart": 678,
-      "streams": 1751927
-    },
-    {
-      "rank": 50,
-      "prev_rank": 52,
-      "change": {
-        "status": "up",
-        "delta": 2
       },
       "title": "Cinderella",
       "artists": [
@@ -866,15 +952,32 @@
       "track_id": "2lpygKqzPFtItQ4ss3cgfb",
       "track_url": "https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb",
       "peak_rank": 18,
-      "days_on_chart": 178,
-      "streams": 1731181
+      "days_on_chart": 179,
+      "streams": 1699748
     },
     {
-      "rank": 51,
-      "prev_rank": 53,
+      "rank": 56,
+      "prev_rank": 41,
       "change": {
-        "status": "up",
-        "delta": 2
+        "status": "down",
+        "delta": -15
+      },
+      "title": "Bring Me To Life",
+      "artists": [
+        "Evanescence"
+      ],
+      "track_id": "0COqiPhxzoWICwFCS4eZcp",
+      "track_url": "https://open.spotify.com/track/0COqiPhxzoWICwFCS4eZcp",
+      "peak_rank": 41,
+      "days_on_chart": 579,
+      "streams": 1695720
+    },
+    {
+      "rank": 57,
+      "prev_rank": 51,
+      "change": {
+        "status": "down",
+        "delta": -6
       },
       "title": "Locked out of Heaven",
       "artists": [
@@ -883,66 +986,35 @@
       "track_id": "5g7sDjBhZ4I3gcFIpkrLuI",
       "track_url": "https://open.spotify.com/track/5g7sDjBhZ4I3gcFIpkrLuI",
       "peak_rank": 14,
-      "days_on_chart": 1785,
-      "streams": 1722621
+      "days_on_chart": 1786,
+      "streams": 1679616
     },
     {
-      "rank": 52,
-      "prev_rank": 49,
-      "change": {
-        "status": "down",
-        "delta": -3
-      },
-      "title": "The Night We Met",
-      "artists": [
-        "Lord Huron"
-      ],
-      "track_id": "3hRV0jL3vUpRrcy398teAU",
-      "track_url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU",
-      "peak_rank": 15,
-      "days_on_chart": 1564,
-      "streams": 1714361
-    },
-    {
-      "rank": 53,
-      "prev_rank": 48,
-      "change": {
-        "status": "down",
-        "delta": -5
-      },
-      "title": "deja vu",
-      "artists": [
-        "Olivia Rodrigo"
-      ],
-      "track_id": "6HU7h9RYOaPRFeh0R3UeAr",
-      "track_url": "https://open.spotify.com/track/6HU7h9RYOaPRFeh0R3UeAr",
-      "peak_rank": 3,
-      "days_on_chart": 668,
-      "streams": 1707782
-    },
-    {
-      "rank": 54,
-      "prev_rank": 51,
-      "change": {
-        "status": "down",
-        "delta": -3
-      },
-      "title": "505",
-      "artists": [
-        "Arctic Monkeys"
-      ],
-      "track_id": "58ge6dfP91o9oXMzq3XkIS",
-      "track_url": "https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS",
-      "peak_rank": 40,
-      "days_on_chart": 1774,
-      "streams": 1692652
-    },
-    {
-      "rank": 55,
-      "prev_rank": 56,
+      "rank": 58,
+      "prev_rank": 60,
       "change": {
         "status": "up",
-        "delta": 1
+        "delta": 2
+      },
+      "title": "Cuando No Era Cantante RMX - Remix",
+      "artists": [
+        "El Bogueto",
+        "Anuel AA",
+        "Fuerza Regida",
+        "Yung Beef"
+      ],
+      "track_id": "56V7nzrqr6Sq1uFym4odwa",
+      "track_url": "https://open.spotify.com/track/56V7nzrqr6Sq1uFym4odwa",
+      "peak_rank": 39,
+      "days_on_chart": 131,
+      "streams": 1671227
+    },
+    {
+      "rank": 59,
+      "prev_rank": 55,
+      "change": {
+        "status": "down",
+        "delta": -4
       },
       "title": "Riptide",
       "artists": [
@@ -951,15 +1023,69 @@
       "track_id": "7yq4Qj7cqayVTp3FF9CWbm",
       "track_url": "https://open.spotify.com/track/7yq4Qj7cqayVTp3FF9CWbm",
       "peak_rank": 16,
-      "days_on_chart": 2823,
-      "streams": 1691758
+      "days_on_chart": 2824,
+      "streams": 1660729
     },
     {
-      "rank": 56,
-      "prev_rank": 63,
+      "rank": 60,
+      "prev_rank": 62,
       "change": {
         "status": "up",
-        "delta": 7
+        "delta": 2
+      },
+      "title": "Olimpo",
+      "artists": [
+        "Neton Vega",
+        "Fuerza Regida"
+      ],
+      "track_id": "0vGKL7wzfkhzGEJScbYt7N",
+      "track_url": "https://open.spotify.com/track/0vGKL7wzfkhzGEJScbYt7N",
+      "peak_rank": 60,
+      "days_on_chart": 17,
+      "streams": 1658969
+    },
+    {
+      "rank": 61,
+      "prev_rank": 148,
+      "change": {
+        "status": "up",
+        "delta": 87
+      },
+      "title": "Rockin' Around The Christmas Tree",
+      "artists": [
+        "Brenda Lee"
+      ],
+      "track_id": "2EjXfH91m7f8HiJN1yQg97",
+      "track_url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97",
+      "peak_rank": 2,
+      "days_on_chart": 425,
+      "streams": 1645308
+    },
+    {
+      "rank": 62,
+      "prev_rank": 61,
+      "change": {
+        "status": "down",
+        "delta": -1
+      },
+      "title": "One Dance",
+      "artists": [
+        "Drake",
+        "Wizkid",
+        "Kyla"
+      ],
+      "track_id": "1zi7xx7UVEFkmKfv06H8x0",
+      "track_url": "https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0",
+      "peak_rank": 1,
+      "days_on_chart": 2373,
+      "streams": 1626347
+    },
+    {
+      "rank": 63,
+      "prev_rank": 56,
+      "change": {
+        "status": "down",
+        "delta": -7
       },
       "title": "Flower In A Hurricane",
       "artists": [
@@ -972,134 +1098,8 @@
       "track_id": "4HCOHRCSQelz2GPX8iTamO",
       "track_url": "https://open.spotify.com/track/4HCOHRCSQelz2GPX8iTamO",
       "peak_rank": 41,
-      "days_on_chart": 15,
-      "streams": 1683255
-    },
-    {
-      "rank": 57,
-      "prev_rank": 76,
-      "change": {
-        "status": "up",
-        "delta": 19
-      },
-      "title": "Postinho de Gasolina",
-      "artists": [
-        "João Gustavo e Murilo",
-        "Grelo"
-      ],
-      "track_id": "4RuRAwMmuBxw4QsKeFVhxh",
-      "track_url": "https://open.spotify.com/track/4RuRAwMmuBxw4QsKeFVhxh",
-      "peak_rank": 25,
-      "days_on_chart": 49,
-      "streams": 1682163
-    },
-    {
-      "rank": 58,
-      "prev_rank": 57,
-      "change": {
-        "status": "down",
-        "delta": -1
-      },
-      "title": "drop dead",
-      "artists": [
-        "Olivia Rodrigo"
-      ],
-      "track_id": "3fRCAPMMZ8l8P9YKI6OCzD",
-      "track_url": "https://open.spotify.com/track/3fRCAPMMZ8l8P9YKI6OCzD",
-      "peak_rank": 1,
-      "days_on_chart": 211,
-      "streams": 1671270
-    },
-    {
-      "rank": 59,
-      "prev_rank": 55,
-      "change": {
-        "status": "down",
-        "delta": -4
-      },
-      "title": "In the End",
-      "artists": [
-        "Linkin Park"
-      ],
-      "track_id": "60a0Rd6pjrkxjPbaKzXjfq",
-      "track_url": "https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq",
-      "peak_rank": 8,
-      "days_on_chart": 1249,
-      "streams": 1668812
-    },
-    {
-      "rank": 60,
-      "prev_rank": 60,
-      "change": {
-        "status": "same",
-        "delta": 0
-      },
-      "title": "Cuando No Era Cantante RMX - Remix",
-      "artists": [
-        "El Bogueto",
-        "Anuel AA",
-        "Fuerza Regida",
-        "Yung Beef"
-      ],
-      "track_id": "56V7nzrqr6Sq1uFym4odwa",
-      "track_url": "https://open.spotify.com/track/56V7nzrqr6Sq1uFym4odwa",
-      "peak_rank": 39,
-      "days_on_chart": 130,
-      "streams": 1655039
-    },
-    {
-      "rank": 61,
-      "prev_rank": 65,
-      "change": {
-        "status": "up",
-        "delta": 4
-      },
-      "title": "One Dance",
-      "artists": [
-        "Drake",
-        "Wizkid",
-        "Kyla"
-      ],
-      "track_id": "1zi7xx7UVEFkmKfv06H8x0",
-      "track_url": "https://open.spotify.com/track/1zi7xx7UVEFkmKfv06H8x0",
-      "peak_rank": 1,
-      "days_on_chart": 2372,
-      "streams": 1652320
-    },
-    {
-      "rank": 62,
-      "prev_rank": 67,
-      "change": {
-        "status": "up",
-        "delta": 5
-      },
-      "title": "Olimpo",
-      "artists": [
-        "Neton Vega",
-        "Fuerza Regida"
-      ],
-      "track_id": "0vGKL7wzfkhzGEJScbYt7N",
-      "track_url": "https://open.spotify.com/track/0vGKL7wzfkhzGEJScbYt7N",
-      "peak_rank": 62,
       "days_on_chart": 16,
-      "streams": 1616016
-    },
-    {
-      "rank": 63,
-      "prev_rank": null,
-      "change": {
-        "status": "new",
-        "delta": null
-      },
-      "title": "Party With The Boys",
-      "artists": [
-        "Don Toliver"
-      ],
-      "track_id": "5d2Sj3lMKJFefwU26GInQu",
-      "track_url": "https://open.spotify.com/track/5d2Sj3lMKJFefwU26GInQu",
-      "peak_rank": 63,
-      "days_on_chart": 1,
-      "streams": 1604459
+      "streams": 1623804
     },
     {
       "rank": 64,
@@ -1108,244 +1108,56 @@
         "status": "down",
         "delta": -10
       },
-      "title": "Reflections",
+      "title": "505",
       "artists": [
-        "The Neighbourhood"
+        "Arctic Monkeys"
       ],
-      "track_id": "2xql0pid3EUwW38AsywxhV",
-      "track_url": "https://open.spotify.com/track/2xql0pid3EUwW38AsywxhV",
-      "peak_rank": 54,
-      "days_on_chart": 104,
-      "streams": 1602411
+      "track_id": "58ge6dfP91o9oXMzq3XkIS",
+      "track_url": "https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS",
+      "peak_rank": 40,
+      "days_on_chart": 1775,
+      "streams": 1619004
     },
     {
       "rank": 65,
-      "prev_rank": 64,
-      "change": {
-        "status": "down",
-        "delta": -1
-      },
-      "title": "Training Season",
-      "artists": [
-        "Dua Lipa"
-      ],
-      "track_id": "5b5cPscqVEMChvDqscVw26",
-      "track_url": "https://open.spotify.com/track/5b5cPscqVEMChvDqscVw26",
-      "peak_rank": 7,
-      "days_on_chart": 262,
-      "streams": 1602180
-    },
-    {
-      "rank": 66,
-      "prev_rank": 62,
-      "change": {
-        "status": "down",
-        "delta": -4
-      },
-      "title": "Counting Stars",
-      "artists": [
-        "OneRepublic"
-      ],
-      "track_id": "2tpWsVSb9UEmDRxAl1zhX1",
-      "track_url": "https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1",
-      "peak_rank": 31,
-      "days_on_chart": 2732,
-      "streams": 1567736
-    },
-    {
-      "rank": 67,
-      "prev_rank": 72,
-      "change": {
-        "status": "up",
-        "delta": 5
-      },
-      "title": "WHERE IS MY HUSBAND!",
-      "artists": [
-        "RAYE"
-      ],
-      "track_id": "55lijDD6OAjLFFUHU9tcDm",
-      "track_url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm",
-      "peak_rank": 5,
-      "days_on_chart": 421,
-      "streams": 1566133
-    },
-    {
-      "rank": 68,
-      "prev_rank": 68,
-      "change": {
-        "status": "same",
-        "delta": 0
-      },
-      "title": "Raindance",
-      "artists": [
-        "Dave",
-        "Tems"
-      ],
-      "track_id": "3oTuTpF1F3A7rEC6RKsMRz",
-      "track_url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz",
-      "peak_rank": 5,
-      "days_on_chart": 346,
-      "streams": 1555218
-    },
-    {
-      "rank": 69,
-      "prev_rank": 71,
-      "change": {
-        "status": "up",
-        "delta": 2
-      },
-      "title": "The Fate of Ophelia",
-      "artists": [
-        "Taylor Swift"
-      ],
-      "track_id": "53iuhJlwXhSER5J2IYYv1W",
-      "track_url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W",
-      "peak_rank": 1,
-      "days_on_chart": 407,
-      "streams": 1554380
-    },
-    {
-      "rank": 70,
-      "prev_rank": 86,
-      "change": {
-        "status": "up",
-        "delta": 16
-      },
-      "title": "Snowman",
-      "artists": [
-        "Sia"
-      ],
-      "track_id": "7uoFMmxln0GPXQ0AcCBXRq",
-      "track_url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq",
-      "peak_rank": 8,
-      "days_on_chart": 342,
-      "streams": 1552000
-    },
-    {
-      "rank": 71,
-      "prev_rank": 70,
-      "change": {
-        "status": "down",
-        "delta": -1
-      },
-      "title": "So Easy (To Fall In Love)",
-      "artists": [
-        "Olivia Dean"
-      ],
-      "track_id": "6sGIMrtIzQjdzNndVxe397",
-      "track_url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397",
-      "peak_rank": 5,
-      "days_on_chart": 413,
-      "streams": 1551567
-    },
-    {
-      "rank": 72,
-      "prev_rank": 94,
-      "change": {
-        "status": "up",
-        "delta": 22
-      },
-      "title": "Shotta's.",
-      "artists": [
-        "Season 25"
-      ],
-      "track_id": "1ApUYfDejOBvrTnar2Wyf3",
-      "track_url": "https://open.spotify.com/track/1ApUYfDejOBvrTnar2Wyf3",
-      "peak_rank": 72,
-      "days_on_chart": 6,
-      "streams": 1549599
-    },
-    {
-      "rank": 73,
-      "prev_rank": 75,
-      "change": {
-        "status": "up",
-        "delta": 2
-      },
-      "title": "Viva La Vida",
-      "artists": [
-        "Coldplay"
-      ],
-      "track_id": "1mea3bSkSGXuIRvnydlB5b",
-      "track_url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b",
-      "peak_rank": 27,
-      "days_on_chart": 1566,
-      "streams": 1548121
-    },
-    {
-      "rank": 74,
-      "prev_rank": 61,
+      "prev_rank": 52,
       "change": {
         "status": "down",
         "delta": -13
       },
-      "title": "Sure Thing",
+      "title": "The Night We Met",
       "artists": [
-        "Miguel"
+        "Lord Huron"
       ],
-      "track_id": "0JXXNGljqupsJaZsgSbMZV",
-      "track_url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV",
-      "peak_rank": 14,
-      "days_on_chart": 703,
-      "streams": 1535161
+      "track_id": "3hRV0jL3vUpRrcy398teAU",
+      "track_url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU",
+      "peak_rank": 15,
+      "days_on_chart": 1565,
+      "streams": 1604763
     },
     {
-      "rank": 75,
-      "prev_rank": 73,
-      "change": {
-        "status": "down",
-        "delta": -2
-      },
-      "title": "Smells Like Teen Spirit - Remastered",
-      "artists": [
-        "Nirvana"
-      ],
-      "track_id": "0gucTLf7trAf37Ua1uAyAu",
-      "track_url": "https://open.spotify.com/track/0gucTLf7trAf37Ua1uAyAu",
-      "peak_rank": 67,
-      "days_on_chart": 964,
-      "streams": 1528882
-    },
-    {
-      "rank": 76,
+      "rank": 66,
       "prev_rank": 58,
       "change": {
         "status": "down",
-        "delta": -18
+        "delta": -8
       },
-      "title": "WILDFLOWER",
+      "title": "drop dead",
       "artists": [
-        "Billie Eilish"
+        "Olivia Rodrigo"
       ],
-      "track_id": "3QaPy1KgI7nu9FJEQUgn6h",
-      "track_url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h",
-      "peak_rank": 8,
-      "days_on_chart": 911,
-      "streams": 1527142
+      "track_id": "3fRCAPMMZ8l8P9YKI6OCzD",
+      "track_url": "https://open.spotify.com/track/3fRCAPMMZ8l8P9YKI6OCzD",
+      "peak_rank": 1,
+      "days_on_chart": 212,
+      "streams": 1600357
     },
     {
-      "rank": 77,
-      "prev_rank": 66,
+      "rank": 67,
+      "prev_rank": 78,
       "change": {
-        "status": "down",
-        "delta": -11
-      },
-      "title": "Die On This Hill",
-      "artists": [
-        "SIENNA SPIRO"
-      ],
-      "track_id": "2gYTC8DsplN3RNdpdBcCOQ",
-      "track_url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ",
-      "peak_rank": 8,
-      "days_on_chart": 338,
-      "streams": 1522379
-    },
-    {
-      "rank": 78,
-      "prev_rank": 69,
-      "change": {
-        "status": "down",
-        "delta": -9
+        "status": "up",
+        "delta": 11
       },
       "title": "ako ang bagyo",
       "artists": [
@@ -1354,134 +1166,97 @@
       "track_id": "1EqRuhrJZU5R7aeWyw1z8D",
       "track_url": "https://open.spotify.com/track/1EqRuhrJZU5R7aeWyw1z8D",
       "peak_rank": 59,
-      "days_on_chart": 19,
-      "streams": 1521710
+      "days_on_chart": 20,
+      "streams": 1585161
     },
     {
-      "rank": 79,
-      "prev_rank": 78,
+      "rank": 68,
+      "prev_rank": 65,
       "change": {
         "status": "down",
-        "delta": -1
+        "delta": -3
       },
-      "title": "Sweet Child O' Mine",
+      "title": "Training Season",
       "artists": [
-        "Guns N' Roses"
+        "Dua Lipa"
       ],
-      "track_id": "7snQQk1zcKl8gZ92AnueZW",
-      "track_url": "https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW",
-      "peak_rank": 78,
-      "days_on_chart": 677,
-      "streams": 1520220
+      "track_id": "5b5cPscqVEMChvDqscVw26",
+      "track_url": "https://open.spotify.com/track/5b5cPscqVEMChvDqscVw26",
+      "peak_rank": 7,
+      "days_on_chart": 263,
+      "streams": 1571048
     },
     {
-      "rank": 80,
-      "prev_rank": 83,
+      "rank": 69,
+      "prev_rank": 105,
       "change": {
         "status": "up",
-        "delta": 3
+        "delta": 36
       },
-      "title": "Rein Me In",
+      "title": "체포하겠어",
       "artists": [
-        "Sam Fender",
+        "ILLIT"
+      ],
+      "track_id": "30T1Q5lsYzCEKzifUWwFWM",
+      "track_url": "https://open.spotify.com/track/30T1Q5lsYzCEKzifUWwFWM",
+      "peak_rank": 69,
+      "days_on_chart": 3,
+      "streams": 1548141
+    },
+    {
+      "rank": 70,
+      "prev_rank": 67,
+      "change": {
+        "status": "down",
+        "delta": -3
+      },
+      "title": "WHERE IS MY HUSBAND!",
+      "artists": [
+        "RAYE"
+      ],
+      "track_id": "55lijDD6OAjLFFUHU9tcDm",
+      "track_url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm",
+      "peak_rank": 5,
+      "days_on_chart": 422,
+      "streams": 1546898
+    },
+    {
+      "rank": 71,
+      "prev_rank": 71,
+      "change": {
+        "status": "same",
+        "delta": 0
+      },
+      "title": "So Easy (To Fall In Love)",
+      "artists": [
         "Olivia Dean"
       ],
-      "track_id": "0MUXBhPUDF8or0kfQ0EHwV",
-      "track_url": "https://open.spotify.com/track/0MUXBhPUDF8or0kfQ0EHwV",
-      "peak_rank": 45,
-      "days_on_chart": 260,
-      "streams": 1503337
+      "track_id": "6sGIMrtIzQjdzNndVxe397",
+      "track_url": "https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397",
+      "peak_rank": 5,
+      "days_on_chart": 414,
+      "streams": 1535616
     },
     {
-      "rank": 81,
-      "prev_rank": 84,
-      "change": {
-        "status": "up",
-        "delta": 3
-      },
-      "title": "BAILE INoLVIDABLE",
-      "artists": [
-        "Bad Bunny"
-      ],
-      "track_id": "2lTm559tuIvatlT1u0JYG2",
-      "track_url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2",
-      "peak_rank": 2,
-      "days_on_chart": 678,
-      "streams": 1500667
-    },
-    {
-      "rank": 82,
-      "prev_rank": 107,
-      "change": {
-        "status": "up",
-        "delta": 25
-      },
-      "title": "Santa Tell Me",
-      "artists": [
-        "Ariana Grande"
-      ],
-      "track_id": "0lizgQ7Qw35od7CYaoMBZb",
-      "track_url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb",
-      "peak_rank": 3,
-      "days_on_chart": 499,
-      "streams": 1479011
-    },
-    {
-      "rank": 83,
-      "prev_rank": 77,
+      "rank": 72,
+      "prev_rank": 64,
       "change": {
         "status": "down",
-        "delta": -6
+        "delta": -8
       },
-      "title": "Die For You",
+      "title": "Reflections",
       "artists": [
-        "The Weeknd"
+        "The Neighbourhood"
       ],
-      "track_id": "2LBqCSwhJGcFQeTHMVGwy3",
-      "track_url": "https://open.spotify.com/track/2LBqCSwhJGcFQeTHMVGwy3",
-      "peak_rank": 9,
-      "days_on_chart": 1690,
-      "streams": 1476658
+      "track_id": "2xql0pid3EUwW38AsywxhV",
+      "track_url": "https://open.spotify.com/track/2xql0pid3EUwW38AsywxhV",
+      "peak_rank": 54,
+      "days_on_chart": 105,
+      "streams": 1535128
     },
     {
-      "rank": 84,
-      "prev_rank": 88,
-      "change": {
-        "status": "up",
-        "delta": 4
-      },
-      "title": "Amor",
-      "artists": [
-        "Emmanuel Cortes"
-      ],
-      "track_id": "6r6IPuFvUX72kQGc9b46rk",
-      "track_url": "https://open.spotify.com/track/6r6IPuFvUX72kQGc9b46rk",
-      "peak_rank": 84,
-      "days_on_chart": 152,
-      "streams": 1473895
-    },
-    {
-      "rank": 85,
-      "prev_rank": 117,
-      "change": {
-        "status": "up",
-        "delta": 32
-      },
-      "title": "Movin' To The Sun",
-      "artists": [
-        "HUGEL",
-        "Imael Angel",
-        "Ultra Naté"
-      ],
-      "track_id": "4vTsKN15Kqo3Geo9r7FhAN",
-      "track_url": "https://open.spotify.com/track/4vTsKN15Kqo3Geo9r7FhAN",
-      "peak_rank": 46,
-      "days_on_chart": 123,
-      "streams": 1473415
-    },
-    {
-      "rank": 86,
-      "prev_rank": 99,
+      "rank": 73,
+      "prev_rank": 86,
       "change": {
         "status": "up",
         "delta": 13
@@ -1493,83 +1268,49 @@
       "track_id": "3BovdzfaX4jb5KFQwoPfAw",
       "track_url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw",
       "peak_rank": 5,
-      "days_on_chart": 225,
-      "streams": 1469057
+      "days_on_chart": 226,
+      "streams": 1521486
     },
     {
-      "rank": 87,
-      "prev_rank": 81,
+      "rank": 74,
+      "prev_rank": 59,
       "change": {
         "status": "down",
-        "delta": -6
+        "delta": -15
       },
-      "title": "Do I Wanna Know?",
+      "title": "In the End",
       "artists": [
-        "Arctic Monkeys"
+        "Linkin Park"
       ],
-      "track_id": "5FVd6KXrgO9B3JPmC8OPst",
-      "track_url": "https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst",
-      "peak_rank": 64,
-      "days_on_chart": 1485,
-      "streams": 1465490
+      "track_id": "60a0Rd6pjrkxjPbaKzXjfq",
+      "track_url": "https://open.spotify.com/track/60a0Rd6pjrkxjPbaKzXjfq",
+      "peak_rank": 8,
+      "days_on_chart": 1250,
+      "streams": 1516675
     },
     {
-      "rank": 88,
-      "prev_rank": 96,
-      "change": {
-        "status": "up",
-        "delta": 8
-      },
-      "title": "UNETHICAL",
-      "artists": [
-        "Faouzia"
-      ],
-      "track_id": "7G8EmDx7L5zRHb6rBJDqEG",
-      "track_url": "https://open.spotify.com/track/7G8EmDx7L5zRHb6rBJDqEG",
-      "peak_rank": 68,
-      "days_on_chart": 44,
-      "streams": 1461504
-    },
-    {
-      "rank": 89,
-      "prev_rank": 101,
-      "change": {
-        "status": "up",
-        "delta": 12
-      },
-      "title": "Si Antes Te Hubiera Conocido",
-      "artists": [
-        "KAROL G"
-      ],
-      "track_id": "6WatFBLVB0x077xWeoVc2k",
-      "track_url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k",
-      "peak_rank": 4,
-      "days_on_chart": 819,
-      "streams": 1454598
-    },
-    {
-      "rank": 90,
-      "prev_rank": 80,
+      "rank": 75,
+      "prev_rank": 73,
       "change": {
         "status": "down",
-        "delta": -10
+        "delta": -2
       },
-      "title": "Duvet",
+      "title": "Viva La Vida",
       "artists": [
-        "bôa"
+        "Coldplay"
       ],
-      "track_id": "42qNWdLKCI41S4uzfamhFM",
-      "track_url": "https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM",
-      "peak_rank": 80,
-      "days_on_chart": 54,
-      "streams": 1447630
+      "track_id": "1mea3bSkSGXuIRvnydlB5b",
+      "track_url": "https://open.spotify.com/track/1mea3bSkSGXuIRvnydlB5b",
+      "peak_rank": 27,
+      "days_on_chart": 1567,
+      "streams": 1511678
     },
     {
-      "rank": 91,
-      "prev_rank": 112,
+      "rank": 76,
+      "prev_rank": 91,
       "change": {
         "status": "up",
-        "delta": 21
+        "delta": 15
       },
       "title": "Jamaican (Bam Bam)",
       "artists": [
@@ -1579,136 +1320,67 @@
       "track_id": "7e4zDInS6tA2jwzphvs2Ay",
       "track_url": "https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay",
       "peak_rank": 21,
-      "days_on_chart": 225,
-      "streams": 1447557
+      "days_on_chart": 226,
+      "streams": 1511197
     },
     {
-      "rank": 92,
-      "prev_rank": 93,
-      "change": {
-        "status": "up",
-        "delta": 1
-      },
-      "title": "No Scrubs",
-      "artists": [
-        "TLC"
-      ],
-      "track_id": "1KGi9sZVMeszgZOWivFpxs",
-      "track_url": "https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs",
-      "peak_rank": 47,
-      "days_on_chart": 74,
-      "streams": 1445278
-    },
-    {
-      "rank": 93,
-      "prev_rank": 91,
+      "rank": 77,
+      "prev_rank": 68,
       "change": {
         "status": "down",
-        "delta": -2
+        "delta": -9
       },
-      "title": "Feel Good Inc",
+      "title": "Raindance",
       "artists": [
-        "Gorillaz"
+        "Dave",
+        "Tems"
       ],
-      "track_id": "0d28khcov6AiegSCpG5TuT",
-      "track_url": "https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT",
-      "peak_rank": 39,
-      "days_on_chart": 676,
-      "streams": 1440081
+      "track_id": "3oTuTpF1F3A7rEC6RKsMRz",
+      "track_url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz",
+      "peak_rank": 5,
+      "days_on_chart": 347,
+      "streams": 1509828
     },
     {
-      "rank": 94,
-      "prev_rank": 90,
+      "rank": 78,
+      "prev_rank": 74,
       "change": {
         "status": "down",
         "delta": -4
       },
-      "title": "Just the Way You Are",
+      "title": "Sure Thing",
       "artists": [
-        "Bruno Mars"
+        "Miguel"
       ],
-      "track_id": "7BqBn9nzAq8spo5e7cZ0dJ",
-      "track_url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ",
-      "peak_rank": 24,
-      "days_on_chart": 1434,
-      "streams": 1434363
+      "track_id": "0JXXNGljqupsJaZsgSbMZV",
+      "track_url": "https://open.spotify.com/track/0JXXNGljqupsJaZsgSbMZV",
+      "peak_rank": 14,
+      "days_on_chart": 704,
+      "streams": 1503865
     },
     {
-      "rank": 95,
-      "prev_rank": 79,
+      "rank": 79,
+      "prev_rank": 69,
       "change": {
         "status": "down",
-        "delta": -16
+        "delta": -10
       },
-      "title": "All The Stars",
+      "title": "The Fate of Ophelia",
       "artists": [
-        "Kendrick Lamar",
-        "SZA"
+        "Taylor Swift"
       ],
-      "track_id": "3GCdLUSnKSMJhs4Tj6CV3s",
-      "track_url": "https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s",
-      "peak_rank": 2,
-      "days_on_chart": 1252,
-      "streams": 1432907
+      "track_id": "53iuhJlwXhSER5J2IYYv1W",
+      "track_url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W",
+      "peak_rank": 1,
+      "days_on_chart": 408,
+      "streams": 1500599
     },
     {
-      "rank": 96,
-      "prev_rank": 110,
+      "rank": 80,
+      "prev_rank": 99,
       "change": {
         "status": "up",
-        "delta": 14
-      },
-      "title": "Peli De Terror",
-      "artists": [
-        "Køddy G",
-        "THE FAVORITES"
-      ],
-      "track_id": "23XDZWXMOiRrm0qoKXCPbf",
-      "track_url": "https://open.spotify.com/track/23XDZWXMOiRrm0qoKXCPbf",
-      "peak_rank": 79,
-      "days_on_chart": 13,
-      "streams": 1425039
-    },
-    {
-      "rank": 97,
-      "prev_rank": 74,
-      "change": {
-        "status": "down",
-        "delta": -23
-      },
-      "title": "Young And Beautiful",
-      "artists": [
-        "Lana Del Rey"
-      ],
-      "track_id": "2nMeu6UenVvwUktBCpLMK9",
-      "track_url": "https://open.spotify.com/track/2nMeu6UenVvwUktBCpLMK9",
-      "peak_rank": 74,
-      "days_on_chart": 537,
-      "streams": 1423743
-    },
-    {
-      "rank": 98,
-      "prev_rank": 95,
-      "change": {
-        "status": "down",
-        "delta": -3
-      },
-      "title": "Dreams - 2001 Remaster",
-      "artists": [
-        "Fleetwood Mac"
-      ],
-      "track_id": "53qkszfgztIvkFyF31GfdQ",
-      "track_url": "https://open.spotify.com/track/53qkszfgztIvkFyF31GfdQ",
-      "peak_rank": 43,
-      "days_on_chart": 215,
-      "streams": 1423617
-    },
-    {
-      "rank": 99,
-      "prev_rank": 92,
-      "change": {
-        "status": "down",
-        "delta": -7
+        "delta": 19
       },
       "title": "Risk It All",
       "artists": [
@@ -1717,49 +1389,119 @@
       "track_id": "5y2ijHECwFYWqcAHKTZgzD",
       "track_url": "https://open.spotify.com/track/5y2ijHECwFYWqcAHKTZgzD",
       "peak_rank": 1,
-      "days_on_chart": 260,
-      "streams": 1421497
+      "days_on_chart": 261,
+      "streams": 1496107
     },
     {
-      "rank": 100,
-      "prev_rank": 108,
+      "rank": 81,
+      "prev_rank": 84,
+      "change": {
+        "status": "up",
+        "delta": 3
+      },
+      "title": "Amor",
+      "artists": [
+        "Emmanuel Cortes"
+      ],
+      "track_id": "6r6IPuFvUX72kQGc9b46rk",
+      "track_url": "https://open.spotify.com/track/6r6IPuFvUX72kQGc9b46rk",
+      "peak_rank": 81,
+      "days_on_chart": 153,
+      "streams": 1492328
+    },
+    {
+      "rank": 82,
+      "prev_rank": 66,
+      "change": {
+        "status": "down",
+        "delta": -16
+      },
+      "title": "Counting Stars",
+      "artists": [
+        "OneRepublic"
+      ],
+      "track_id": "2tpWsVSb9UEmDRxAl1zhX1",
+      "track_url": "https://open.spotify.com/track/2tpWsVSb9UEmDRxAl1zhX1",
+      "peak_rank": 31,
+      "days_on_chart": 2733,
+      "streams": 1485099
+    },
+    {
+      "rank": 83,
+      "prev_rank": 89,
+      "change": {
+        "status": "up",
+        "delta": 6
+      },
+      "title": "Si Antes Te Hubiera Conocido",
+      "artists": [
+        "KAROL G"
+      ],
+      "track_id": "6WatFBLVB0x077xWeoVc2k",
+      "track_url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k",
+      "peak_rank": 4,
+      "days_on_chart": 820,
+      "streams": 1469969
+    },
+    {
+      "rank": 84,
+      "prev_rank": 92,
       "change": {
         "status": "up",
         "delta": 8
       },
-      "title": "Don't Stop The Music",
+      "title": "No Scrubs",
       "artists": [
-        "Rihanna"
+        "TLC"
       ],
-      "track_id": "1Jo0Zg7XlrA6z0mFTZVdkn",
-      "track_url": "https://open.spotify.com/track/1Jo0Zg7XlrA6z0mFTZVdkn",
-      "peak_rank": 56,
-      "days_on_chart": 354,
-      "streams": 1418298
+      "track_id": "1KGi9sZVMeszgZOWivFpxs",
+      "track_url": "https://open.spotify.com/track/1KGi9sZVMeszgZOWivFpxs",
+      "peak_rank": 47,
+      "days_on_chart": 75,
+      "streams": 1462008
     },
     {
-      "rank": 101,
-      "prev_rank": 109,
+      "rank": 85,
+      "prev_rank": 79,
       "change": {
-        "status": "up",
-        "delta": 8
+        "status": "down",
+        "delta": -6
       },
-      "title": "oh yeah?",
+      "title": "Sweet Child O' Mine",
       "artists": [
-        "Steve Lacy"
+        "Guns N' Roses"
       ],
-      "track_id": "22NHkFYbgxB2Zirj29Gbp8",
-      "track_url": "https://open.spotify.com/track/22NHkFYbgxB2Zirj29Gbp8",
-      "peak_rank": 15,
-      "days_on_chart": 102,
-      "streams": 1408195
+      "track_id": "7snQQk1zcKl8gZ92AnueZW",
+      "track_url": "https://open.spotify.com/track/7snQQk1zcKl8gZ92AnueZW",
+      "peak_rank": 78,
+      "days_on_chart": 678,
+      "streams": 1458412
     },
     {
-      "rank": 102,
-      "prev_rank": 111,
+      "rank": 86,
+      "prev_rank": 85,
+      "change": {
+        "status": "down",
+        "delta": -1
+      },
+      "title": "Movin' To The Sun",
+      "artists": [
+        "HUGEL",
+        "Imael Angel",
+        "Ultra Naté"
+      ],
+      "track_id": "4vTsKN15Kqo3Geo9r7FhAN",
+      "track_url": "https://open.spotify.com/track/4vTsKN15Kqo3Geo9r7FhAN",
+      "peak_rank": 46,
+      "days_on_chart": 124,
+      "streams": 1453314
+    },
+    {
+      "rank": 87,
+      "prev_rank": 102,
       "change": {
         "status": "up",
-        "delta": 9
+        "delta": 15
       },
       "title": "Shape of You",
       "artists": [
@@ -1768,567 +1510,67 @@
       "track_id": "7qiZfU4dY1lWllzX7mPBI3",
       "track_url": "https://open.spotify.com/track/7qiZfU4dY1lWllzX7mPBI3",
       "peak_rank": 1,
-      "days_on_chart": 3052,
-      "streams": 1407756
+      "days_on_chart": 3053,
+      "streams": 1445778
     },
     {
-      "rank": 103,
-      "prev_rank": 102,
-      "change": {
-        "status": "down",
-        "delta": -1
-      },
-      "title": "Beautiful Things",
-      "artists": [
-        "Benson Boone"
-      ],
-      "track_id": "3xkHsmpQCBMytMJNiDf3Ii",
-      "track_url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii",
-      "peak_rank": 1,
-      "days_on_chart": 1030,
-      "streams": 1406997
-    },
-    {
-      "rank": 104,
-      "prev_rank": 97,
+      "rank": 88,
+      "prev_rank": 81,
       "change": {
         "status": "down",
         "delta": -7
       },
-      "title": "As It Was",
-      "artists": [
-        "Harry Styles"
-      ],
-      "track_id": "4Dvkj6JhhA12EX05fT7y2e",
-      "track_url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e",
-      "peak_rank": 1,
-      "days_on_chart": 1638,
-      "streams": 1405915
-    },
-    {
-      "rank": 105,
-      "prev_rank": 100,
-      "change": {
-        "status": "down",
-        "delta": -5
-      },
-      "title": "체포하겠어",
-      "artists": [
-        "ILLIT"
-      ],
-      "track_id": "30T1Q5lsYzCEKzifUWwFWM",
-      "track_url": "https://open.spotify.com/track/30T1Q5lsYzCEKzifUWwFWM",
-      "peak_rank": 100,
-      "days_on_chart": 2,
-      "streams": 1405869
-    },
-    {
-      "rank": 106,
-      "prev_rank": 105,
-      "change": {
-        "status": "down",
-        "delta": -1
-      },
-      "title": "Sunflower - Spider-Man: Into the Spider-Verse",
-      "artists": [
-        "Post Malone",
-        "Swae Lee"
-      ],
-      "track_id": "0RiRZpuVRbi7oqRdSMwhQY",
-      "track_url": "https://open.spotify.com/track/0RiRZpuVRbi7oqRdSMwhQY",
-      "peak_rank": 1,
-      "days_on_chart": 2526,
-      "streams": 1400278
-    },
-    {
-      "rank": 107,
-      "prev_rank": 98,
-      "change": {
-        "status": "down",
-        "delta": -9
-      },
-      "title": "Somewhere Only We Know",
-      "artists": [
-        "Keane"
-      ],
-      "track_id": "0ll8uFnc0nANY35E0Lfxvg",
-      "track_url": "https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg",
-      "peak_rank": 60,
-      "days_on_chart": 1420,
-      "streams": 1393547
-    },
-    {
-      "rank": 108,
-      "prev_rank": 82,
-      "change": {
-        "status": "down",
-        "delta": -26
-      },
-      "title": "Orbiter",
-      "artists": [
-        "Noah Kahan"
-      ],
-      "track_id": "77fL8ATR0dpUDLI0XLmDBV",
-      "track_url": "https://open.spotify.com/track/77fL8ATR0dpUDLI0XLmDBV",
-      "peak_rank": 79,
-      "days_on_chart": 114,
-      "streams": 1387768
-    },
-    {
-      "rank": 109,
-      "prev_rank": 114,
-      "change": {
-        "status": "up",
-        "delta": 5
-      },
-      "title": "Boston",
-      "artists": [
-        "STELLA LEFTY"
-      ],
-      "track_id": "36idurZmYRjJ56KQ8JD9bN",
-      "track_url": "https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN",
-      "peak_rank": 64,
-      "days_on_chart": 145,
-      "streams": 1379179
-    },
-    {
-      "rank": 110,
-      "prev_rank": 104,
-      "change": {
-        "status": "down",
-        "delta": -6
-      },
-      "title": "Numb",
-      "artists": [
-        "Linkin Park"
-      ],
-      "track_id": "2nLtzopw4rPReszdYBJU6h",
-      "track_url": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h",
-      "peak_rank": 12,
-      "days_on_chart": 938,
-      "streams": 1377282
-    },
-    {
-      "rank": 111,
-      "prev_rank": 103,
-      "change": {
-        "status": "down",
-        "delta": -8
-      },
-      "title": "That's What I Like",
-      "artists": [
-        "Bruno Mars"
-      ],
-      "track_id": "0KKkJNfGyhkQ5aFogxQAPU",
-      "track_url": "https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU",
-      "peak_rank": 5,
-      "days_on_chart": 1491,
-      "streams": 1374860
-    },
-    {
-      "rank": 112,
-      "prev_rank": 85,
-      "change": {
-        "status": "down",
-        "delta": -27
-      },
-      "title": "Apocalypse",
-      "artists": [
-        "Cigarettes After Sex"
-      ],
-      "track_id": "1oAwsWBovWRIp7qLMGPIet",
-      "track_url": "https://open.spotify.com/track/1oAwsWBovWRIp7qLMGPIet",
-      "peak_rank": 44,
-      "days_on_chart": 1530,
-      "streams": 1374356
-    },
-    {
-      "rank": 113,
-      "prev_rank": 89,
-      "change": {
-        "status": "down",
-        "delta": -24
-      },
-      "title": "honeybee",
-      "artists": [
-        "Olivia Rodrigo"
-      ],
-      "track_id": "4kX7xkopoXZCfE1D6fNwl2",
-      "track_url": "https://open.spotify.com/track/4kX7xkopoXZCfE1D6fNwl2",
-      "peak_rank": 4,
-      "days_on_chart": 153,
-      "streams": 1364468
-    },
-    {
-      "rank": 114,
-      "prev_rank": 106,
-      "change": {
-        "status": "down",
-        "delta": -8
-      },
-      "title": "We Are The People",
-      "artists": [
-        "Empire Of The Sun"
-      ],
-      "track_id": "3zEN0ii6s4DHHBpnTp3RP7",
-      "track_url": "https://open.spotify.com/track/3zEN0ii6s4DHHBpnTp3RP7",
-      "peak_rank": 63,
-      "days_on_chart": 471,
-      "streams": 1361774
-    },
-    {
-      "rank": 115,
-      "prev_rank": 149,
-      "change": {
-        "status": "up",
-        "delta": 34
-      },
-      "title": "Underneath the Tree",
-      "artists": [
-        "Kelly Clarkson"
-      ],
-      "track_id": "3nAp4IvdMPPWEH9uuXFFV5",
-      "track_url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5",
-      "peak_rank": 6,
-      "days_on_chart": 318,
-      "streams": 1361379
-    },
-    {
-      "rank": 116,
-      "prev_rank": 87,
-      "change": {
-        "status": "down",
-        "delta": -29
-      },
-      "title": "Sparks",
-      "artists": [
-        "Coldplay"
-      ],
-      "track_id": "7D0RhFcb3CrfPuTJ0obrod",
-      "track_url": "https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod",
-      "peak_rank": 26,
-      "days_on_chart": 784,
-      "streams": 1358069
-    },
-    {
-      "rank": 117,
-      "prev_rank": 113,
-      "change": {
-        "status": "down",
-        "delta": -4
-      },
-      "title": "Payphone",
-      "artists": [
-        "Maroon 5",
-        "Wiz Khalifa"
-      ],
-      "track_id": "1XGmzt0PVuFgQYYnV2It7A",
-      "track_url": "https://open.spotify.com/track/1XGmzt0PVuFgQYYnV2It7A",
-      "peak_rank": 46,
-      "days_on_chart": 948,
-      "streams": 1351665
-    },
-    {
-      "rank": 118,
-      "prev_rank": 119,
-      "change": {
-        "status": "up",
-        "delta": 1
-      },
-      "title": "Patient Zero",
-      "artists": [
-        "Taylor Swift"
-      ],
-      "track_id": "11hcBLPtbMp4aQI6zGQLub",
-      "track_url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub",
-      "peak_rank": 1,
-      "days_on_chart": 50,
-      "streams": 1345509
-    },
-    {
-      "rank": 119,
-      "prev_rank": 129,
-      "change": {
-        "status": "up",
-        "delta": 10
-      },
-      "title": "On The Floor",
-      "artists": [
-        "Jennifer Lopez",
-        "Pitbull"
-      ],
-      "track_id": "3C0nOe05EIt1390bVABLyN",
-      "track_url": "https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN",
-      "peak_rank": 21,
-      "days_on_chart": 181,
-      "streams": 1344594
-    },
-    {
-      "rank": 120,
-      "prev_rank": 120,
-      "change": {
-        "status": "same",
-        "delta": 0
-      },
-      "title": "Only Girl (In The World)",
-      "artists": [
-        "Rihanna"
-      ],
-      "track_id": "2ENexcMEMsYk0rVJigVD3i",
-      "track_url": "https://open.spotify.com/track/2ENexcMEMsYk0rVJigVD3i",
-      "peak_rank": 45,
-      "days_on_chart": 364,
-      "streams": 1341463
-    },
-    {
-      "rank": 121,
-      "prev_rank": 115,
-      "change": {
-        "status": "down",
-        "delta": -6
-      },
-      "title": "There's Nothing Holdin' Me Back",
-      "artists": [
-        "Shawn Mendes"
-      ],
-      "track_id": "79cuOz3SPQTuFrp8WgftAu",
-      "track_url": "https://open.spotify.com/track/79cuOz3SPQTuFrp8WgftAu",
-      "peak_rank": 5,
-      "days_on_chart": 785,
-      "streams": 1340050
-    },
-    {
-      "rank": 122,
-      "prev_rank": 118,
-      "change": {
-        "status": "down",
-        "delta": -4
-      },
-      "title": "Blinding Lights",
-      "artists": [
-        "The Weeknd"
-      ],
-      "track_id": "0VjIjW4GlUZAMYd2vXMi3b",
-      "track_url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b",
-      "peak_rank": 1,
-      "days_on_chart": 2538,
-      "streams": 1339371
-    },
-    {
-      "rank": 123,
-      "prev_rank": 127,
-      "change": {
-        "status": "up",
-        "delta": 4
-      },
-      "title": "EoO",
+      "title": "BAILE INoLVIDABLE",
       "artists": [
         "Bad Bunny"
       ],
-      "track_id": "6J5kc12BW5HuP3d7C3vvx8",
-      "track_url": "https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8",
-      "peak_rank": 4,
-      "days_on_chart": 673,
-      "streams": 1336084
+      "track_id": "2lTm559tuIvatlT1u0JYG2",
+      "track_url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2",
+      "peak_rank": 2,
+      "days_on_chart": 679,
+      "streams": 1443636
     },
     {
-      "rank": 124,
-      "prev_rank": 128,
-      "change": {
-        "status": "up",
-        "delta": 4
-      },
-      "title": "COQUETA",
-      "artists": [
-        "Fuerza Regida",
-        "Grupo Frontera"
-      ],
-      "track_id": "1PREzVLuDT6PSE9sej4wnV",
-      "track_url": "https://open.spotify.com/track/1PREzVLuDT6PSE9sej4wnV",
-      "peak_rank": 76,
-      "days_on_chart": 545,
-      "streams": 1327025
-    },
-    {
-      "rank": 125,
-      "prev_rank": 116,
+      "rank": 89,
+      "prev_rank": 80,
       "change": {
         "status": "down",
         "delta": -9
       },
-      "title": "See You Again",
+      "title": "Rein Me In",
       "artists": [
-        "Tyler, The Creator",
-        "Kali Uchis"
+        "Sam Fender",
+        "Olivia Dean"
       ],
-      "track_id": "7KA4W4McWYRpgf0fWsJZWB",
-      "track_url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB",
-      "peak_rank": 13,
-      "days_on_chart": 1303,
-      "streams": 1326718
-    },
-    {
-      "rank": 126,
-      "prev_rank": 122,
-      "change": {
-        "status": "down",
-        "delta": -4
-      },
-      "title": "Animal",
-      "artists": [
-        "KATSEYE"
-      ],
-      "track_id": "3ouNEk0tv5TTi8VWMe1xbX",
-      "track_url": "https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX",
-      "peak_rank": 5,
-      "days_on_chart": 113,
-      "streams": 1326478
-    },
-    {
-      "rank": 127,
-      "prev_rank": 137,
-      "change": {
-        "status": "up",
-        "delta": 10
-      },
-      "title": "My Moon My Man",
-      "artists": [
-        "Feist"
-      ],
-      "track_id": "4fQVQKIiidREPI0MhFEuDn",
-      "track_url": "https://open.spotify.com/track/4fQVQKIiidREPI0MhFEuDn",
-      "peak_rank": 127,
-      "days_on_chart": 2,
-      "streams": 1323040
-    },
-    {
-      "rank": 128,
-      "prev_rank": 178,
-      "change": {
-        "status": "up",
-        "delta": 50
-      },
-      "title": "Jingle Bell Rock",
-      "artists": [
-        "Bobby Helms"
-      ],
-      "track_id": "7vQbuQcyTflfCIOu3Uzzya",
-      "track_url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya",
-      "peak_rank": 4,
-      "days_on_chart": 429,
-      "streams": 1322732
-    },
-    {
-      "rank": 129,
-      "prev_rank": 121,
-      "change": {
-        "status": "down",
-        "delta": -8
-      },
-      "title": "Empire State Of Mind",
-      "artists": [
-        "JAŸ-Z",
-        "Alicia Keys"
-      ],
-      "track_id": "2igwFfvr1OAGX9SKDCPBwO",
-      "track_url": "https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO",
-      "peak_rank": 81,
-      "days_on_chart": 144,
-      "streams": 1320318
-    },
-    {
-      "rank": 130,
-      "prev_rank": 146,
-      "change": {
-        "status": "up",
-        "delta": 16
-      },
-      "title": "Danza Kuduro",
-      "artists": [
-        "Don Omar",
-        "Lucenzo"
-      ],
-      "track_id": "2a1o6ZejUi8U3wzzOtCOYw",
-      "track_url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw",
+      "track_id": "0MUXBhPUDF8or0kfQ0EHwV",
+      "track_url": "https://open.spotify.com/track/0MUXBhPUDF8or0kfQ0EHwV",
       "peak_rank": 45,
-      "days_on_chart": 1039,
-      "streams": 1313468
+      "days_on_chart": 261,
+      "streams": 1433374
     },
     {
-      "rank": 131,
+      "rank": 90,
+      "prev_rank": 75,
+      "change": {
+        "status": "down",
+        "delta": -15
+      },
+      "title": "Smells Like Teen Spirit - Remastered",
+      "artists": [
+        "Nirvana"
+      ],
+      "track_id": "0gucTLf7trAf37Ua1uAyAu",
+      "track_url": "https://open.spotify.com/track/0gucTLf7trAf37Ua1uAyAu",
+      "peak_rank": 67,
+      "days_on_chart": 965,
+      "streams": 1427716
+    },
+    {
+      "rank": 91,
       "prev_rank": 135,
       "change": {
         "status": "up",
-        "delta": 4
-      },
-      "title": "We Found Love",
-      "artists": [
-        "Rihanna",
-        "Calvin Harris"
-      ],
-      "track_id": "1zv3WFUbZ5vPxFq9I2jAU1",
-      "track_url": "https://open.spotify.com/track/1zv3WFUbZ5vPxFq9I2jAU1",
-      "peak_rank": 18,
-      "days_on_chart": 1055,
-      "streams": 1309950
-    },
-    {
-      "rank": 132,
-      "prev_rank": 123,
-      "change": {
-        "status": "down",
-        "delta": -9
-      },
-      "title": "Have You Ever Seen The Rain",
-      "artists": [
-        "Creedence Clearwater Revival"
-      ],
-      "track_id": "2LawezPeJhN4AWuSB0GtAU",
-      "track_url": "https://open.spotify.com/track/2LawezPeJhN4AWuSB0GtAU",
-      "peak_rank": 58,
-      "days_on_chart": 651,
-      "streams": 1301240
-    },
-    {
-      "rank": 133,
-      "prev_rank": 142,
-      "change": {
-        "status": "up",
-        "delta": 9
-      },
-      "title": "Me Rehúso",
-      "artists": [
-        "Danny Ocean"
-      ],
-      "track_id": "6ifUES3keWjwXgae8pXI3o",
-      "track_url": "https://open.spotify.com/track/6ifUES3keWjwXgae8pXI3o",
-      "peak_rank": 18,
-      "days_on_chart": 841,
-      "streams": 1301182
-    },
-    {
-      "rank": 134,
-      "prev_rank": 144,
-      "change": {
-        "status": "up",
-        "delta": 10
-      },
-      "title": "Poker Face",
-      "artists": [
-        "Lady Gaga"
-      ],
-      "track_id": "1QV6tiMFM6fSOKOGLMHYYg",
-      "track_url": "https://open.spotify.com/track/1QV6tiMFM6fSOKOGLMHYYg",
-      "peak_rank": 24,
-      "days_on_chart": 537,
-      "streams": 1287689
-    },
-    {
-      "rank": 135,
-      "prev_rank": 157,
-      "change": {
-        "status": "up",
-        "delta": 22
+        "delta": 44
       },
       "title": "Golden",
       "artists": [
@@ -2341,12 +1583,719 @@
       "track_id": "1CPZ5BxNNd0n0nF4Orb9JS",
       "track_url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS",
       "peak_rank": 1,
-      "days_on_chart": 510,
-      "streams": 1273312
+      "days_on_chart": 511,
+      "streams": 1426249
     },
     {
-      "rank": 136,
-      "prev_rank": 139,
+      "rank": 92,
+      "prev_rank": 90,
+      "change": {
+        "status": "down",
+        "delta": -2
+      },
+      "title": "Duvet",
+      "artists": [
+        "bôa"
+      ],
+      "track_id": "42qNWdLKCI41S4uzfamhFM",
+      "track_url": "https://open.spotify.com/track/42qNWdLKCI41S4uzfamhFM",
+      "peak_rank": 80,
+      "days_on_chart": 55,
+      "streams": 1425100
+    },
+    {
+      "rank": 93,
+      "prev_rank": 76,
+      "change": {
+        "status": "down",
+        "delta": -17
+      },
+      "title": "WILDFLOWER",
+      "artists": [
+        "Billie Eilish"
+      ],
+      "track_id": "3QaPy1KgI7nu9FJEQUgn6h",
+      "track_url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h",
+      "peak_rank": 8,
+      "days_on_chart": 912,
+      "streams": 1424292
+    },
+    {
+      "rank": 94,
+      "prev_rank": 83,
+      "change": {
+        "status": "down",
+        "delta": -11
+      },
+      "title": "Die For You",
+      "artists": [
+        "The Weeknd"
+      ],
+      "track_id": "2LBqCSwhJGcFQeTHMVGwy3",
+      "track_url": "https://open.spotify.com/track/2LBqCSwhJGcFQeTHMVGwy3",
+      "peak_rank": 9,
+      "days_on_chart": 1691,
+      "streams": 1421660
+    },
+    {
+      "rank": 95,
+      "prev_rank": 174,
+      "change": {
+        "status": "up",
+        "delta": 79
+      },
+      "title": "Eu Me Rendo - Ao Vivo",
+      "artists": [
+        "Felipe e Rodrigo"
+      ],
+      "track_id": "2hxXNu9FBZwcGQ6FnECOVH",
+      "track_url": "https://open.spotify.com/track/2hxXNu9FBZwcGQ6FnECOVH",
+      "peak_rank": 95,
+      "days_on_chart": 2,
+      "streams": 1420617
+    },
+    {
+      "rank": 96,
+      "prev_rank": 77,
+      "change": {
+        "status": "down",
+        "delta": -19
+      },
+      "title": "Die On This Hill",
+      "artists": [
+        "SIENNA SPIRO"
+      ],
+      "track_id": "2gYTC8DsplN3RNdpdBcCOQ",
+      "track_url": "https://open.spotify.com/track/2gYTC8DsplN3RNdpdBcCOQ",
+      "peak_rank": 8,
+      "days_on_chart": 339,
+      "streams": 1419242
+    },
+    {
+      "rank": 97,
+      "prev_rank": 98,
+      "change": {
+        "status": "up",
+        "delta": 1
+      },
+      "title": "Dreams - 2001 Remaster",
+      "artists": [
+        "Fleetwood Mac"
+      ],
+      "track_id": "53qkszfgztIvkFyF31GfdQ",
+      "track_url": "https://open.spotify.com/track/53qkszfgztIvkFyF31GfdQ",
+      "peak_rank": 43,
+      "days_on_chart": 216,
+      "streams": 1415577
+    },
+    {
+      "rank": 98,
+      "prev_rank": 126,
+      "change": {
+        "status": "up",
+        "delta": 28
+      },
+      "title": "Animal",
+      "artists": [
+        "KATSEYE"
+      ],
+      "track_id": "3ouNEk0tv5TTi8VWMe1xbX",
+      "track_url": "https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX",
+      "peak_rank": 5,
+      "days_on_chart": 114,
+      "streams": 1414672
+    },
+    {
+      "rank": 99,
+      "prev_rank": 87,
+      "change": {
+        "status": "down",
+        "delta": -12
+      },
+      "title": "Do I Wanna Know?",
+      "artists": [
+        "Arctic Monkeys"
+      ],
+      "track_id": "5FVd6KXrgO9B3JPmC8OPst",
+      "track_url": "https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst",
+      "peak_rank": 64,
+      "days_on_chart": 1486,
+      "streams": 1414163
+    },
+    {
+      "rank": 100,
+      "prev_rank": 96,
+      "change": {
+        "status": "down",
+        "delta": -4
+      },
+      "title": "Peli De Terror",
+      "artists": [
+        "Køddy G",
+        "THE FAVORITES"
+      ],
+      "track_id": "23XDZWXMOiRrm0qoKXCPbf",
+      "track_url": "https://open.spotify.com/track/23XDZWXMOiRrm0qoKXCPbf",
+      "peak_rank": 79,
+      "days_on_chart": 14,
+      "streams": 1413721
+    },
+    {
+      "rank": 101,
+      "prev_rank": 72,
+      "change": {
+        "status": "down",
+        "delta": -29
+      },
+      "title": "Shotta's.",
+      "artists": [
+        "Season 25"
+      ],
+      "track_id": "1ApUYfDejOBvrTnar2Wyf3",
+      "track_url": "https://open.spotify.com/track/1ApUYfDejOBvrTnar2Wyf3",
+      "peak_rank": 72,
+      "days_on_chart": 7,
+      "streams": 1412762
+    },
+    {
+      "rank": 102,
+      "prev_rank": 103,
+      "change": {
+        "status": "up",
+        "delta": 1
+      },
+      "title": "Beautiful Things",
+      "artists": [
+        "Benson Boone"
+      ],
+      "track_id": "3xkHsmpQCBMytMJNiDf3Ii",
+      "track_url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii",
+      "peak_rank": 1,
+      "days_on_chart": 1031,
+      "streams": 1410892
+    },
+    {
+      "rank": 103,
+      "prev_rank": 93,
+      "change": {
+        "status": "down",
+        "delta": -10
+      },
+      "title": "Feel Good Inc",
+      "artists": [
+        "Gorillaz"
+      ],
+      "track_id": "0d28khcov6AiegSCpG5TuT",
+      "track_url": "https://open.spotify.com/track/0d28khcov6AiegSCpG5TuT",
+      "peak_rank": 39,
+      "days_on_chart": 677,
+      "streams": 1397018
+    },
+    {
+      "rank": 104,
+      "prev_rank": 124,
+      "change": {
+        "status": "up",
+        "delta": 20
+      },
+      "title": "COQUETA",
+      "artists": [
+        "Fuerza Regida",
+        "Grupo Frontera"
+      ],
+      "track_id": "1PREzVLuDT6PSE9sej4wnV",
+      "track_url": "https://open.spotify.com/track/1PREzVLuDT6PSE9sej4wnV",
+      "peak_rank": 76,
+      "days_on_chart": 546,
+      "streams": 1382058
+    },
+    {
+      "rank": 105,
+      "prev_rank": 106,
+      "change": {
+        "status": "up",
+        "delta": 1
+      },
+      "title": "Sunflower - Spider-Man: Into the Spider-Verse",
+      "artists": [
+        "Post Malone",
+        "Swae Lee"
+      ],
+      "track_id": "0RiRZpuVRbi7oqRdSMwhQY",
+      "track_url": "https://open.spotify.com/track/0RiRZpuVRbi7oqRdSMwhQY",
+      "peak_rank": 1,
+      "days_on_chart": 2527,
+      "streams": 1381484
+    },
+    {
+      "rank": 106,
+      "prev_rank": 94,
+      "change": {
+        "status": "down",
+        "delta": -12
+      },
+      "title": "Just the Way You Are",
+      "artists": [
+        "Bruno Mars"
+      ],
+      "track_id": "7BqBn9nzAq8spo5e7cZ0dJ",
+      "track_url": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ",
+      "peak_rank": 24,
+      "days_on_chart": 1435,
+      "streams": 1374892
+    },
+    {
+      "rank": 107,
+      "prev_rank": 104,
+      "change": {
+        "status": "down",
+        "delta": -3
+      },
+      "title": "As It Was",
+      "artists": [
+        "Harry Styles"
+      ],
+      "track_id": "4Dvkj6JhhA12EX05fT7y2e",
+      "track_url": "https://open.spotify.com/track/4Dvkj6JhhA12EX05fT7y2e",
+      "peak_rank": 1,
+      "days_on_chart": 1639,
+      "streams": 1370502
+    },
+    {
+      "rank": 108,
+      "prev_rank": 100,
+      "change": {
+        "status": "down",
+        "delta": -8
+      },
+      "title": "Don't Stop The Music",
+      "artists": [
+        "Rihanna"
+      ],
+      "track_id": "1Jo0Zg7XlrA6z0mFTZVdkn",
+      "track_url": "https://open.spotify.com/track/1Jo0Zg7XlrA6z0mFTZVdkn",
+      "peak_rank": 56,
+      "days_on_chart": 355,
+      "streams": 1370325
+    },
+    {
+      "rank": 109,
+      "prev_rank": 109,
+      "change": {
+        "status": "same",
+        "delta": 0
+      },
+      "title": "Boston",
+      "artists": [
+        "STELLA LEFTY"
+      ],
+      "track_id": "36idurZmYRjJ56KQ8JD9bN",
+      "track_url": "https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN",
+      "peak_rank": 64,
+      "days_on_chart": 146,
+      "streams": 1360472
+    },
+    {
+      "rank": 110,
+      "prev_rank": null,
+      "change": {
+        "status": "re-entry",
+        "delta": null
+      },
+      "title": "It's Beginning to Look a Lot like Christmas",
+      "artists": [
+        "Michael Bublé"
+      ],
+      "track_id": "1rv46mRwDqMEhOBZ7vODg3",
+      "track_url": "https://open.spotify.com/track/1rv46mRwDqMEhOBZ7vODg3",
+      "peak_rank": 3,
+      "days_on_chart": 463,
+      "streams": 1358013
+    },
+    {
+      "rank": 111,
+      "prev_rank": null,
+      "change": {
+        "status": "re-entry",
+        "delta": null
+      },
+      "title": "It's the Most Wonderful Time of the Year",
+      "artists": [
+        "Andy Williams"
+      ],
+      "track_id": "1IcR6RlgvDczfvoWJSSY2A",
+      "track_url": "https://open.spotify.com/track/1IcR6RlgvDczfvoWJSSY2A",
+      "peak_rank": 5,
+      "days_on_chart": 415,
+      "streams": 1351104
+    },
+    {
+      "rank": 112,
+      "prev_rank": 95,
+      "change": {
+        "status": "down",
+        "delta": -17
+      },
+      "title": "All The Stars",
+      "artists": [
+        "Kendrick Lamar",
+        "SZA"
+      ],
+      "track_id": "3GCdLUSnKSMJhs4Tj6CV3s",
+      "track_url": "https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s",
+      "peak_rank": 2,
+      "days_on_chart": 1253,
+      "streams": 1344548
+    },
+    {
+      "rank": 113,
+      "prev_rank": 111,
+      "change": {
+        "status": "down",
+        "delta": -2
+      },
+      "title": "That's What I Like",
+      "artists": [
+        "Bruno Mars"
+      ],
+      "track_id": "0KKkJNfGyhkQ5aFogxQAPU",
+      "track_url": "https://open.spotify.com/track/0KKkJNfGyhkQ5aFogxQAPU",
+      "peak_rank": 5,
+      "days_on_chart": 1492,
+      "streams": 1338172
+    },
+    {
+      "rank": 114,
+      "prev_rank": 123,
+      "change": {
+        "status": "up",
+        "delta": 9
+      },
+      "title": "EoO",
+      "artists": [
+        "Bad Bunny"
+      ],
+      "track_id": "6J5kc12BW5HuP3d7C3vvx8",
+      "track_url": "https://open.spotify.com/track/6J5kc12BW5HuP3d7C3vvx8",
+      "peak_rank": 4,
+      "days_on_chart": 674,
+      "streams": 1335024
+    },
+    {
+      "rank": 115,
+      "prev_rank": 130,
+      "change": {
+        "status": "up",
+        "delta": 15
+      },
+      "title": "Danza Kuduro",
+      "artists": [
+        "Don Omar",
+        "Lucenzo"
+      ],
+      "track_id": "2a1o6ZejUi8U3wzzOtCOYw",
+      "track_url": "https://open.spotify.com/track/2a1o6ZejUi8U3wzzOtCOYw",
+      "peak_rank": 45,
+      "days_on_chart": 1040,
+      "streams": 1333073
+    },
+    {
+      "rank": 116,
+      "prev_rank": 125,
+      "change": {
+        "status": "up",
+        "delta": 9
+      },
+      "title": "See You Again",
+      "artists": [
+        "Tyler, The Creator",
+        "Kali Uchis"
+      ],
+      "track_id": "7KA4W4McWYRpgf0fWsJZWB",
+      "track_url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB",
+      "peak_rank": 13,
+      "days_on_chart": 1304,
+      "streams": 1329958
+    },
+    {
+      "rank": 117,
+      "prev_rank": 117,
+      "change": {
+        "status": "same",
+        "delta": 0
+      },
+      "title": "Payphone",
+      "artists": [
+        "Maroon 5",
+        "Wiz Khalifa"
+      ],
+      "track_id": "1XGmzt0PVuFgQYYnV2It7A",
+      "track_url": "https://open.spotify.com/track/1XGmzt0PVuFgQYYnV2It7A",
+      "peak_rank": 46,
+      "days_on_chart": 949,
+      "streams": 1328392
+    },
+    {
+      "rank": 118,
+      "prev_rank": 107,
+      "change": {
+        "status": "down",
+        "delta": -11
+      },
+      "title": "Somewhere Only We Know",
+      "artists": [
+        "Keane"
+      ],
+      "track_id": "0ll8uFnc0nANY35E0Lfxvg",
+      "track_url": "https://open.spotify.com/track/0ll8uFnc0nANY35E0Lfxvg",
+      "peak_rank": 60,
+      "days_on_chart": 1421,
+      "streams": 1327960
+    },
+    {
+      "rank": 119,
+      "prev_rank": 97,
+      "change": {
+        "status": "down",
+        "delta": -22
+      },
+      "title": "Young And Beautiful",
+      "artists": [
+        "Lana Del Rey"
+      ],
+      "track_id": "2nMeu6UenVvwUktBCpLMK9",
+      "track_url": "https://open.spotify.com/track/2nMeu6UenVvwUktBCpLMK9",
+      "peak_rank": 74,
+      "days_on_chart": 538,
+      "streams": 1325735
+    },
+    {
+      "rank": 120,
+      "prev_rank": 121,
+      "change": {
+        "status": "up",
+        "delta": 1
+      },
+      "title": "There's Nothing Holdin' Me Back",
+      "artists": [
+        "Shawn Mendes"
+      ],
+      "track_id": "79cuOz3SPQTuFrp8WgftAu",
+      "track_url": "https://open.spotify.com/track/79cuOz3SPQTuFrp8WgftAu",
+      "peak_rank": 5,
+      "days_on_chart": 786,
+      "streams": 1320386
+    },
+    {
+      "rank": 121,
+      "prev_rank": 147,
+      "change": {
+        "status": "up",
+        "delta": 26
+      },
+      "title": "Sesi Potret",
+      "artists": [
+        "eńau",
+        "Ari Lesmana"
+      ],
+      "track_id": "4xoY4lZNoTjEuHsSmhgF1G",
+      "track_url": "https://open.spotify.com/track/4xoY4lZNoTjEuHsSmhgF1G",
+      "peak_rank": 14,
+      "days_on_chart": 180,
+      "streams": 1317872
+    },
+    {
+      "rank": 122,
+      "prev_rank": 133,
+      "change": {
+        "status": "up",
+        "delta": 11
+      },
+      "title": "Me Rehúso",
+      "artists": [
+        "Danny Ocean"
+      ],
+      "track_id": "6ifUES3keWjwXgae8pXI3o",
+      "track_url": "https://open.spotify.com/track/6ifUES3keWjwXgae8pXI3o",
+      "peak_rank": 18,
+      "days_on_chart": 842,
+      "streams": 1317355
+    },
+    {
+      "rank": 123,
+      "prev_rank": 112,
+      "change": {
+        "status": "down",
+        "delta": -11
+      },
+      "title": "Apocalypse",
+      "artists": [
+        "Cigarettes After Sex"
+      ],
+      "track_id": "1oAwsWBovWRIp7qLMGPIet",
+      "track_url": "https://open.spotify.com/track/1oAwsWBovWRIp7qLMGPIet",
+      "peak_rank": 44,
+      "days_on_chart": 1531,
+      "streams": 1316047
+    },
+    {
+      "rank": 124,
+      "prev_rank": 122,
+      "change": {
+        "status": "down",
+        "delta": -2
+      },
+      "title": "Blinding Lights",
+      "artists": [
+        "The Weeknd"
+      ],
+      "track_id": "0VjIjW4GlUZAMYd2vXMi3b",
+      "track_url": "https://open.spotify.com/track/0VjIjW4GlUZAMYd2vXMi3b",
+      "peak_rank": 1,
+      "days_on_chart": 2539,
+      "streams": 1316022
+    },
+    {
+      "rank": 125,
+      "prev_rank": 88,
+      "change": {
+        "status": "down",
+        "delta": -37
+      },
+      "title": "UNETHICAL",
+      "artists": [
+        "Faouzia"
+      ],
+      "track_id": "7G8EmDx7L5zRHb6rBJDqEG",
+      "track_url": "https://open.spotify.com/track/7G8EmDx7L5zRHb6rBJDqEG",
+      "peak_rank": 68,
+      "days_on_chart": 45,
+      "streams": 1314768
+    },
+    {
+      "rank": 126,
+      "prev_rank": 119,
+      "change": {
+        "status": "down",
+        "delta": -7
+      },
+      "title": "On The Floor",
+      "artists": [
+        "Jennifer Lopez",
+        "Pitbull"
+      ],
+      "track_id": "3C0nOe05EIt1390bVABLyN",
+      "track_url": "https://open.spotify.com/track/3C0nOe05EIt1390bVABLyN",
+      "peak_rank": 21,
+      "days_on_chart": 182,
+      "streams": 1310764
+    },
+    {
+      "rank": 127,
+      "prev_rank": 120,
+      "change": {
+        "status": "down",
+        "delta": -7
+      },
+      "title": "Only Girl (In The World)",
+      "artists": [
+        "Rihanna"
+      ],
+      "track_id": "2ENexcMEMsYk0rVJigVD3i",
+      "track_url": "https://open.spotify.com/track/2ENexcMEMsYk0rVJigVD3i",
+      "peak_rank": 45,
+      "days_on_chart": 365,
+      "streams": 1298613
+    },
+    {
+      "rank": 128,
+      "prev_rank": 116,
+      "change": {
+        "status": "down",
+        "delta": -12
+      },
+      "title": "Sparks",
+      "artists": [
+        "Coldplay"
+      ],
+      "track_id": "7D0RhFcb3CrfPuTJ0obrod",
+      "track_url": "https://open.spotify.com/track/7D0RhFcb3CrfPuTJ0obrod",
+      "peak_rank": 26,
+      "days_on_chart": 785,
+      "streams": 1292731
+    },
+    {
+      "rank": 129,
+      "prev_rank": 114,
+      "change": {
+        "status": "down",
+        "delta": -15
+      },
+      "title": "We Are The People",
+      "artists": [
+        "Empire Of The Sun"
+      ],
+      "track_id": "3zEN0ii6s4DHHBpnTp3RP7",
+      "track_url": "https://open.spotify.com/track/3zEN0ii6s4DHHBpnTp3RP7",
+      "peak_rank": 63,
+      "days_on_chart": 472,
+      "streams": 1284319
+    },
+    {
+      "rank": 130,
+      "prev_rank": 158,
+      "change": {
+        "status": "up",
+        "delta": 28
+      },
+      "title": "Hips Don't Lie",
+      "artists": [
+        "Shakira",
+        "Wyclef Jean"
+      ],
+      "track_id": "3d0WouFnFmr0K3kjeza3fF",
+      "track_url": "https://open.spotify.com/track/3d0WouFnFmr0K3kjeza3fF",
+      "peak_rank": 25,
+      "days_on_chart": 559,
+      "streams": 1281863
+    },
+    {
+      "rank": 131,
+      "prev_rank": 179,
+      "change": {
+        "status": "up",
+        "delta": 48
+      },
+      "title": "Iqro'",
+      "artists": [
+        "Raim Laode"
+      ],
+      "track_id": "2ImWVGyYTRMi64861WCCcq",
+      "track_url": "https://open.spotify.com/track/2ImWVGyYTRMi64861WCCcq",
+      "peak_rank": 68,
+      "days_on_chart": 125,
+      "streams": 1279594
+    },
+    {
+      "rank": 132,
+      "prev_rank": 127,
+      "change": {
+        "status": "down",
+        "delta": -5
+      },
+      "title": "My Moon My Man",
+      "artists": [
+        "Feist"
+      ],
+      "track_id": "4fQVQKIiidREPI0MhFEuDn",
+      "track_url": "https://open.spotify.com/track/4fQVQKIiidREPI0MhFEuDn",
+      "peak_rank": 127,
+      "days_on_chart": 3,
+      "streams": 1279574
+    },
+    {
+      "rank": 133,
+      "prev_rank": 136,
       "change": {
         "status": "up",
         "delta": 3
@@ -2359,63 +2308,112 @@
       "track_id": "5yvVYFDUpbnjcnRBgjwTzM",
       "track_url": "https://open.spotify.com/track/5yvVYFDUpbnjcnRBgjwTzM",
       "peak_rank": 7,
-      "days_on_chart": 273,
-      "streams": 1272072
+      "days_on_chart": 274,
+      "streams": 1269654
+    },
+    {
+      "rank": 134,
+      "prev_rank": 118,
+      "change": {
+        "status": "down",
+        "delta": -16
+      },
+      "title": "Patient Zero",
+      "artists": [
+        "Taylor Swift"
+      ],
+      "track_id": "11hcBLPtbMp4aQI6zGQLub",
+      "track_url": "https://open.spotify.com/track/11hcBLPtbMp4aQI6zGQLub",
+      "peak_rank": 1,
+      "days_on_chart": 51,
+      "streams": 1269374
+    },
+    {
+      "rank": 135,
+      "prev_rank": 113,
+      "change": {
+        "status": "down",
+        "delta": -22
+      },
+      "title": "honeybee",
+      "artists": [
+        "Olivia Rodrigo"
+      ],
+      "track_id": "4kX7xkopoXZCfE1D6fNwl2",
+      "track_url": "https://open.spotify.com/track/4kX7xkopoXZCfE1D6fNwl2",
+      "peak_rank": 4,
+      "days_on_chart": 154,
+      "streams": 1268014
+    },
+    {
+      "rank": 136,
+      "prev_rank": 108,
+      "change": {
+        "status": "down",
+        "delta": -28
+      },
+      "title": "Orbiter",
+      "artists": [
+        "Noah Kahan"
+      ],
+      "track_id": "77fL8ATR0dpUDLI0XLmDBV",
+      "track_url": "https://open.spotify.com/track/77fL8ATR0dpUDLI0XLmDBV",
+      "peak_rank": 79,
+      "days_on_chart": 115,
+      "streams": 1262415
     },
     {
       "rank": 137,
-      "prev_rank": 150,
+      "prev_rank": null,
       "change": {
-        "status": "up",
-        "delta": 13
+        "status": "re-entry",
+        "delta": null
       },
-      "title": "Closer",
+      "title": "Amnesia",
       "artists": [
-        "The Chainsmokers",
-        "Halsey"
+        "Al-Ghazali"
       ],
-      "track_id": "7BKLCZ1jbUBVqRi2FVlTVw",
-      "track_url": "https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw",
-      "peak_rank": 1,
-      "days_on_chart": 1996,
-      "streams": 1271656
+      "track_id": "5yUjO084QWrMxM4EqpgWFr",
+      "track_url": "https://open.spotify.com/track/5yUjO084QWrMxM4EqpgWFr",
+      "peak_rank": 137,
+      "days_on_chart": 2,
+      "streams": 1260933
     },
     {
       "rank": 138,
-      "prev_rank": 143,
+      "prev_rank": 131,
       "change": {
-        "status": "up",
-        "delta": 5
+        "status": "down",
+        "delta": -7
       },
-      "title": "Homewrecker",
+      "title": "We Found Love",
       "artists": [
-        "sombr"
+        "Rihanna",
+        "Calvin Harris"
       ],
-      "track_id": "7tICCrK3CcyRFKza7yrR0z",
-      "track_url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z",
-      "peak_rank": 19,
-      "days_on_chart": 280,
-      "streams": 1265037
+      "track_id": "1zv3WFUbZ5vPxFq9I2jAU1",
+      "track_url": "https://open.spotify.com/track/1zv3WFUbZ5vPxFq9I2jAU1",
+      "peak_rank": 18,
+      "days_on_chart": 1056,
+      "streams": 1259994
     },
     {
       "rank": 139,
-      "prev_rank": 161,
+      "prev_rank": 129,
       "change": {
-        "status": "up",
-        "delta": 22
+        "status": "down",
+        "delta": -10
       },
-      "title": "Give Me Everything",
+      "title": "Empire State Of Mind",
       "artists": [
-        "Pitbull",
-        "Ne-Yo",
-        "AFROJACK",
-        "Nayer"
+        "JAŸ-Z",
+        "Alicia Keys"
       ],
-      "track_id": "4QNpBfC0zvjKqPJcyqBy9W",
-      "track_url": "https://open.spotify.com/track/4QNpBfC0zvjKqPJcyqBy9W",
-      "peak_rank": 58,
-      "days_on_chart": 748,
-      "streams": 1264137
+      "track_id": "2igwFfvr1OAGX9SKDCPBwO",
+      "track_url": "https://open.spotify.com/track/2igwFfvr1OAGX9SKDCPBwO",
+      "peak_rank": 81,
+      "days_on_chart": 145,
+      "streams": 1251076
     },
     {
       "rank": 140,
@@ -2424,56 +2422,56 @@
         "status": "down",
         "delta": -6
       },
-      "title": "Another Love",
+      "title": "Poker Face",
       "artists": [
-        "Tom Odell"
+        "Lady Gaga"
       ],
-      "track_id": "7jtQIBanIiJOMS6RyCx6jZ",
-      "track_url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ",
-      "peak_rank": 11,
-      "days_on_chart": 1930,
-      "streams": 1259666
+      "track_id": "1QV6tiMFM6fSOKOGLMHYYg",
+      "track_url": "https://open.spotify.com/track/1QV6tiMFM6fSOKOGLMHYYg",
+      "peak_rank": 24,
+      "days_on_chart": 538,
+      "streams": 1247919
     },
     {
       "rank": 141,
-      "prev_rank": 132,
+      "prev_rank": 101,
       "change": {
         "status": "down",
-        "delta": -9
+        "delta": -40
       },
-      "title": "Legendary Lovers",
+      "title": "oh yeah?",
       "artists": [
-        "Katy Perry"
+        "Steve Lacy"
       ],
-      "track_id": "0pOZYYEJawmTAPtkzYKSa2",
-      "track_url": "https://open.spotify.com/track/0pOZYYEJawmTAPtkzYKSa2",
-      "peak_rank": 132,
-      "days_on_chart": 63,
-      "streams": 1257934
+      "track_id": "22NHkFYbgxB2Zirj29Gbp8",
+      "track_url": "https://open.spotify.com/track/22NHkFYbgxB2Zirj29Gbp8",
+      "peak_rank": 15,
+      "days_on_chart": 103,
+      "streams": 1247425
     },
     {
       "rank": 142,
-      "prev_rank": 140,
-      "change": {
-        "status": "down",
-        "delta": -2
-      },
-      "title": "Lose Control",
-      "artists": [
-        "Teddy Swims"
-      ],
-      "track_id": "17phhZDn6oGtzMe56NuWvj",
-      "track_url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj",
-      "peak_rank": 5,
-      "days_on_chart": 1083,
-      "streams": 1257368
-    },
-    {
-      "rank": 143,
-      "prev_rank": 133,
+      "prev_rank": 132,
       "change": {
         "status": "down",
         "delta": -10
+      },
+      "title": "Have You Ever Seen The Rain",
+      "artists": [
+        "Creedence Clearwater Revival"
+      ],
+      "track_id": "2LawezPeJhN4AWuSB0GtAU",
+      "track_url": "https://open.spotify.com/track/2LawezPeJhN4AWuSB0GtAU",
+      "peak_rank": 58,
+      "days_on_chart": 652,
+      "streams": 1246694
+    },
+    {
+      "rank": 143,
+      "prev_rank": 143,
+      "change": {
+        "status": "same",
+        "delta": 0
       },
       "title": "Let Me Love You",
       "artists": [
@@ -2483,398 +2481,32 @@
       "track_id": "4pdPtRcBmOSQDlJ3Fk945m",
       "track_url": "https://open.spotify.com/track/4pdPtRcBmOSQDlJ3Fk945m",
       "peak_rank": 2,
-      "days_on_chart": 1039,
-      "streams": 1253182
+      "days_on_chart": 1040,
+      "streams": 1243182
     },
     {
       "rank": 144,
-      "prev_rank": 151,
+      "prev_rank": 110,
       "change": {
-        "status": "up",
-        "delta": 7
+        "status": "down",
+        "delta": -34
       },
-      "title": "Umbrella",
+      "title": "Numb",
       "artists": [
-        "Rihanna",
-        "JAŸ-Z"
+        "Linkin Park"
       ],
-      "track_id": "2yPoXCs7BSIUrucMdK5PzV",
-      "track_url": "https://open.spotify.com/track/2yPoXCs7BSIUrucMdK5PzV",
-      "peak_rank": 15,
-      "days_on_chart": 209,
-      "streams": 1247241
+      "track_id": "2nLtzopw4rPReszdYBJU6h",
+      "track_url": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h",
+      "peak_rank": 12,
+      "days_on_chart": 939,
+      "streams": 1242956
     },
     {
       "rank": 145,
-      "prev_rank": 126,
-      "change": {
-        "status": "down",
-        "delta": -19
-      },
-      "title": "That’s So True",
-      "artists": [
-        "Gracie Abrams"
-      ],
-      "track_id": "7ne4VBA60CxGM75vw0EYad",
-      "track_url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad",
-      "peak_rank": 3,
-      "days_on_chart": 683,
-      "streams": 1247129
-    },
-    {
-      "rank": 146,
-      "prev_rank": 124,
-      "change": {
-        "status": "down",
-        "delta": -22
-      },
-      "title": "expectations",
-      "artists": [
-        "Olivia Rodrigo",
-        "Chappell Roan"
-      ],
-      "track_id": "3XmwAZpIMNpTJy8faw3ajD",
-      "track_url": "https://open.spotify.com/track/3XmwAZpIMNpTJy8faw3ajD",
-      "peak_rank": 4,
-      "days_on_chart": 29,
-      "streams": 1245568
-    },
-    {
-      "rank": 147,
-      "prev_rank": 189,
+      "prev_rank": 166,
       "change": {
         "status": "up",
-        "delta": 42
-      },
-      "title": "Sesi Potret",
-      "artists": [
-        "eńau",
-        "Ari Lesmana"
-      ],
-      "track_id": "4xoY4lZNoTjEuHsSmhgF1G",
-      "track_url": "https://open.spotify.com/track/4xoY4lZNoTjEuHsSmhgF1G",
-      "peak_rank": 14,
-      "days_on_chart": 179,
-      "streams": 1245368
-    },
-    {
-      "rank": 148,
-      "prev_rank": null,
-      "change": {
-        "status": "re-entry",
-        "delta": null
-      },
-      "title": "Rockin' Around The Christmas Tree",
-      "artists": [
-        "Brenda Lee"
-      ],
-      "track_id": "2EjXfH91m7f8HiJN1yQg97",
-      "track_url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97",
-      "peak_rank": 2,
-      "days_on_chart": 424,
-      "streams": 1244624
-    },
-    {
-      "rank": 149,
-      "prev_rank": 130,
-      "change": {
-        "status": "down",
-        "delta": -19
-      },
-      "title": "Into You",
-      "artists": [
-        "Ariana Grande"
-      ],
-      "track_id": "7yHEDfrJNd0zWOfXwydNH0",
-      "track_url": "https://open.spotify.com/track/7yHEDfrJNd0zWOfXwydNH0",
-      "peak_rank": 12,
-      "days_on_chart": 516,
-      "streams": 1244050
-    },
-    {
-      "rank": 150,
-      "prev_rank": 125,
-      "change": {
-        "status": "down",
-        "delta": -25
-      },
-      "title": "nothing",
-      "artists": [
-        "Steve Lacy"
-      ],
-      "track_id": "3lIHa4fUwNKOCSS5k3Za0i",
-      "track_url": "https://open.spotify.com/track/3lIHa4fUwNKOCSS5k3Za0i",
-      "peak_rank": 109,
-      "days_on_chart": 10,
-      "streams": 1242010
-    },
-    {
-      "rank": 151,
-      "prev_rank": 147,
-      "change": {
-        "status": "down",
-        "delta": -4
-      },
-      "title": "Unforgettable",
-      "artists": [
-        "French Montana",
-        "Swae Lee"
-      ],
-      "track_id": "3B54sVLJ402zGa6Xm4YGNe",
-      "track_url": "https://open.spotify.com/track/3B54sVLJ402zGa6Xm4YGNe",
-      "peak_rank": 3,
-      "days_on_chart": 1145,
-      "streams": 1241208
-    },
-    {
-      "rank": 152,
-      "prev_rank": 145,
-      "change": {
-        "status": "down",
-        "delta": -7
-      },
-      "title": "Perfect",
-      "artists": [
-        "Ed Sheeran"
-      ],
-      "track_id": "0tgVpDi06FyKpA1z0VMD4v",
-      "track_url": "https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v",
-      "peak_rank": 3,
-      "days_on_chart": 3289,
-      "streams": 1240843
-    },
-    {
-      "rank": 153,
-      "prev_rank": 165,
-      "change": {
-        "status": "up",
-        "delta": 12
-      },
-      "title": "Zombie - 2025 Remastered",
-      "artists": [
-        "The Cranberries"
-      ],
-      "track_id": "3gjHnylel3PTRpjS44ocqr",
-      "track_url": "https://open.spotify.com/track/3gjHnylel3PTRpjS44ocqr",
-      "peak_rank": 49,
-      "days_on_chart": 73,
-      "streams": 1238984
-    },
-    {
-      "rank": 154,
-      "prev_rank": 136,
-      "change": {
-        "status": "down",
-        "delta": -18
-      },
-      "title": "Purple Rain",
-      "artists": [
-        "Prince"
-      ],
-      "track_id": "1uvyZBs4IZYRebHIB1747m",
-      "track_url": "https://open.spotify.com/track/1uvyZBs4IZYRebHIB1747m",
-      "peak_rank": 29,
-      "days_on_chart": 132,
-      "streams": 1235695
-    },
-    {
-      "rank": 155,
-      "prev_rank": 131,
-      "change": {
-        "status": "down",
-        "delta": -24
-      },
-      "title": "Love Me Harder",
-      "artists": [
-        "Ariana Grande",
-        "The Weeknd"
-      ],
-      "track_id": "5J4ZkQpzMUFojo1CtAZYpn",
-      "track_url": "https://open.spotify.com/track/5J4ZkQpzMUFojo1CtAZYpn",
-      "peak_rank": 6,
-      "days_on_chart": 350,
-      "streams": 1235133
-    },
-    {
-      "rank": 156,
-      "prev_rank": 164,
-      "change": {
-        "status": "up",
-        "delta": 8
-      },
-      "title": "Something Just Like This",
-      "artists": [
-        "The Chainsmokers",
-        "Coldplay"
-      ],
-      "track_id": "6RUKPb4LETWmmr3iAEQktW",
-      "track_url": "https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW",
-      "peak_rank": 2,
-      "days_on_chart": 2123,
-      "streams": 1233516
-    },
-    {
-      "rank": 157,
-      "prev_rank": 141,
-      "change": {
-        "status": "down",
-        "delta": -16
-      },
-      "title": "The Man Who Can't Be Moved",
-      "artists": [
-        "The Script"
-      ],
-      "track_id": "3nqqDo8CcCLke3ZoTgiOKf",
-      "track_url": "https://open.spotify.com/track/3nqqDo8CcCLke3ZoTgiOKf",
-      "peak_rank": 79,
-      "days_on_chart": 380,
-      "streams": 1233215
-    },
-    {
-      "rank": 158,
-      "prev_rank": 169,
-      "change": {
-        "status": "up",
-        "delta": 11
-      },
-      "title": "Hips Don't Lie",
-      "artists": [
-        "Shakira",
-        "Wyclef Jean"
-      ],
-      "track_id": "3d0WouFnFmr0K3kjeza3fF",
-      "track_url": "https://open.spotify.com/track/3d0WouFnFmr0K3kjeza3fF",
-      "peak_rank": 25,
-      "days_on_chart": 558,
-      "streams": 1232263
-    },
-    {
-      "rank": 159,
-      "prev_rank": 171,
-      "change": {
-        "status": "up",
-        "delta": 12
-      },
-      "title": "Everybody Wants To Rule The World",
-      "artists": [
-        "Tears For Fears"
-      ],
-      "track_id": "4RvWPyQ5RL0ao9LPZeSouE",
-      "track_url": "https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE",
-      "peak_rank": 36,
-      "days_on_chart": 1170,
-      "streams": 1230029
-    },
-    {
-      "rank": 160,
-      "prev_rank": 154,
-      "change": {
-        "status": "down",
-        "delta": -6
-      },
-      "title": "Love The Way You Lie",
-      "artists": [
-        "Eminem",
-        "Rihanna"
-      ],
-      "track_id": "15JINEqzVMv3SvJTAXAKED",
-      "track_url": "https://open.spotify.com/track/15JINEqzVMv3SvJTAXAKED",
-      "peak_rank": 110,
-      "days_on_chart": 101,
-      "streams": 1229167
-    },
-    {
-      "rank": 161,
-      "prev_rank": 195,
-      "change": {
-        "status": "up",
-        "delta": 34
-      },
-      "title": "S&M",
-      "artists": [
-        "Rihanna"
-      ],
-      "track_id": "7ySUcLPVX7KudhnmNcgY2D",
-      "track_url": "https://open.spotify.com/track/7ySUcLPVX7KudhnmNcgY2D",
-      "peak_rank": 80,
-      "days_on_chart": 178,
-      "streams": 1224926
-    },
-    {
-      "rank": 162,
-      "prev_rank": 158,
-      "change": {
-        "status": "down",
-        "delta": -4
-      },
-      "title": "Paparazzi",
-      "artists": [
-        "Lady Gaga"
-      ],
-      "track_id": "02XnQdf7sipaKBBHixz3Zp",
-      "track_url": "https://open.spotify.com/track/02XnQdf7sipaKBBHixz3Zp",
-      "peak_rank": 91,
-      "days_on_chart": 66,
-      "streams": 1219263
-    },
-    {
-      "rank": 163,
-      "prev_rank": 162,
-      "change": {
-        "status": "down",
-        "delta": -1
-      },
-      "title": "Titanium",
-      "artists": [
-        "David Guetta",
-        "Sia"
-      ],
-      "track_id": "0lHAMNU8RGiIObScrsRgmP",
-      "track_url": "https://open.spotify.com/track/0lHAMNU8RGiIObScrsRgmP",
-      "peak_rank": 136,
-      "days_on_chart": 181,
-      "streams": 1218229
-    },
-    {
-      "rank": 164,
-      "prev_rank": 184,
-      "change": {
-        "status": "up",
-        "delta": 20
-      },
-      "title": "Without Me",
-      "artists": [
-        "Eminem"
-      ],
-      "track_id": "7lQ8MOhq6IN2w8EYcFNSUk",
-      "track_url": "https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk",
-      "peak_rank": 29,
-      "days_on_chart": 1780,
-      "streams": 1207009
-    },
-    {
-      "rank": 165,
-      "prev_rank": 168,
-      "change": {
-        "status": "up",
-        "delta": 3
-      },
-      "title": "Come As You Are - Remastered",
-      "artists": [
-        "Nirvana"
-      ],
-      "track_id": "5AEOqLsRJFAoSS4ay4Jzao",
-      "track_url": "https://open.spotify.com/track/5AEOqLsRJFAoSS4ay4Jzao",
-      "peak_rank": 143,
-      "days_on_chart": 165,
-      "streams": 1206504
-    },
-    {
-      "rank": 166,
-      "prev_rank": null,
-      "change": {
-        "status": "re-entry",
-        "delta": null
+        "delta": 21
       },
       "title": "OLIVIA LA FLAKA",
       "artists": [
@@ -2886,83 +2518,15 @@
       "track_id": "6756nr1dYiw5aNLSgIHNOI",
       "track_url": "https://open.spotify.com/track/6756nr1dYiw5aNLSgIHNOI",
       "peak_rank": 26,
-      "days_on_chart": 44,
-      "streams": 1204982
+      "days_on_chart": 45,
+      "streams": 1236271
     },
     {
-      "rank": 167,
-      "prev_rank": 160,
-      "change": {
-        "status": "down",
-        "delta": -7
-      },
-      "title": "Kiss It Better",
-      "artists": [
-        "Rihanna"
-      ],
-      "track_id": "0UHB9METy4VCXNgkcGqHqS",
-      "track_url": "https://open.spotify.com/track/0UHB9METy4VCXNgkcGqHqS",
-      "peak_rank": 74,
-      "days_on_chart": 278,
-      "streams": 1203022
-    },
-    {
-      "rank": 168,
-      "prev_rank": 152,
-      "change": {
-        "status": "down",
-        "delta": -16
-      },
-      "title": "Fade Into You",
-      "artists": [
-        "Mazzy Star"
-      ],
-      "track_id": "1LzNfuep1bnAUR9skqdHCK",
-      "track_url": "https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK",
-      "peak_rank": 73,
-      "days_on_chart": 96,
-      "streams": 1201706
-    },
-    {
-      "rank": 169,
-      "prev_rank": 179,
+      "rank": 146,
+      "prev_rank": 171,
       "change": {
         "status": "up",
-        "delta": 10
-      },
-      "title": "Blank Space",
-      "artists": [
-        "Taylor Swift"
-      ],
-      "track_id": "1u8c2t2Cy7UBoG4ArRcF5g",
-      "track_url": "https://open.spotify.com/track/1u8c2t2Cy7UBoG4ArRcF5g",
-      "peak_rank": 14,
-      "days_on_chart": 889,
-      "streams": 1200792
-    },
-    {
-      "rank": 170,
-      "prev_rank": 156,
-      "change": {
-        "status": "down",
-        "delta": -14
-      },
-      "title": "Somewhere I Belong",
-      "artists": [
-        "Linkin Park"
-      ],
-      "track_id": "3fjmSxt0PskST13CSdBUFx",
-      "track_url": "https://open.spotify.com/track/3fjmSxt0PskST13CSdBUFx",
-      "peak_rank": 63,
-      "days_on_chart": 80,
-      "streams": 1197624
-    },
-    {
-      "rank": 171,
-      "prev_rank": null,
-      "change": {
-        "status": "re-entry",
-        "delta": null
+        "delta": 25
       },
       "title": "Lush Life",
       "artists": [
@@ -2971,118 +2535,156 @@
       "track_id": "1rIKgCH4H52lrvDcz50hS8",
       "track_url": "https://open.spotify.com/track/1rIKgCH4H52lrvDcz50hS8",
       "peak_rank": 4,
-      "days_on_chart": 997,
-      "streams": 1196998
+      "days_on_chart": 998,
+      "streams": 1229178
     },
     {
-      "rank": 172,
-      "prev_rank": 167,
+      "rank": 147,
+      "prev_rank": 137,
       "change": {
         "status": "down",
-        "delta": -5
+        "delta": -10
       },
-      "title": "My Body Isn't Ready",
+      "title": "Closer",
       "artists": [
-        "sombr"
+        "The Chainsmokers",
+        "Halsey"
       ],
-      "track_id": "79RJg6MqIJlBuedcMqB9F0",
-      "track_url": "https://open.spotify.com/track/79RJg6MqIJlBuedcMqB9F0",
-      "peak_rank": 61,
-      "days_on_chart": 72,
-      "streams": 1196599
+      "track_id": "7BKLCZ1jbUBVqRi2FVlTVw",
+      "track_url": "https://open.spotify.com/track/7BKLCZ1jbUBVqRi2FVlTVw",
+      "peak_rank": 1,
+      "days_on_chart": 1997,
+      "streams": 1228158
     },
     {
-      "rank": 173,
-      "prev_rank": 153,
-      "change": {
-        "status": "down",
-        "delta": -20
-      },
-      "title": "bloodstream",
-      "artists": [
-        "Alyssa Grace"
-      ],
-      "track_id": "2oWFJJW9d1bIra3zHjR6GO",
-      "track_url": "https://open.spotify.com/track/2oWFJJW9d1bIra3zHjR6GO",
-      "peak_rank": 71,
-      "days_on_chart": 117,
-      "streams": 1195181
-    },
-    {
-      "rank": 174,
-      "prev_rank": null,
-      "change": {
-        "status": "new",
-        "delta": null
-      },
-      "title": "Eu Me Rendo - Ao Vivo",
-      "artists": [
-        "Felipe e Rodrigo"
-      ],
-      "track_id": "2hxXNu9FBZwcGQ6FnECOVH",
-      "track_url": "https://open.spotify.com/track/2hxXNu9FBZwcGQ6FnECOVH",
-      "peak_rank": 174,
-      "days_on_chart": 1,
-      "streams": 1191691
-    },
-    {
-      "rank": 175,
+      "rank": 148,
       "prev_rank": null,
       "change": {
         "status": "re-entry",
         "delta": null
       },
-      "title": "Timeless",
+      "title": "Tu Boda",
       "artists": [
-        "The Weeknd",
-        "Playboi Carti"
+        "Oscar Maydon",
+        "Fuerza Regida"
       ],
-      "track_id": "0FIDCNYYjNvPVimz5icugS",
-      "track_url": "https://open.spotify.com/track/0FIDCNYYjNvPVimz5icugS",
-      "peak_rank": 2,
-      "days_on_chart": 760,
-      "streams": 1189651
+      "track_id": "1cOboCuWYI2osTOfolMRS6",
+      "track_url": "https://open.spotify.com/track/1cOboCuWYI2osTOfolMRS6",
+      "peak_rank": 4,
+      "days_on_chart": 281,
+      "streams": 1219742
     },
     {
-      "rank": 176,
-      "prev_rank": 148,
-      "change": {
-        "status": "down",
-        "delta": -28
-      },
-      "title": "About You",
-      "artists": [
-        "The 1975"
-      ],
-      "track_id": "1fDFHXcykq4iw8Gg7s5hG9",
-      "track_url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9",
-      "peak_rank": 100,
-      "days_on_chart": 93,
-      "streams": 1186416
-    },
-    {
-      "rank": 177,
-      "prev_rank": 192,
+      "rank": 149,
+      "prev_rank": 159,
       "change": {
         "status": "up",
-        "delta": 15
+        "delta": 10
       },
-      "title": "Livin' On A Prayer",
+      "title": "Everybody Wants To Rule The World",
       "artists": [
-        "Bon Jovi"
+        "Tears For Fears"
       ],
-      "track_id": "0ee1DiZF94NSqqpG0XHUzH",
-      "track_url": "https://open.spotify.com/track/0ee1DiZF94NSqqpG0XHUzH",
-      "peak_rank": 157,
-      "days_on_chart": 32,
-      "streams": 1184980
+      "track_id": "4RvWPyQ5RL0ao9LPZeSouE",
+      "track_url": "https://open.spotify.com/track/4RvWPyQ5RL0ao9LPZeSouE",
+      "peak_rank": 36,
+      "days_on_chart": 1171,
+      "streams": 1216511
     },
     {
-      "rank": 178,
-      "prev_rank": 138,
+      "rank": 150,
+      "prev_rank": 139,
       "change": {
         "status": "down",
-        "delta": -40
+        "delta": -11
+      },
+      "title": "Give Me Everything",
+      "artists": [
+        "Pitbull",
+        "Ne-Yo",
+        "AFROJACK",
+        "Nayer"
+      ],
+      "track_id": "4QNpBfC0zvjKqPJcyqBy9W",
+      "track_url": "https://open.spotify.com/track/4QNpBfC0zvjKqPJcyqBy9W",
+      "peak_rank": 58,
+      "days_on_chart": 749,
+      "streams": 1215453
+    },
+    {
+      "rank": 151,
+      "prev_rank": null,
+      "change": {
+        "status": "re-entry",
+        "delta": null
+      },
+      "title": "Flash - Ao Vivo",
+      "artists": [
+        "Hugo & Guilherme"
+      ],
+      "track_id": "3rRihXlOCLUlkQTzglpwCi",
+      "track_url": "https://open.spotify.com/track/3rRihXlOCLUlkQTzglpwCi",
+      "peak_rank": 131,
+      "days_on_chart": 4,
+      "streams": 1212989
+    },
+    {
+      "rank": 152,
+      "prev_rank": 162,
+      "change": {
+        "status": "up",
+        "delta": 10
+      },
+      "title": "Paparazzi",
+      "artists": [
+        "Lady Gaga"
+      ],
+      "track_id": "02XnQdf7sipaKBBHixz3Zp",
+      "track_url": "https://open.spotify.com/track/02XnQdf7sipaKBBHixz3Zp",
+      "peak_rank": 91,
+      "days_on_chart": 67,
+      "streams": 1212734
+    },
+    {
+      "rank": 153,
+      "prev_rank": 142,
+      "change": {
+        "status": "down",
+        "delta": -11
+      },
+      "title": "Lose Control",
+      "artists": [
+        "Teddy Swims"
+      ],
+      "track_id": "17phhZDn6oGtzMe56NuWvj",
+      "track_url": "https://open.spotify.com/track/17phhZDn6oGtzMe56NuWvj",
+      "peak_rank": 5,
+      "days_on_chart": 1084,
+      "streams": 1212353
+    },
+    {
+      "rank": 154,
+      "prev_rank": null,
+      "change": {
+        "status": "re-entry",
+        "delta": null
+      },
+      "title": "Dunia Yang Nanti",
+      "artists": [
+        "Raim Laode"
+      ],
+      "track_id": "1sVQuuvFDKu6vklPVeiUXT",
+      "track_url": "https://open.spotify.com/track/1sVQuuvFDKu6vklPVeiUXT",
+      "peak_rank": 47,
+      "days_on_chart": 104,
+      "streams": 1208922
+    },
+    {
+      "rank": 155,
+      "prev_rank": 178,
+      "change": {
+        "status": "up",
+        "delta": 23
       },
       "title": "Flashing Lights",
       "artists": [
@@ -3092,186 +2694,187 @@
       "track_id": "5TRPicyLGbAF2LGBFbHGvO",
       "track_url": "https://open.spotify.com/track/5TRPicyLGbAF2LGBFbHGvO",
       "peak_rank": 95,
-      "days_on_chart": 374,
-      "streams": 1184752
+      "days_on_chart": 375,
+      "streams": 1208260
     },
     {
-      "rank": 179,
-      "prev_rank": 183,
-      "change": {
-        "status": "up",
-        "delta": 4
-      },
-      "title": "Iqro'",
-      "artists": [
-        "Raim Laode"
-      ],
-      "track_id": "2ImWVGyYTRMi64861WCCcq",
-      "track_url": "https://open.spotify.com/track/2ImWVGyYTRMi64861WCCcq",
-      "peak_rank": 68,
-      "days_on_chart": 124,
-      "streams": 1184316
-    },
-    {
-      "rank": 180,
-      "prev_rank": 163,
+      "rank": 156,
+      "prev_rank": 140,
       "change": {
         "status": "down",
-        "delta": -17
+        "delta": -16
       },
-      "title": "Pure",
+      "title": "Another Love",
       "artists": [
-        "SIENNA SPIRO"
+        "Tom Odell"
       ],
-      "track_id": "31IKMjvv6Oskp4hjGVeYsT",
-      "track_url": "https://open.spotify.com/track/31IKMjvv6Oskp4hjGVeYsT",
-      "peak_rank": 87,
-      "days_on_chart": 62,
-      "streams": 1180480
+      "track_id": "7jtQIBanIiJOMS6RyCx6jZ",
+      "track_url": "https://open.spotify.com/track/7jtQIBanIiJOMS6RyCx6jZ",
+      "peak_rank": 11,
+      "days_on_chart": 1931,
+      "streams": 1206229
     },
     {
-      "rank": 181,
-      "prev_rank": 155,
+      "rank": 157,
+      "prev_rank": 152,
       "change": {
         "status": "down",
-        "delta": -26
+        "delta": -5
       },
-      "title": "No One Noticed",
+      "title": "Perfect",
       "artists": [
-        "The Marías"
+        "Ed Sheeran"
       ],
-      "track_id": "3siwsiaEoU4Kuuc9WKMUy5",
-      "track_url": "https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5",
-      "peak_rank": 32,
-      "days_on_chart": 636,
-      "streams": 1178866
+      "track_id": "0tgVpDi06FyKpA1z0VMD4v",
+      "track_url": "https://open.spotify.com/track/0tgVpDi06FyKpA1z0VMD4v",
+      "peak_rank": 3,
+      "days_on_chart": 3290,
+      "streams": 1205471
     },
     {
-      "rank": 182,
-      "prev_rank": null,
-      "change": {
-        "status": "re-entry",
-        "delta": null
-      },
-      "title": "Africa",
-      "artists": [
-        "TOTO"
-      ],
-      "track_id": "2374M0fQpWi3dLnB54qaLX",
-      "track_url": "https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX",
-      "peak_rank": 66,
-      "days_on_chart": 937,
-      "streams": 1175256
-    },
-    {
-      "rank": 183,
-      "prev_rank": 159,
+      "rank": 158,
+      "prev_rank": 146,
       "change": {
         "status": "down",
-        "delta": -24
+        "delta": -12
       },
-      "title": "Let Down",
+      "title": "expectations",
       "artists": [
-        "Radiohead"
+        "Olivia Rodrigo",
+        "Chappell Roan"
       ],
-      "track_id": "2fuYa3Lx06QQJAm0MjztKr",
-      "track_url": "https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr",
-      "peak_rank": 49,
-      "days_on_chart": 421,
-      "streams": 1174541
-    },
-    {
-      "rank": 184,
-      "prev_rank": 197,
-      "change": {
-        "status": "up",
-        "delta": 13
-      },
-      "title": "Outside",
-      "artists": [
-        "Calvin Harris",
-        "Ellie Goulding"
-      ],
-      "track_id": "7MmG8p0F9N3C4AXdK6o6Eb",
-      "track_url": "https://open.spotify.com/track/7MmG8p0F9N3C4AXdK6o6Eb",
+      "track_id": "3XmwAZpIMNpTJy8faw3ajD",
+      "track_url": "https://open.spotify.com/track/3XmwAZpIMNpTJy8faw3ajD",
       "peak_rank": 4,
-      "days_on_chart": 613,
-      "streams": 1173432
+      "days_on_chart": 30,
+      "streams": 1204187
     },
     {
-      "rank": 185,
-      "prev_rank": 173,
+      "rank": 159,
+      "prev_rank": 157,
       "change": {
         "status": "down",
-        "delta": -12
+        "delta": -2
       },
-      "title": "No Role Modelz",
+      "title": "The Man Who Can't Be Moved",
       "artists": [
-        "J. Cole"
+        "The Script"
       ],
-      "track_id": "68Dni7IE4VyPkTOH9mRWHr",
-      "track_url": "https://open.spotify.com/track/68Dni7IE4VyPkTOH9mRWHr",
-      "peak_rank": 59,
-      "days_on_chart": 1603,
-      "streams": 1169358
+      "track_id": "3nqqDo8CcCLke3ZoTgiOKf",
+      "track_url": "https://open.spotify.com/track/3nqqDo8CcCLke3ZoTgiOKf",
+      "peak_rank": 79,
+      "days_on_chart": 381,
+      "streams": 1196234
     },
     {
-      "rank": 186,
-      "prev_rank": 174,
+      "rank": 160,
+      "prev_rank": 144,
       "change": {
         "status": "down",
-        "delta": -12
+        "delta": -16
       },
-      "title": "Linger - Remastered 2026",
+      "title": "Umbrella",
       "artists": [
-        "The Cranberries"
+        "Rihanna",
+        "JAŸ-Z"
       ],
-      "track_id": "1WYrTfvKjQYaYfVziGG1ET",
-      "track_url": "https://open.spotify.com/track/1WYrTfvKjQYaYfVziGG1ET",
-      "peak_rank": 68,
-      "days_on_chart": 65,
-      "streams": 1162519
+      "track_id": "2yPoXCs7BSIUrucMdK5PzV",
+      "track_url": "https://open.spotify.com/track/2yPoXCs7BSIUrucMdK5PzV",
+      "peak_rank": 15,
+      "days_on_chart": 210,
+      "streams": 1195351
     },
     {
-      "rank": 187,
-      "prev_rank": 170,
+      "rank": 161,
+      "prev_rank": 161,
+      "change": {
+        "status": "same",
+        "delta": 0
+      },
+      "title": "S&M",
+      "artists": [
+        "Rihanna"
+      ],
+      "track_id": "7ySUcLPVX7KudhnmNcgY2D",
+      "track_url": "https://open.spotify.com/track/7ySUcLPVX7KudhnmNcgY2D",
+      "peak_rank": 80,
+      "days_on_chart": 179,
+      "streams": 1195261
+    },
+    {
+      "rank": 162,
+      "prev_rank": 145,
       "change": {
         "status": "down",
         "delta": -17
       },
-      "title": "Stuck",
+      "title": "That’s So True",
       "artists": [
-        "LANY"
+        "Gracie Abrams"
       ],
-      "track_id": "0GfWxo8gFJKgQ96tBrq3qo",
-      "track_url": "https://open.spotify.com/track/0GfWxo8gFJKgQ96tBrq3qo",
-      "peak_rank": 166,
-      "days_on_chart": 4,
-      "streams": 1161504
+      "track_id": "7ne4VBA60CxGM75vw0EYad",
+      "track_url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad",
+      "peak_rank": 3,
+      "days_on_chart": 684,
+      "streams": 1194590
     },
     {
-      "rank": 188,
+      "rank": 163,
       "prev_rank": null,
       "change": {
         "status": "re-entry",
         "delta": null
       },
-      "title": "SUPERESTRELLA",
+      "title": "RIKI",
       "artists": [
-        "Aitana"
+        "Neton Vega"
       ],
-      "track_id": "6hpuesKPNa3WhV48O7Fa47",
-      "track_url": "https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47",
-      "peak_rank": 32,
-      "days_on_chart": 108,
-      "streams": 1159481
+      "track_id": "37wfBdDJidbipEG2fEwkWX",
+      "track_url": "https://open.spotify.com/track/37wfBdDJidbipEG2fEwkWX",
+      "peak_rank": 31,
+      "days_on_chart": 86,
+      "streams": 1192251
     },
     {
-      "rank": 189,
+      "rank": 164,
       "prev_rank": null,
       "change": {
         "status": "re-entry",
         "delta": null
+      },
+      "title": "Let It Snow! Let It Snow! Let It Snow!",
+      "artists": [
+        "Dean Martin"
+      ],
+      "track_id": "2uFaJJtFpPDc5Pa95XzTvg",
+      "track_url": "https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg",
+      "peak_rank": 5,
+      "days_on_chart": 297,
+      "streams": 1192172
+    },
+    {
+      "rank": 165,
+      "prev_rank": 138,
+      "change": {
+        "status": "down",
+        "delta": -27
+      },
+      "title": "Homewrecker",
+      "artists": [
+        "sombr"
+      ],
+      "track_id": "7tICCrK3CcyRFKza7yrR0z",
+      "track_url": "https://open.spotify.com/track/7tICCrK3CcyRFKza7yrR0z",
+      "peak_rank": 19,
+      "days_on_chart": 281,
+      "streams": 1191082
+    },
+    {
+      "rank": 166,
+      "prev_rank": 189,
+      "change": {
+        "status": "up",
+        "delta": 23
       },
       "title": "NUEVAYoL",
       "artists": [
@@ -3280,66 +2883,293 @@
       "track_id": "5TFD2bmFKGhoCRbX61nXY5",
       "track_url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5",
       "peak_rank": 2,
-      "days_on_chart": 648,
-      "streams": 1158010
+      "days_on_chart": 649,
+      "streams": 1190590
     },
     {
-      "rank": 190,
-      "prev_rank": 177,
+      "rank": 167,
+      "prev_rank": 151,
+      "change": {
+        "status": "down",
+        "delta": -16
+      },
+      "title": "Unforgettable",
+      "artists": [
+        "French Montana",
+        "Swae Lee"
+      ],
+      "track_id": "3B54sVLJ402zGa6Xm4YGNe",
+      "track_url": "https://open.spotify.com/track/3B54sVLJ402zGa6Xm4YGNe",
+      "peak_rank": 3,
+      "days_on_chart": 1146,
+      "streams": 1189408
+    },
+    {
+      "rank": 168,
+      "prev_rank": 155,
       "change": {
         "status": "down",
         "delta": -13
       },
-      "title": "The Less I Know The Better",
+      "title": "Love Me Harder",
       "artists": [
-        "Tame Impala"
+        "Ariana Grande",
+        "The Weeknd"
       ],
-      "track_id": "6K4t31amVTZDgR3sKmwUJJ",
-      "track_url": "https://open.spotify.com/track/6K4t31amVTZDgR3sKmwUJJ",
-      "peak_rank": 79,
-      "days_on_chart": 736,
-      "streams": 1157481
+      "track_id": "5J4ZkQpzMUFojo1CtAZYpn",
+      "track_url": "https://open.spotify.com/track/5J4ZkQpzMUFojo1CtAZYpn",
+      "peak_rank": 6,
+      "days_on_chart": 351,
+      "streams": 1182420
     },
     {
-      "rank": 191,
-      "prev_rank": 200,
+      "rank": 169,
+      "prev_rank": 154,
+      "change": {
+        "status": "down",
+        "delta": -15
+      },
+      "title": "Purple Rain",
+      "artists": [
+        "Prince"
+      ],
+      "track_id": "1uvyZBs4IZYRebHIB1747m",
+      "track_url": "https://open.spotify.com/track/1uvyZBs4IZYRebHIB1747m",
+      "peak_rank": 29,
+      "days_on_chart": 133,
+      "streams": 1181886
+    },
+    {
+      "rank": 170,
+      "prev_rank": 182,
       "change": {
         "status": "up",
-        "delta": 9
+        "delta": 12
       },
-      "title": "How You Remind Me",
+      "title": "Africa",
       "artists": [
-        "Nickelback"
+        "TOTO"
       ],
-      "track_id": "0gmbgwZ8iqyMPmXefof8Yf",
-      "track_url": "https://open.spotify.com/track/0gmbgwZ8iqyMPmXefof8Yf",
-      "peak_rank": 141,
-      "days_on_chart": 22,
-      "streams": 1157272
+      "track_id": "2374M0fQpWi3dLnB54qaLX",
+      "track_url": "https://open.spotify.com/track/2374M0fQpWi3dLnB54qaLX",
+      "peak_rank": 66,
+      "days_on_chart": 938,
+      "streams": 1181479
     },
     {
-      "rank": 192,
+      "rank": 171,
+      "prev_rank": 156,
+      "change": {
+        "status": "down",
+        "delta": -15
+      },
+      "title": "Something Just Like This",
+      "artists": [
+        "The Chainsmokers",
+        "Coldplay"
+      ],
+      "track_id": "6RUKPb4LETWmmr3iAEQktW",
+      "track_url": "https://open.spotify.com/track/6RUKPb4LETWmmr3iAEQktW",
+      "peak_rank": 2,
+      "days_on_chart": 2124,
+      "streams": 1181427
+    },
+    {
+      "rank": 172,
+      "prev_rank": 176,
+      "change": {
+        "status": "up",
+        "delta": 4
+      },
+      "title": "About You",
+      "artists": [
+        "The 1975"
+      ],
+      "track_id": "1fDFHXcykq4iw8Gg7s5hG9",
+      "track_url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9",
+      "peak_rank": 100,
+      "days_on_chart": 94,
+      "streams": 1179737
+    },
+    {
+      "rank": 173,
+      "prev_rank": 169,
+      "change": {
+        "status": "down",
+        "delta": -4
+      },
+      "title": "Blank Space",
+      "artists": [
+        "Taylor Swift"
+      ],
+      "track_id": "1u8c2t2Cy7UBoG4ArRcF5g",
+      "track_url": "https://open.spotify.com/track/1u8c2t2Cy7UBoG4ArRcF5g",
+      "peak_rank": 14,
+      "days_on_chart": 890,
+      "streams": 1178010
+    },
+    {
+      "rank": 174,
       "prev_rank": null,
       "change": {
         "status": "re-entry",
         "delta": null
       },
-      "title": "Enter Sandman - Remastered 2021",
+      "title": "APT.",
       "artists": [
-        "Metallica"
+        "ROSÉ",
+        "Bruno Mars"
       ],
-      "track_id": "3DwQ7AH3xGD9h65ezslm6q",
-      "track_url": "https://open.spotify.com/track/3DwQ7AH3xGD9h65ezslm6q",
-      "peak_rank": 151,
-      "days_on_chart": 27,
-      "streams": 1154441
+      "track_id": "4wJ5Qq0jBN4ajy7ouZIV1c",
+      "track_url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c",
+      "peak_rank": 1,
+      "days_on_chart": 749,
+      "streams": 1174594
     },
     {
-      "rank": 193,
+      "rank": 175,
+      "prev_rank": 149,
+      "change": {
+        "status": "down",
+        "delta": -26
+      },
+      "title": "Into You",
+      "artists": [
+        "Ariana Grande"
+      ],
+      "track_id": "7yHEDfrJNd0zWOfXwydNH0",
+      "track_url": "https://open.spotify.com/track/7yHEDfrJNd0zWOfXwydNH0",
+      "peak_rank": 12,
+      "days_on_chart": 517,
+      "streams": 1173923
+    },
+    {
+      "rank": 176,
+      "prev_rank": 163,
+      "change": {
+        "status": "down",
+        "delta": -13
+      },
+      "title": "Titanium",
+      "artists": [
+        "David Guetta",
+        "Sia"
+      ],
+      "track_id": "0lHAMNU8RGiIObScrsRgmP",
+      "track_url": "https://open.spotify.com/track/0lHAMNU8RGiIObScrsRgmP",
+      "peak_rank": 136,
+      "days_on_chart": 182,
+      "streams": 1173776
+    },
+    {
+      "rank": 177,
+      "prev_rank": 188,
+      "change": {
+        "status": "up",
+        "delta": 11
+      },
+      "title": "SUPERESTRELLA",
+      "artists": [
+        "Aitana"
+      ],
+      "track_id": "6hpuesKPNa3WhV48O7Fa47",
+      "track_url": "https://open.spotify.com/track/6hpuesKPNa3WhV48O7Fa47",
+      "peak_rank": 32,
+      "days_on_chart": 109,
+      "streams": 1172200
+    },
+    {
+      "rank": 178,
+      "prev_rank": 153,
+      "change": {
+        "status": "down",
+        "delta": -25
+      },
+      "title": "Zombie - 2025 Remastered",
+      "artists": [
+        "The Cranberries"
+      ],
+      "track_id": "3gjHnylel3PTRpjS44ocqr",
+      "track_url": "https://open.spotify.com/track/3gjHnylel3PTRpjS44ocqr",
+      "peak_rank": 49,
+      "days_on_chart": 74,
+      "streams": 1171178
+    },
+    {
+      "rank": 179,
+      "prev_rank": 141,
+      "change": {
+        "status": "down",
+        "delta": -38
+      },
+      "title": "Legendary Lovers",
+      "artists": [
+        "Katy Perry"
+      ],
+      "track_id": "0pOZYYEJawmTAPtkzYKSa2",
+      "track_url": "https://open.spotify.com/track/0pOZYYEJawmTAPtkzYKSa2",
+      "peak_rank": 132,
+      "days_on_chart": 64,
+      "streams": 1167935
+    },
+    {
+      "rank": 180,
+      "prev_rank": 173,
+      "change": {
+        "status": "down",
+        "delta": -7
+      },
+      "title": "bloodstream",
+      "artists": [
+        "Alyssa Grace"
+      ],
+      "track_id": "2oWFJJW9d1bIra3zHjR6GO",
+      "track_url": "https://open.spotify.com/track/2oWFJJW9d1bIra3zHjR6GO",
+      "peak_rank": 71,
+      "days_on_chart": 118,
+      "streams": 1166556
+    },
+    {
+      "rank": 181,
+      "prev_rank": 167,
+      "change": {
+        "status": "down",
+        "delta": -14
+      },
+      "title": "Kiss It Better",
+      "artists": [
+        "Rihanna"
+      ],
+      "track_id": "0UHB9METy4VCXNgkcGqHqS",
+      "track_url": "https://open.spotify.com/track/0UHB9METy4VCXNgkcGqHqS",
+      "peak_rank": 74,
+      "days_on_chart": 279,
+      "streams": 1165519
+    },
+    {
+      "rank": 182,
       "prev_rank": null,
       "change": {
         "status": "re-entry",
         "delta": null
+      },
+      "title": "Mega Hair - Ao Vivo",
+      "artists": [
+        "Netto Brito",
+        "Luan Pereira"
+      ],
+      "track_id": "6ad36mVIDEoBOwhnlnjhcl",
+      "track_url": "https://open.spotify.com/track/6ad36mVIDEoBOwhnlnjhcl",
+      "peak_rank": 125,
+      "days_on_chart": 7,
+      "streams": 1160846
+    },
+    {
+      "rank": 183,
+      "prev_rank": 193,
+      "change": {
+        "status": "up",
+        "delta": 10
       },
       "title": "Midnight Sun",
       "artists": [
@@ -3348,83 +3178,143 @@
       "track_id": "1qRV1dKLOfH1s00b9J2LUQ",
       "track_url": "https://open.spotify.com/track/1qRV1dKLOfH1s00b9J2LUQ",
       "peak_rank": 52,
-      "days_on_chart": 292,
-      "streams": 1151688
+      "days_on_chart": 293,
+      "streams": 1160583
     },
     {
-      "rank": 194,
-      "prev_rank": 180,
+      "rank": 184,
+      "prev_rank": null,
+      "change": {
+        "status": "new",
+        "delta": null
+      },
+      "title": "Veezha Veera (From \"OM Chapter 1: Udhiram - The Blood Wood\") [Tamil]",
+      "artists": [
+        "Sai Abhyankkar",
+        "Tippu",
+        "Arun Srinivasan"
+      ],
+      "track_id": "2ch1SJBrQ4Q4j6kGDJfbPz",
+      "track_url": "https://open.spotify.com/track/2ch1SJBrQ4Q4j6kGDJfbPz",
+      "peak_rank": 184,
+      "days_on_chart": 1,
+      "streams": 1160378
+    },
+    {
+      "rank": 185,
+      "prev_rank": null,
+      "change": {
+        "status": "re-entry",
+        "delta": null
+      },
+      "title": "Na Para Bang",
+      "artists": [
+        "Mariah Deborah"
+      ],
+      "track_id": "5U3UOiWDos9P2NWV7xTNwJ",
+      "track_url": "https://open.spotify.com/track/5U3UOiWDos9P2NWV7xTNwJ",
+      "peak_rank": 57,
+      "days_on_chart": 41,
+      "streams": 1158480
+    },
+    {
+      "rank": 186,
+      "prev_rank": 150,
       "change": {
         "status": "down",
-        "delta": -14
+        "delta": -36
       },
-      "title": "The Reason",
+      "title": "nothing",
       "artists": [
-        "Hoobastank"
+        "Steve Lacy"
       ],
-      "track_id": "5B5eTk7DF8KVp1zpQoY1XY",
-      "track_url": "https://open.spotify.com/track/5B5eTk7DF8KVp1zpQoY1XY",
-      "peak_rank": 116,
-      "days_on_chart": 33,
-      "streams": 1150245
+      "track_id": "3lIHa4fUwNKOCSS5k3Za0i",
+      "track_url": "https://open.spotify.com/track/3lIHa4fUwNKOCSS5k3Za0i",
+      "peak_rank": 109,
+      "days_on_chart": 11,
+      "streams": 1148704
     },
     {
-      "rank": 195,
-      "prev_rank": null,
-      "change": {
-        "status": "re-entry",
-        "delta": null
-      },
-      "title": "12 to 12",
-      "artists": [
-        "sombr"
-      ],
-      "track_id": "05od2qm2MTSKCHxy1GBp5W",
-      "track_url": "https://open.spotify.com/track/05od2qm2MTSKCHxy1GBp5W",
-      "peak_rank": 12,
-      "days_on_chart": 457,
-      "streams": 1148410
-    },
-    {
-      "rank": 196,
-      "prev_rank": 186,
+      "rank": 187,
+      "prev_rank": 181,
       "change": {
         "status": "down",
-        "delta": -10
+        "delta": -6
       },
-      "title": "Save Your Tears",
+      "title": "No One Noticed",
       "artists": [
-        "The Weeknd"
+        "The Marías"
       ],
-      "track_id": "5QO79kh1waicV47BqGRL3g",
-      "track_url": "https://open.spotify.com/track/5QO79kh1waicV47BqGRL3g",
-      "peak_rank": 2,
-      "days_on_chart": 1201,
-      "streams": 1144670
+      "track_id": "3siwsiaEoU4Kuuc9WKMUy5",
+      "track_url": "https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5",
+      "peak_rank": 32,
+      "days_on_chart": 637,
+      "streams": 1146981
     },
     {
-      "rank": 197,
+      "rank": 188,
       "prev_rank": null,
       "change": {
         "status": "re-entry",
         "delta": null
       },
-      "title": "Janice STFU",
+      "title": "Merry Christmas, Please Don't Call",
       "artists": [
-        "Drake"
+        "Bleachers"
       ],
-      "track_id": "514joG57v4yKTsfQmz7stz",
-      "track_url": "https://open.spotify.com/track/514joG57v4yKTsfQmz7stz",
-      "peak_rank": 4,
-      "days_on_chart": 180,
-      "streams": 1144341
+      "track_id": "0UOG0zUn7t8m8QcxfzR7AH",
+      "track_url": "https://open.spotify.com/track/0UOG0zUn7t8m8QcxfzR7AH",
+      "peak_rank": 90,
+      "days_on_chart": 5,
+      "streams": 1146158
     },
     {
-      "rank": 198,
+      "rank": 189,
+      "prev_rank": null,
+      "change": {
+        "status": "new",
+        "delta": null
+      },
+      "title": "Geme Baixo",
+      "artists": [
+        "MC Jvila",
+        "Menor MC",
+        "Honaiser",
+        "DJ Dael",
+        "DJ JOÃO PEREIRA",
+        "G.A",
+        "Galdino"
+      ],
+      "track_id": "1YHEv0Afxh1TqrnuWtBENJ",
+      "track_url": "https://open.spotify.com/track/1YHEv0Afxh1TqrnuWtBENJ",
+      "peak_rank": 189,
+      "days_on_chart": 1,
+      "streams": 1144595
+    },
+    {
+      "rank": 190,
       "prev_rank": null,
       "change": {
         "status": "re-entry",
         "delta": null
+      },
+      "title": "Barsaat",
+      "artists": [
+        "Banjaare",
+        "Roni"
+      ],
+      "track_id": "0DpUQ3mpAGy3bYsEKVy6t5",
+      "track_url": "https://open.spotify.com/track/0DpUQ3mpAGy3bYsEKVy6t5",
+      "peak_rank": 85,
+      "days_on_chart": 78,
+      "streams": 1142004
+    },
+    {
+      "rank": 191,
+      "prev_rank": 198,
+      "change": {
+        "status": "up",
+        "delta": 7
       },
       "title": "Espresso",
       "artists": [
@@ -3433,104 +3323,233 @@
       "track_id": "2HRqTpkrJO5ggZyyK6NPWz",
       "track_url": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz",
       "peak_rank": 1,
-      "days_on_chart": 934,
-      "streams": 1142480
+      "days_on_chart": 935,
+      "streams": 1139709
+    },
+    {
+      "rank": 192,
+      "prev_rank": 160,
+      "change": {
+        "status": "down",
+        "delta": -32
+      },
+      "title": "Love The Way You Lie",
+      "artists": [
+        "Eminem",
+        "Rihanna"
+      ],
+      "track_id": "15JINEqzVMv3SvJTAXAKED",
+      "track_url": "https://open.spotify.com/track/15JINEqzVMv3SvJTAXAKED",
+      "peak_rank": 110,
+      "days_on_chart": 102,
+      "streams": 1139042
+    },
+    {
+      "rank": 193,
+      "prev_rank": null,
+      "change": {
+        "status": "re-entry",
+        "delta": null
+      },
+      "title": "Ayúdame",
+      "artists": [
+        "LOS DOS DE TAMAULIPAS"
+      ],
+      "track_id": "45f6FcdWcuBGB4GvFuwr9f",
+      "track_url": "https://open.spotify.com/track/45f6FcdWcuBGB4GvFuwr9f",
+      "peak_rank": 87,
+      "days_on_chart": 116,
+      "streams": 1138232
+    },
+    {
+      "rank": 194,
+      "prev_rank": 164,
+      "change": {
+        "status": "down",
+        "delta": -30
+      },
+      "title": "Without Me",
+      "artists": [
+        "Eminem"
+      ],
+      "track_id": "7lQ8MOhq6IN2w8EYcFNSUk",
+      "track_url": "https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk",
+      "peak_rank": 29,
+      "days_on_chart": 1781,
+      "streams": 1136632
+    },
+    {
+      "rank": 195,
+      "prev_rank": 177,
+      "change": {
+        "status": "down",
+        "delta": -18
+      },
+      "title": "Livin' On A Prayer",
+      "artists": [
+        "Bon Jovi"
+      ],
+      "track_id": "0ee1DiZF94NSqqpG0XHUzH",
+      "track_url": "https://open.spotify.com/track/0ee1DiZF94NSqqpG0XHUzH",
+      "peak_rank": 157,
+      "days_on_chart": 33,
+      "streams": 1134792
+    },
+    {
+      "rank": 196,
+      "prev_rank": null,
+      "change": {
+        "status": "re-entry",
+        "delta": null
+      },
+      "title": "Take on Me - 2015 Remaster",
+      "artists": [
+        "a-ha"
+      ],
+      "track_id": "04aigH9HRGebQZu1JAN6X1",
+      "track_url": "https://open.spotify.com/track/04aigH9HRGebQZu1JAN6X1",
+      "peak_rank": 60,
+      "days_on_chart": 154,
+      "streams": 1131547
+    },
+    {
+      "rank": 197,
+      "prev_rank": null,
+      "change": {
+        "status": "re-entry",
+        "delta": null
+      },
+      "title": "Baby",
+      "artists": [
+        "Justin Bieber",
+        "Ludacris"
+      ],
+      "track_id": "6epn3r7S14KUqlReYr77hA",
+      "track_url": "https://open.spotify.com/track/6epn3r7S14KUqlReYr77hA",
+      "peak_rank": 5,
+      "days_on_chart": 179,
+      "streams": 1129963
+    },
+    {
+      "rank": 198,
+      "prev_rank": 168,
+      "change": {
+        "status": "down",
+        "delta": -30
+      },
+      "title": "Fade Into You",
+      "artists": [
+        "Mazzy Star"
+      ],
+      "track_id": "1LzNfuep1bnAUR9skqdHCK",
+      "track_url": "https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK",
+      "peak_rank": 73,
+      "days_on_chart": 97,
+      "streams": 1125853
     },
     {
       "rank": 199,
-      "prev_rank": 172,
+      "prev_rank": null,
       "change": {
-        "status": "down",
-        "delta": -27
+        "status": "re-entry",
+        "delta": null
       },
-      "title": "Summertime Sadness",
+      "title": "Last Friday Night (T.G.I.F.)",
       "artists": [
-        "Lana Del Rey"
+        "Katy Perry"
       ],
-      "track_id": "1FEiijYPJtyswChfcpv3p0",
-      "track_url": "https://open.spotify.com/track/1FEiijYPJtyswChfcpv3p0",
-      "peak_rank": 74,
-      "days_on_chart": 1180,
-      "streams": 1142222
+      "track_id": "3avYqdwHKEq8beXbeWCKqJ",
+      "track_url": "https://open.spotify.com/track/3avYqdwHKEq8beXbeWCKqJ",
+      "peak_rank": 101,
+      "days_on_chart": 256,
+      "streams": 1121476
     },
     {
       "rank": 200,
-      "prev_rank": 175,
+      "prev_rank": 183,
       "change": {
         "status": "down",
-        "delta": -25
+        "delta": -17
       },
-      "title": "NORMAL",
+      "title": "Let Down",
       "artists": [
-        "BTS"
+        "Radiohead"
       ],
-      "track_id": "4B4Q7zfd0aHcuhQBfCRnH5",
-      "track_url": "https://open.spotify.com/track/4B4Q7zfd0aHcuhQBfCRnH5",
-      "peak_rank": 6,
-      "days_on_chart": 212,
-      "streams": 1142153
+      "track_id": "2fuYa3Lx06QQJAm0MjztKr",
+      "track_url": "https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr",
+      "peak_rank": 49,
+      "days_on_chart": 422,
+      "streams": 1120917
     }
   ],
   "new_entries": [
     {
-      "rank": 63,
+      "rank": 184,
       "prev_rank": null,
       "change": {
         "status": "new",
         "delta": null
       },
-      "title": "Party With The Boys",
+      "title": "Veezha Veera (From \"OM Chapter 1: Udhiram - The Blood Wood\") [Tamil]",
       "artists": [
-        "Don Toliver"
+        "Sai Abhyankkar",
+        "Tippu",
+        "Arun Srinivasan"
       ],
-      "track_id": "5d2Sj3lMKJFefwU26GInQu",
-      "track_url": "https://open.spotify.com/track/5d2Sj3lMKJFefwU26GInQu",
-      "peak_rank": 63,
+      "track_id": "2ch1SJBrQ4Q4j6kGDJfbPz",
+      "track_url": "https://open.spotify.com/track/2ch1SJBrQ4Q4j6kGDJfbPz",
+      "peak_rank": 184,
       "days_on_chart": 1,
-      "streams": 1604459
+      "streams": 1160378
     },
     {
-      "rank": 174,
+      "rank": 189,
       "prev_rank": null,
       "change": {
         "status": "new",
         "delta": null
       },
-      "title": "Eu Me Rendo - Ao Vivo",
+      "title": "Geme Baixo",
       "artists": [
-        "Felipe e Rodrigo"
+        "MC Jvila",
+        "Menor MC",
+        "Honaiser",
+        "DJ Dael",
+        "DJ JOÃO PEREIRA",
+        "G.A",
+        "Galdino"
       ],
-      "track_id": "2hxXNu9FBZwcGQ6FnECOVH",
-      "track_url": "https://open.spotify.com/track/2hxXNu9FBZwcGQ6FnECOVH",
-      "peak_rank": 174,
+      "track_id": "1YHEv0Afxh1TqrnuWtBENJ",
+      "track_url": "https://open.spotify.com/track/1YHEv0Afxh1TqrnuWtBENJ",
+      "peak_rank": 189,
       "days_on_chart": 1,
-      "streams": 1191691
+      "streams": 1144595
     }
   ],
   "top_climbers": [
     {
-      "rank": 72,
-      "prev_rank": 94,
+      "rank": 42,
+      "prev_rank": 70,
       "change": {
         "status": "up",
-        "delta": 22
+        "delta": 28
       },
-      "title": "Shotta's.",
+      "title": "Snowman",
       "artists": [
-        "Season 25"
+        "Sia"
       ],
-      "track_id": "1ApUYfDejOBvrTnar2Wyf3",
-      "track_url": "https://open.spotify.com/track/1ApUYfDejOBvrTnar2Wyf3",
-      "peak_rank": 72,
-      "days_on_chart": 6,
-      "streams": 1549599
+      "track_id": "7uoFMmxln0GPXQ0AcCBXRq",
+      "track_url": "https://open.spotify.com/track/7uoFMmxln0GPXQ0AcCBXRq",
+      "peak_rank": 8,
+      "days_on_chart": 343,
+      "streams": 1860533
     },
     {
-      "rank": 82,
-      "prev_rank": 107,
+      "rank": 44,
+      "prev_rank": 82,
       "change": {
         "status": "up",
-        "delta": 25
+        "delta": 38
       },
       "title": "Santa Tell Me",
       "artists": [
@@ -3539,69 +3558,15 @@
       "track_id": "0lizgQ7Qw35od7CYaoMBZb",
       "track_url": "https://open.spotify.com/track/0lizgQ7Qw35od7CYaoMBZb",
       "peak_rank": 3,
-      "days_on_chart": 499,
-      "streams": 1479011
+      "days_on_chart": 500,
+      "streams": 1816534
     },
     {
-      "rank": 85,
-      "prev_rank": 117,
+      "rank": 51,
+      "prev_rank": 128,
       "change": {
         "status": "up",
-        "delta": 32
-      },
-      "title": "Movin' To The Sun",
-      "artists": [
-        "HUGEL",
-        "Imael Angel",
-        "Ultra Naté"
-      ],
-      "track_id": "4vTsKN15Kqo3Geo9r7FhAN",
-      "track_url": "https://open.spotify.com/track/4vTsKN15Kqo3Geo9r7FhAN",
-      "peak_rank": 46,
-      "days_on_chart": 123,
-      "streams": 1473415
-    },
-    {
-      "rank": 91,
-      "prev_rank": 112,
-      "change": {
-        "status": "up",
-        "delta": 21
-      },
-      "title": "Jamaican (Bam Bam)",
-      "artists": [
-        "HUGEL",
-        "SOLTO (FR)"
-      ],
-      "track_id": "7e4zDInS6tA2jwzphvs2Ay",
-      "track_url": "https://open.spotify.com/track/7e4zDInS6tA2jwzphvs2Ay",
-      "peak_rank": 21,
-      "days_on_chart": 225,
-      "streams": 1447557
-    },
-    {
-      "rank": 115,
-      "prev_rank": 149,
-      "change": {
-        "status": "up",
-        "delta": 34
-      },
-      "title": "Underneath the Tree",
-      "artists": [
-        "Kelly Clarkson"
-      ],
-      "track_id": "3nAp4IvdMPPWEH9uuXFFV5",
-      "track_url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5",
-      "peak_rank": 6,
-      "days_on_chart": 318,
-      "streams": 1361379
-    },
-    {
-      "rank": 128,
-      "prev_rank": 178,
-      "change": {
-        "status": "up",
-        "delta": 50
+        "delta": 77
       },
       "title": "Jingle Bell Rock",
       "artists": [
@@ -3610,15 +3575,66 @@
       "track_id": "7vQbuQcyTflfCIOu3Uzzya",
       "track_url": "https://open.spotify.com/track/7vQbuQcyTflfCIOu3Uzzya",
       "peak_rank": 4,
-      "days_on_chart": 429,
-      "streams": 1322732
+      "days_on_chart": 430,
+      "streams": 1743384
     },
     {
-      "rank": 135,
-      "prev_rank": 157,
+      "rank": 53,
+      "prev_rank": 115,
       "change": {
         "status": "up",
-        "delta": 22
+        "delta": 62
+      },
+      "title": "Underneath the Tree",
+      "artists": [
+        "Kelly Clarkson"
+      ],
+      "track_id": "3nAp4IvdMPPWEH9uuXFFV5",
+      "track_url": "https://open.spotify.com/track/3nAp4IvdMPPWEH9uuXFFV5",
+      "peak_rank": 6,
+      "days_on_chart": 319,
+      "streams": 1735641
+    },
+    {
+      "rank": 61,
+      "prev_rank": 148,
+      "change": {
+        "status": "up",
+        "delta": 87
+      },
+      "title": "Rockin' Around The Christmas Tree",
+      "artists": [
+        "Brenda Lee"
+      ],
+      "track_id": "2EjXfH91m7f8HiJN1yQg97",
+      "track_url": "https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97",
+      "peak_rank": 2,
+      "days_on_chart": 425,
+      "streams": 1645308
+    },
+    {
+      "rank": 69,
+      "prev_rank": 105,
+      "change": {
+        "status": "up",
+        "delta": 36
+      },
+      "title": "체포하겠어",
+      "artists": [
+        "ILLIT"
+      ],
+      "track_id": "30T1Q5lsYzCEKzifUWwFWM",
+      "track_url": "https://open.spotify.com/track/30T1Q5lsYzCEKzifUWwFWM",
+      "peak_rank": 69,
+      "days_on_chart": 3,
+      "streams": 1548141
+    },
+    {
+      "rank": 91,
+      "prev_rank": 135,
+      "change": {
+        "status": "up",
+        "delta": 44
       },
       "title": "Golden",
       "artists": [
@@ -3631,63 +3647,59 @@
       "track_id": "1CPZ5BxNNd0n0nF4Orb9JS",
       "track_url": "https://open.spotify.com/track/1CPZ5BxNNd0n0nF4Orb9JS",
       "peak_rank": 1,
-      "days_on_chart": 510,
-      "streams": 1273312
+      "days_on_chart": 511,
+      "streams": 1426249
     },
     {
-      "rank": 139,
-      "prev_rank": 161,
+      "rank": 95,
+      "prev_rank": 174,
       "change": {
         "status": "up",
-        "delta": 22
+        "delta": 79
       },
-      "title": "Give Me Everything",
+      "title": "Eu Me Rendo - Ao Vivo",
       "artists": [
-        "Pitbull",
-        "Ne-Yo",
-        "AFROJACK",
-        "Nayer"
+        "Felipe e Rodrigo"
       ],
-      "track_id": "4QNpBfC0zvjKqPJcyqBy9W",
-      "track_url": "https://open.spotify.com/track/4QNpBfC0zvjKqPJcyqBy9W",
-      "peak_rank": 58,
-      "days_on_chart": 748,
-      "streams": 1264137
+      "track_id": "2hxXNu9FBZwcGQ6FnECOVH",
+      "track_url": "https://open.spotify.com/track/2hxXNu9FBZwcGQ6FnECOVH",
+      "peak_rank": 95,
+      "days_on_chart": 2,
+      "streams": 1420617
     },
     {
-      "rank": 147,
-      "prev_rank": 189,
+      "rank": 98,
+      "prev_rank": 126,
       "change": {
         "status": "up",
-        "delta": 42
+        "delta": 28
       },
-      "title": "Sesi Potret",
+      "title": "Animal",
       "artists": [
-        "eńau",
-        "Ari Lesmana"
+        "KATSEYE"
       ],
-      "track_id": "4xoY4lZNoTjEuHsSmhgF1G",
-      "track_url": "https://open.spotify.com/track/4xoY4lZNoTjEuHsSmhgF1G",
-      "peak_rank": 14,
-      "days_on_chart": 179,
-      "streams": 1245368
+      "track_id": "3ouNEk0tv5TTi8VWMe1xbX",
+      "track_url": "https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX",
+      "peak_rank": 5,
+      "days_on_chart": 114,
+      "streams": 1414672
     },
     {
-      "rank": 161,
-      "prev_rank": 195,
+      "rank": 131,
+      "prev_rank": 179,
       "change": {
         "status": "up",
-        "delta": 34
+        "delta": 48
       },
-      "title": "S&M",
+      "title": "Iqro'",
       "artists": [
-        "Rihanna"
+        "Raim Laode"
       ],
-      "track_id": "7ySUcLPVX7KudhnmNcgY2D",
-      "track_url": "https://open.spotify.com/track/7ySUcLPVX7KudhnmNcgY2D",
-      "peak_rank": 80,
-      "days_on_chart": 178,
-      "streams": 1224926
+      "track_id": "2ImWVGyYTRMi64861WCCcq",
+      "track_url": "https://open.spotify.com/track/2ImWVGyYTRMi64861WCCcq",
+      "peak_rank": 68,
+      "days_on_chart": 125,
+      "streams": 1279594
     }
   ]
 }
